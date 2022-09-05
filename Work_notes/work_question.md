@@ -57,6 +57,13 @@ gc.collect()
 requests库的session会话对象可以跨请求保持某些参数**，说白了，就是比如你使用session成功的登录了某个网站，则在再次使用该session对象请求该网站的其他网页都会默认使用该session之前使用的cookie等参数。
 ```
 
+##### 2.在网站的信息采取的时候，只看到了网站的简称：
+
+```
+经验：一般有简称的信息，一定会有全称。  
+实例：https://pubmed.ncbi.nlm.nih.gov/30106689/
+```
+
 ### Problems encountered in using MySQL at work
 
 ##### 1.数据库的多表查询效率过低：
