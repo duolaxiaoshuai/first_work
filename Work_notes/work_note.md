@@ -117,3 +117,29 @@ celltype_check.py 生成annotation_au和annotation_db-SCEA的celltype和celltype
 ```
 10x+Visium和Stereo_Seq:/hwfssz1/ST_BIOINTEL/P20Z10200N0039/06.groups/05.Database/luoshuai1/mark_file
 ```
+
+##### 4.下次更新数据的需求：
+
+```
+1.E9.5，10.5，11.5，12.5，13.5，14.5，15.5，16.5，下次数据更新的时候一并把这个顺序理顺一下，包括脑子的这些，放的顺序太乱了；
+2.之后的数据整理如果有时序关系，或者不同组织的，要考虑一下放在一起；
+```
+
+## 年底目标
+
+```
+年底任务：
+1.收集够100张芯片：
+	a.如果Stereo-seq的数据能达到这个目标，就只要Stereo-seq的数据集；
+	b.Stereo-seq数据集达不到这个标准，那么就加上10X-visimd的数据集；
+2.细胞的数据量(cell_number)要达到2500万：
+	指的是单细胞的细胞数据量，不包括时空的数据；
+3.所需要完成目标收集的数据集：
+	a.broad数据集 
+	b.10X Visium / Stereo-seq 数据集 
+	c.scibet / singleR数据集 
+	d.MERFISH / SeqFISH / Visium pubmed
+	e.mouse atlas 2000+ / human atlas   
+	f.clinical data: 肿瘤数据+免疫数据 
+```
+
