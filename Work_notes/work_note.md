@@ -112,3 +112,8 @@ celltype_check.py 生成annotation_au和annotation_db-SCEA的celltype和celltype
 | log1p           | ×    | √    | 较小 | 小     |
 | sacle           | ×    | ×    | 较小 | 可能大 |
 
+##### 3.数据存放路径
+
+```
+10x+Visium和Stereo_Seq:/hwfssz1/ST_BIOINTEL/P20Z10200N0039/06.groups/05.Database/luoshuai1/mark_file
+```
