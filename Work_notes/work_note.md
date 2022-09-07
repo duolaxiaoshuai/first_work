@@ -102,3 +102,13 @@ data_table_result.py  关于data表数据的整合操作
 
 celltype_check.py 生成annotation_au和annotation_db-SCEA的celltype和celltype标准的
 ```
+
+##### 2.raw counts判断：
+
+|                 | int  | 稀疏 | 数值 | 最大值 |
+| --------------- | ---- | ---- | ---- | ------ |
+| raw             | √    | √    | 较小 | 可能大 |
+| normalize_total | ×    | √    | 较大 | 大     |
+| log1p           | ×    | √    | 较小 | 小     |
+| sacle           | ×    | ×    | 较小 | 可能大 |
+
