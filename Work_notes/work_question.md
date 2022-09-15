@@ -43,8 +43,11 @@ encoding=‘utf_8_sig’
 ```
 解决办法：
 import gc （garbage collector）
-del a
+del [[df_1,df_2]]
 gc.collect()
+df_1=pd.DataFrame()
+df_2=pd.DataFrame()
+(参考：https://stackoverflow.com/questions/39100971/how-do-i-release-memory-used-by-a-pandas-dataframe)
 ```
 
 ### Problems encountered in using Web Crawler at work
