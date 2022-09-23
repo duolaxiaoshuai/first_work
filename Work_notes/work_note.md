@@ -59,6 +59,13 @@ except Exception as e:
 df['a'].value_counts().items()  # return <dict>
 ```
 
+##### 6.当Poject的数量比较多：
+
+```
+1.区分出优先级：1，2，3；
+2.优先级的区别要合理；
+```
+
 ## Tips for using Git at work
 
 ##### 1.Git使用过程中高频出现问题：
@@ -142,4 +149,3 @@ celltype_check.py 生成annotation_au和annotation_db-SCEA的celltype和celltype
 	e.mouse atlas 2000+ / human atlas   
 	f.clinical data: 肿瘤数据+免疫数据 
 ```
-
