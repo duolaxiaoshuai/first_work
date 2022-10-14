@@ -19,6 +19,15 @@ alias stereopy_str="source activate /work_home/zhujiahui/mambaforge/envs/py-ster
 alias cddata='cd /hwfssz1/ST_BIOINTEL/P20Z10200N0039/06.user/luoshuai1'
 ```
 
+##### 3.Linux限制CPU的核数：
+
+```
+htop 查看有多少个核数
+taskset -c 4,5 nohup python -u run_scanorama.py > scanorama.log 2>& 1&
+```
+
+
+
 ## Tips for using Python at work
 
 ##### 1.conda的常用命令：
