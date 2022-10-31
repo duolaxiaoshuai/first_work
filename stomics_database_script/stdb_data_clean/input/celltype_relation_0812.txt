@@ -1,0 +1,3715 @@
+﻿celltype_name	celltype_id	name_type
+primordial germ cell	CTP0000001	name
+CL:0000670	CTP0000001	ontology
+Primordial germ cell	CTP0000001	alias
+endothelial cell	CTP0000002	name
+CL:0000115	CTP0000002	ontology
+Endothelial cell	CTP0000002	alias
+Proliferating T cell	CTP0002067	name
+fibroblast	CTP0000003	name
+CL:0000057	CTP0000003	ontology
+Fibroblast	CTP0000003	alias
+Fetal Neuron	CTP0001169	name
+T cell	CTP0000004	name
+CL:0000084	CTP0000004	ontology
+T cell	CTP0000004	name
+stromal cell	CTP0000005	name
+CL:0000499	CTP0000005	ontology
+Stromal cell	CTP0000005	alias
+smooth muscle cell	CTP0000006	name
+CL:0000192	CTP0000006	ontology
+Smooth muscle cell	CTP0000006	alias
+Erythroid cell	CTP0002591	name
+Fetal epithelial progenitor	CTP0001405	name
+Erythroid progenitor cell (RP high)	CTP0001204	name
+Fetal stromal cell	CTP0002964	name
+Fetal mesenchymal progenitor	CTP0000636	name
+Fetal skeletal muscle cell	CTP0002659	name
+hESC	CTP0002500	name
+Antigen presenting cell (RPS high)	CTP0001323	name
+B cell	CTP0000007	name
+CL:0000236	CTP0000007	ontology
+B cell	CTP0000007	name
+macrophage	CTP0000008	name
+CL:0000235	CTP0000008	ontology
+Macrophage	CTP0000008	alias
+Neutrophil (RPS high)	CTP0002975	name
+epithelial cell	CTP0000009	name
+CL:0000066	CTP0000009	ontology
+Epithelial cell	CTP0000009	alias
+Fetal enterocyte 	CTP0002961	name
+CB CD34+	CTP0000791	name
+monocyte	CTP0000010	name
+CL:0000576	CTP0000010	ontology
+Monocyte	CTP0000010	alias
+Kidney intercalated cell	CTP0001593	name
+Fetal chondrocyte	CTP0000793	name
+dendritic cell	CTP0000011	name
+CL:0000451	CTP0000011	ontology
+Dendritic cell	CTP0000011	alias
+B cell (Plasmocyte)	CTP0003196	name
+Fetal endocrine cell	CTP0001024	name
+neutrophil	CTP0000012	name
+CL:0000775	CTP0000012	ontology
+Neutrophil	CTP0000012	alias
+Endothelial cell (APC)	CTP0002922	name
+mast cell	CTP0000013	name
+CL:0000097	CTP0000013	ontology
+Mast cell	CTP0000013	alias
+Fetal neuron	CTP0001169	name
+basal cell	CTP0000014	name
+CL:0000646	CTP0000014	ontology
+Basal cell	CTP0000014	alias
+Fetal acinar cell	CTP0000758	name
+Endothelial cell (endothelial to mesenchymal transition)	CTP0000512	name
+Sinusoidal endothelial cell	CTP0003427	name
+Fetal fibroblast	CTP0002642	name
+M2 Macrophage	CTP0002750	name
+Immature sertoli cell (Pre-Sertoli cell)	CTP0001736	name
+Proximal tubule progenitor	CTP0001626	name
+Loop of Henle	CTP0002376	name
+myeloid cell	CTP0000015	name
+CL:0000763	CTP0000015	ontology
+Myeloid cell	CTP0000015	alias
+Fasciculata cell	CTP0002970	name
+Epithelial cell (intermediated)	CTP0002560	name
+Intermediated cell	CTP0001144	name
+stratified epithelial cell	CTP0000016	name
+CL:0000079	CTP0000016	ontology
+Stratified epithelial cell	CTP0000016	alias
+Gastric endocrine cell	CTP0000812	name
+Enterocyte progenitor	CTP0001177	name
+Hepatocyte/Endodermal cell	CTP0000946	name
+astrocyte	CTP0000017	name
+CL:0000127	CTP0000017	ontology
+Astrocyte	CTP0000017	alias
+goblet cell	CTP0000018	name
+CL:0000160	CTP0000018	ontology
+Goblet cell	CTP0000018	alias
+Ureteric bud cell	CTP0002199	name
+Intercalated cell	CTP0000716	name
+enterocyte	CTP0000019	name
+CL:0000584	CTP0000019	ontology
+Enterocyte	CTP0000019	alias
+AT2 cell	CTP0002149	name
+Ventricle cardiomyocyte	CTP0000798	name
+Adrenal gland inflammatory cell	CTP0002646	name
+Pancreas exocrine cell	CTP0000725	name
+Gastric chief cell	CTP0000484	name
+mesothelial cell	CTP0000020	name
+CL:0000077	CTP0000020	ontology
+Mesothelial cell	CTP0000020	alias
+chondrocyte	CTP0000021	name
+CL:0000138	CTP0000021	ontology
+Chondrocyte	CTP0000021	alias
+oligodendrocyte	CTP0000022	name
+CL:0000128	CTP0000022	ontology
+Oligodendrocyte	CTP0000022	alias
+thyroid follicular cell	CTP0000023	name
+CL:0002258	CTP0000023	ontology
+Thyroid follicular cell	CTP0000023	alias
+Myocyte	CTP0001114	name
+lymphocyte	CTP0000024	name
+CL:0000542	CTP0000024	ontology
+Lymphocyte	CTP0000024	alias
+Myoloid cell	CTP0002248	name
+B cell(Plasmocyte)	CTP0001371	name
+Cd8+ T cell	CTP0001309	name
+Fetal Proliferating cell	CTP0002013	name
+cardiocyte	CTP0000025	name
+CL:0002494	CTP0000025	ontology
+Cardiocyte	CTP0000025	alias
+Prostate epithelial cell	CTP0000968	name
+Cd4+ T cell	CTP0003038	name
+mesenchymal stem cell	CTP0000026	name
+CL:0000134	CTP0000026	ontology
+Mesenchymal stem cell	CTP0000026	alias
+Mammary gland in lactation	CTP0003130	name
+neuron	CTP0000027	name
+CL:0000540	CTP0000027	ontology
+Neuron	CTP0000027	alias
+Intercalated cells of collecting duct	CTP0003271	name
+Fetal kidney epithelial cell	CTP0003005	name
+hepatocyte	CTP0000028	name
+CL:0000182	CTP0000028	ontology
+Hepatocyte	CTP0000028	alias
+endocrine cell	CTP0000029	name
+CL:0000163	CTP0000029	ontology
+Endocrine cell	CTP0000029	alias
+acinar cell	CTP0000030	name
+CL:0000622	CTP0000030	ontology
+Acinar cell	CTP0000030	alias
+Female fetal gonad cell	CTP0002943	name
+Secretory epithelial cell	CTP0001330	name
+Alveolar type II cell	CTP0002339	name
+Microglial	CTP0000285	name
+Adipocyte	CTP0003390	name
+small luteal cell	CTP0000031	name
+CL:0000590	CTP0000031	ontology
+Small luteal cell	CTP0000031	alias
+cumulus cell	CTP0000032	name
+CL:0000711	CTP0000032	ontology
+Cumulus cell	CTP0000032	alias
+Pre sertoli cell	CTP0002810	name
+pancreatic endocrine cell	CTP0000033	name
+CL:0008024	CTP0000033	ontology
+Pancreatic endocrine cell	CTP0000033	alias
+embryonic stem cell	CTP0000034	name
+CL:0002322	CTP0000034	ontology
+Embryonic stem cell	CTP0000034	alias
+Fetal Premeiotic germ cell	CTP0000389	name
+Fetal premeiotic germ cell	CTP0000389	name
+Proximal tubule brush border cell	CTP0002823	name
+Spermatogonia	CTP0002596	name
+Spermicyte	CTP0001602	name
+Testicular cell	CTP0001923	name
+Invasive spongiotrophoblast	CTP0003333	name
+naive thymus-derived CD4-positive, alpha-beta T cell	CTP0000035	name
+CL:0000895	CTP0000035	ontology
+naive thymus-derived CD4-positive, alpha-beta T cell	CTP0000035	name
+plasmacytoid dendritic cell	CTP0000036	name
+CL:0000784	CTP0000036	ontology
+plasmacytoid dendritic cell	CTP0000036	name
+CD14-positive monocyte	CTP0000037	name
+CL:0001054	CTP0000037	ontology
+CD14-positive monocyte	CTP0000037	name
+helper T cell	CTP0000038	name
+CL:0000912	CTP0000038	ontology
+helper T cell	CTP0000038	name
+erythroid lineage cell	CTP0000039	name
+CL:0000764	CTP0000039	ontology
+erythroid lineage cell	CTP0000039	name
+mesenchymal stem cell of the bone marrow	CTP0000040	name
+CL:0002540	CTP0000040	ontology
+mesenchymal stem cell of the bone marrow	CTP0000040	name
+megakaryocyte	CTP0000041	name
+CL:0000556	CTP0000041	ontology
+megakaryocyte	CTP0000041	name
+pro-B cell	CTP0000042	name
+CL:0000826	CTP0000042	ontology
+pro-B cell	CTP0000042	name
+lymphocyte	CTP0000024	name
+CL:0000542	CTP0000024	ontology
+lymphocyte	CTP0000024	name
+plasma cell	CTP0000043	name
+CL:0000786	CTP0000043	ontology
+plasma cell	CTP0000043	name
+CD14-positive, CD16-positive monocyte	CTP0000044	name
+CL:0002397	CTP0000044	ontology
+CD14-positive, CD16-positive monocyte	CTP0000044	name
+memory B cell	CTP0000045	name
+CL:0000787	CTP0000045	ontology
+memory B cell	CTP0000045	name
+conventional dendritic cell	CTP0000046	name
+CL:0000990	CTP0000046	ontology
+conventional dendritic cell	CTP0000046	name
+cytotoxic T cell	CTP0000047	name
+CL:0000910	CTP0000047	ontology
+cytotoxic T cell	CTP0000047	name
+naive B cell	CTP0000048	name
+CL:0000788	CTP0000048	ontology
+naive B cell	CTP0000048	name
+CD8-positive, alpha-beta T cell	CTP0000049	name
+CL:0000625	CTP0000049	ontology
+CD8-positive, alpha-beta T cell	CTP0000049	name
+natural killer cell	CTP0000050	name
+CL:0000623	CTP0000050	ontology
+natural killer cell	CTP0000050	name
+bone marrow hematopoietic cell	CTP0000051	name
+CL:1001610	CTP0000051	ontology
+bone marrow hematopoietic cell	CTP0000051	name
+precursor B cell	CTP0000052	name
+CL:0000817	CTP0000052	ontology
+precursor B cell	CTP0000052	name
+T-helper cell/regulatory T cell	CTP0000837	name
+naive T cell	CTP0000053	name
+CL:0000898	CTP0000053	ontology
+naive T cell	CTP0000053	name
+T-helper 2 cell	CTP0000054	name
+CL:0000546	CTP0000054	ontology
+T-helper 2 cell	CTP0000054	name
+T-helper 1 cell	CTP0000055	name
+CL:0000545	CTP0000055	ontology
+T-helper 1 cell	CTP0000055	name
+CD4-positive, alpha-beta T cell	CTP0000056	name
+CL:0000624	CTP0000056	ontology
+CD4-positive, alpha-beta T cell	CTP0000056	name
+dendritic cell	CTP0000011	name
+CL:0000451	CTP0000011	ontology
+dendritic cell	CTP0000011	name
+naive T cell type 2	CTP0002334	name
+CD4+ naive T cell	CTP0000794	name
+hematopoietic stem cell	CTP0000057	name
+CL:0000037	CTP0000057	ontology
+hematopoietic stem cell	CTP0000057	name
+CD14+ monocyte type 1	CTP0002439	name
+cytotoxic T cell type 2	CTP0001743	name
+naive CD8+ T cell	CTP0002148	name
+erythroid cell type 1	CTP0002300	name
+mesenchymal stem cell	CTP0000026	name
+CL:0000134	CTP0000026	ontology
+mesenchymal stem cell	CTP0000026	name
+B cell T cell doublet	CTP0003440	name
+CD16+ monocyte	CTP0002918	name
+CD14+ monocyte type 2	CTP0001647	name
+T-helper cell	CTP0003446	name
+erythroid cell type 2	CTP0000763	name
+cytotoxic T cell type 1	CTP0000431	name
+CD4+ T cell	CTP0003038	name
+naive T cell type 3	CTP0000769	name
+natural killer cell type 1	CTP0003024	name
+T-helper cell including regulatory T cell population	CTP0000753	name
+natural killer cell type 2	CTP0002948	name
+naive T-helper cell type 1	CTP0000306	name
+naive T cell type 1	CTP0000333	name
+naive T-helper cell type 2	CTP0003464	name
+erythroid cell	CTP0002591	name
+blood vessel endothelial cell	CTP0000058	name
+CL:0000071	CTP0000058	ontology
+blood vessel endothelial cell	CTP0000058	name
+epithelial cell of stratum germinativum of esophagus	CTP0000059	name
+CL:1000447	CTP0000059	ontology
+epithelial cell of stratum germinativum of esophagus	CTP0000059	name
+stromal cell	CTP0000005	name
+CL:0000499	CTP0000005	ontology
+stromal cell	CTP0000005	name
+submucosal gland mucous cell	CTP0001813	name
+immature B cell	CTP0000060	name
+CL:0000816	CTP0000060	ontology
+immature B cell	CTP0000060	name
+lymphatic vessel	CTP0002714	name
+submocosal esophageal gland	CTP0003262	name
+follicular B cell	CTP0000061	name
+CL:0000843	CTP0000061	ontology
+follicular B cell	CTP0000061	name
+monocyte	CTP0000010	name
+CL:0000576	CTP0000010	ontology
+monocyte	CTP0000010	name
+T follicular helper cell	CTP0000062	name
+CL:0002038	CTP0000062	ontology
+T follicular helper cell	CTP0000062	name
+activated CD8-positive, alpha-beta T cell	CTP0000063	name
+CL:0000906	CTP0000063	ontology
+activated CD8-positive, alpha-beta T cell	CTP0000063	name
+innate lymphoid cell	CTP0000064	name
+CL:0001065	CTP0000064	ontology
+innate lymphoid cell	CTP0000064	name
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	CTP0000065	name
+CL:0000792	CTP0000065	ontology
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	CTP0000065	name
+plasmablast	CTP0000066	name
+CL:0000980	CTP0000066	ontology
+plasmablast	CTP0000066	name
+CD8-alpha alpha positive, gamma-delta intraepithelial T cell	CTP0000067	name
+CL:0000802	CTP0000067	ontology
+CD8-alpha alpha positive, gamma-delta intraepithelial T cell	CTP0000067	name
+monocyte/macrophage	CTP0002037	name
+natural killer cell/CD8+ cytotoxic T cell	CTP0000765	name
+macrophage	CTP0000008	name
+CL:0000235	CTP0000008	ontology
+macrophage	CTP0000008	name
+epithelial cell of esophagus	CTP0000068	name
+CL:0002252	CTP0000068	ontology
+epithelial cell of esophagus	CTP0000068	name
+IgM plasma cell	CTP0000069	name
+CL:0000986	CTP0000069	ontology
+IgM plasma cell	CTP0000069	name
+IgG plasma cell	CTP0000070	name
+CL:0000985	CTP0000070	ontology
+IgG plasma cell	CTP0000070	name
+platelet	CTP0000071	name
+CL:0000233	CTP0000071	ontology
+platelet	CTP0000071	name
+mast cell	CTP0000013	name
+CL:0000097	CTP0000013	ontology
+mast cell	CTP0000013	name
+type II pneumocyte	CTP0000072	name
+CL:0002063	CTP0000072	ontology
+type II pneumocyte	CTP0000072	name
+type I pneumocyte	CTP0000073	name
+CL:0002062	CTP0000073	ontology
+type I pneumocyte	CTP0000073	name
+lung ciliated cell	CTP0000074	name
+CL:1000271	CTP0000074	ontology
+lung ciliated cell	CTP0000074	name
+muscle cell	CTP0000075	name
+CL:0000187	CTP0000075	ontology
+muscle cell	CTP0000075	name
+respiratory system lymphatic vessel	CTP0001015	name
+respiratory system blood vessel	CTP0000898	name
+CD8-positive, alpha-beta cytotoxic T cell	CTP0000076	name
+CL:0000794	CTP0000076	ontology
+CD8-positive, alpha-beta cytotoxic T cell	CTP0000076	name
+regulatory T cell	CTP0000077	name
+CL:0000815	CTP0000077	ontology
+regulatory T cell	CTP0000077	name
+fibroblast of lung	CTP0000078	name
+CL:0002553	CTP0000078	ontology
+fibroblast of lung	CTP0000078	name
+dendritic cell/dividing monocyte	CTP0000505	name
+basal epithelial cell	CTP0000294	name
+CD8+ T cell	CTP0001309	name
+lymph vessel cell	CTP0003148	name
+blood vessel cell	CTP0000684	name
+CD27+ B cell	CTP0002550	name
+suprabasal epithelial cell	CTP0003348	name
+dividing epithelial cell	CTP0000912	name
+upper epithelial cell	CTP0001363	name
+stratified epithelial cell	CTP0000016	name
+CL:0000079	CTP0000016	ontology
+stratified epithelial cell	CTP0000016	name
+CD27- B cell	CTP0001953	name
+FCGR3A+ natural killer cell	CTP0001992	name
+CD160+ natural killer cell	CTP0001254	name
+hypermutation B cell	CTP0000813	name
+activated dendritic cell	CTP0000788	name
+dendritic cell type 2	CTP0002888	name
+plasma IgG expressing cell	CTP0001837	name
+B/T doublet	CTP0002625	name
+naÃ¯ve CD4+ T cell	CTP0001975	name
+dividing T cell	CTP0002984	name
+dividing natural killer cell	CTP0002643	name
+innate lymphoid cells	CTP0001629	name
+MAIT-like CD8+ T cell	CTP0002194	name
+gamma-delta CD8+ T cell	CTP0000284	name
+regulatory CD4+ T cell	CTP0001786	name
+plasma IgM expressing cell	CTP0000661	name
+cytotoxic CD8+ T cell	CTP0000392	name
+activated CD8+ T cell	CTP0002103	name
+follicular helper CD4+ T cell	CTP0002034	name
+mantle B cell	CTP0001258	name
+dendritic cell type 1	CTP0003182	name
+CD34+ progenitor	CTP0000518	name
+Unknown	CTP0002455	name
+submucosal gland duct cell	CTP0001984	name
+fibroblast	CTP0000003	name
+CL:0000057	CTP0000003	ontology
+fibroblast	CTP0000003	name
+alveolar epithelial cell type 2	CTP0003414	name
+CD8+ cytotoxic T cell	CTP0002707	name
+MARCOneg macrophage	CTP0002757	name
+alveolar epithelial cell type 1	CTP0002682	name
+MARCOpos macrophage	CTP0001483	name
+ciliated cell	CTP0000079	name
+CL:0000064	CTP0000079	ontology
+ciliated cell	CTP0000079	name
+dividing macrophage	CTP0000762	name
+CD4+ conventional T cell	CTP0000723	name
+decidual cell	CTP0000080	name
+CL:2000002	CTP0000080	ontology
+decidual cell	CTP0000080	name
+granulocyte	CTP0000081	name
+CL:0000094	CTP0000081	ontology
+granulocyte	CTP0000081	name
+decidual natural killer cell	CTP0002443	name
+placental endothelial cell	CTP0003367	name
+endometrial glandular epithelial cell	CTP0000465	name
+uterine endothelial cell	CTP0003269	name
+syncytiotrophoblast	CTP0001899	name
+fetal fibroblast	CTP0002642	name
+extravillous trophoblast	CTP0000082	name
+CL:0008036	CTP0000082	ontology
+extravillous trophoblast	CTP0000082	name
+uterine perivascular cell	CTP0002004	name
+cytotrophoblast	CTP0002644	name
+Hofbauer cell	CTP0000083	name
+CL:3000001	CTP0000083	ontology
+Hofbauer cell	CTP0000083	name
+endothelial cell of lymphatic vessel	CTP0000084	name
+CL:0002138	CTP0000084	ontology
+endothelial cell of lymphatic vessel	CTP0000084	name
+decidual macrophage (dM3)	CTP0000906	name
+placental extravillous trophoblast cell (EVT)	CTP0001900	name
+Hofbauer cell (HB)	CTP0002469	name
+fetal endothelial cell (Endo f)	CTP0000924	name
+decidual macrophage (dM2)	CTP0001022	name
+decidual macrophage (dM1)	CTP0000890	name
+proliferating decidual natural killer cell (dNK p)	CTP0002263	name
+maternal endothelial cell (Endo m)	CTP0001472	name
+plasmacytoid dendritic cell (DC2)	CTP0002576	name
+CD16-positive natural killer cell (NK CD16+)	CTP0000777	name
+decidual natural killer cell (dNK2)	CTP0003274	name
+conventional dendritic cell (DC1)	CTP0002156	name
+CD16-negative natural killer cell (NK CD16-)	CTP0002848	name
+innate lymphoid cell (ILC3)	CTP0001198	name
+syncytiotrophoblast cell (SCT)	CTP0002073	name
+decidual natural killer cell (dNK1)	CTP0001577	name
+decidual natural killer cell (dNK3)	CTP0000633	name
+decidual stromal cell (dS3)	CTP0003283	name
+fetal fibroblast (fFB1)	CTP0001793	name
+lymphatic endothelial cell (Endo l)	CTP0001350	name
+decidual perivascular cell (dP1)	CTP0003449	name
+decidual stromal cell (dS2)	CTP0002301	name
+decidual perivascular cell (dP2)	CTP0000676	name
+glandular epithelial cell (Epi2)	CTP0003197	name
+villous cytotrophoblast (VCT)	CTP0001041	name
+glandular epithelial cell (Epi1)	CTP0001508	name
+decidual stromal cell (dS1)	CTP0002252	name
+fetal fibroblast (fFB2)	CTP0003224	name
+Pericytes	CTP0003253	name
+ILC1	CTP0000085	name
+CL:0001068	CTP0000085	ontology
+ILC1	CTP0000085	name
+IgA plasma cell	CTP0000086	name
+CL:0000987	CTP0000086	ontology
+IgA plasma cell	CTP0000086	name
+activated fibroblast	CTP0002371	name
+moDC	CTP0003415	name
+cytotoxic CD8 Trm	CTP0001983	name
+Trm	CTP0003153	name
+CD8 Trm	CTP0003109	name
+TFH-like	CTP0001179	name
+Th17 Trm	CTP0003272	name
+resident macrophage	CTP0001222	name
+inflammatory macrophage	CTP0000087	name
+CL:0000863	CTP0000087	ontology
+inflammatory macrophage	CTP0000087	name
+Tregs	CTP0000593	name
+central memory T cell	CTP0000357	name
+smooth muscle cell	CTP0000006	name
+CL:0000192	CTP0000006	ontology
+smooth muscle cell	CTP0000006	name
+activated DC	CTP0003073	name
+DC1	CTP0000658	name
+CD36+ endothelial cell	CTP0000323	name
+highly activated T cell	CTP0000367	name
+pDC	CTP0001370	name
+glial cell	CTP0000088	name
+CL:0000125	CTP0000088	ontology
+glial cell	CTP0000088	name
+T (gd)	CTP0000697	name
+ACKR1+ endothelial cell	CTP0000953	name
+DC2	CTP0001686	name
+ILC3	CTP0002293	name
+T follicular helper cell like	CTP0003047	name
+CD8-positive, alpha-beta memory T cell	CTP0000089	name
+CL:0000909	CTP0000089	ontology
+CD8-positive, alpha-beta memory T cell	CTP0000089	name
+myeloid dendritic cell	CTP0000090	name
+CL:0000782	CTP0000090	ontology
+myeloid dendritic cell	CTP0000090	name
+group 1 innate lymphoid cell	CTP0000091	name
+CL:0001067	CTP0000091	ontology
+group 1 innate lymphoid cell	CTP0000091	name
+pericyte cell	CTP0000092	name
+CL:0000669	CTP0000092	ontology
+pericyte cell	CTP0000092	name
+smooth muscle fiber of ileum	CTP0000093	name
+CL:1000278	CTP0000093	ontology
+smooth muscle fiber of ileum	CTP0000093	name
+mature conventional dendritic cell	CTP0000094	name
+CL:0000841	CTP0000094	ontology
+mature conventional dendritic cell	CTP0000094	name
+central memory CD8-positive, alpha-beta T cell	CTP0000095	name
+CL:0000907	CTP0000095	ontology
+central memory CD8-positive, alpha-beta T cell	CTP0000095	name
+T-helper 17 cell	CTP0000096	name
+CL:0000899	CTP0000096	ontology
+T-helper 17 cell	CTP0000096	name
+memory T cell	CTP0000097	name
+CL:0000813	CTP0000097	ontology
+memory T cell	CTP0000097	name
+group 3 innate lymphoid cell	CTP0000098	name
+CL:0001071	CTP0000098	ontology
+group 3 innate lymphoid cell	CTP0000098	name
+tissue-resident macrophage	CTP0000099	name
+CL:0000864	CTP0000099	ontology
+tissue-resident macrophage	CTP0000099	name
+gut endothelial cell	CTP0000100	name
+CL:0000131	CTP0000100	ontology
+gut endothelial cell	CTP0000100	name
+gamma-delta T cell	CTP0000101	name
+CL:0000798	CTP0000101	ontology
+gamma-delta T cell	CTP0000101	name
+fibroblasts	CTP0002926	name
+unassigned resting T cell	CTP0000747	name
+resting CD8+ T cell	CTP0002697	name
+resting CD4+ T cell	CTP0002872	name
+unassigned activated T call	CTP0000382	name
+activated CD4+ T cell	CTP0002459	name
+activated CD4-positive, alpha-beta T cell	CTP0000102	name
+CL:0000896	CTP0000102	ontology
+activated CD4-positive, alpha-beta T cell	CTP0000102	name
+ionocyte	CTP0000103	name
+CL:0005006	CTP0000103	ontology
+ionocyte	CTP0000103	name
+nasal mucosa goblet cell	CTP0000104	name
+CL:0002480	CTP0000104	ontology
+nasal mucosa goblet cell	CTP0000104	name
+olfactory bulb tufted cell	CTP0000105	name
+CL:1001503	CTP0000105	ontology
+olfactory bulb tufted cell	CTP0000105	name
+olfactory epithelial cell	CTP0000106	name
+CL:0002167	CTP0000106	ontology
+olfactory epithelial cell	CTP0000106	name
+oligodendrocyte	CTP0000022	name
+CL:0000128	CTP0000022	ontology
+oligodendrocyte	CTP0000022	name
+brush cell	CTP0000107	name
+CL:0002204	CTP0000107	ontology
+brush cell	CTP0000107	name
+interneuron	CTP0000108	name
+CL:0000099	CTP0000108	ontology
+interneuron	CTP0000108	name
+ciliated epithelial cell	CTP0000109	name
+CL:0000067	CTP0000109	ontology
+ciliated epithelial cell	CTP0000109	name
+neutrophil	CTP0000012	name
+CL:0000775	CTP0000012	ontology
+neutrophil	CTP0000012	name
+olfactory receptor cell	CTP0000110	name
+CL:0000207	CTP0000110	ontology
+olfactory receptor cell	CTP0000110	name
+neuron	CTP0000027	name
+CL:0000540	CTP0000027	ontology
+neuron	CTP0000027	name
+basal cell of olfactory epithelium	CTP0000111	name
+CL:0002169	CTP0000111	ontology
+basal cell of olfactory epithelium	CTP0000111	name
+nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa	CTP0000112	name
+CL:2000094	CTP0000112	ontology
+nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa	CTP0000112	name
+type-6 epithelial cell of thymus	CTP0000113	name
+CL:0002295	CTP0000113	ontology
+type-6 epithelial cell of thymus	CTP0000113	name
+mitral tufted cell	CTP0001116	name
+fibroblast 1	CTP0001974	name
+blood endothelial cell	CTP0001059	name
+Obp2a+ Obp2b+ Obp1a+ Obp1b+ cell 1	CTP0000479	name
+Obp2a+ Obp2b+ Obp1a+ Obp1b+ cell 2	CTP0002287	name
+Gria2+ neuron	CTP0000275	name
+fibroblast 2	CTP0002766	name
+tuft cell	CTP0002616	name
+Muc5b+ Bpifa1+ Bpifb2+ goblet cell	CTP0002715	name
+Bpif9ba+ Bpifb9b+ Bpifb5+ cell	CTP0001057	name
+fibroblast 3	CTP0003231	name
+vomeronasal receptor expressing neuron	CTP0000981	name
+Muc5b+ Scgb1c1+ goblet cell	CTP0001488	name
+Cck+ epithelial cell	CTP0001111	name
+Arx+ neuron	CTP0000496	name
+Cyp2g1+ olfactory epithelial cell	CTP0003141	name
+myofibroblast or pericyte	CTP0001184	name
+olfactory epithelial gland cell	CTP0001469	name
+olfactory sensory neuron	CTP0001771	name
+Muc2+ Cyp2g1+ olfactory epithelial cell	CTP0002614	name
+Npy+ neuron	CTP0001180	name
+Cxcl17+ Ccl9+ epithelial cell	CTP0001995	name
+immature rostral migratory neuron	CTP0001069	name
+immature olfactory sensory neuron	CTP0003339	name
+external plexiform layer interneuron	CTP0003335	name
+myofibroblast	CTP0000521	name
+endothelial tip cell	CTP0000114	name
+CL:0000704	CTP0000114	ontology
+endothelial tip cell	CTP0000114	name
+pericyte	CTP0001416	name
+epithelial cell of large intestine	CTP0000115	name
+CL:0002253	CTP0000115	ontology
+epithelial cell of large intestine	CTP0000115	name
+myeloid cell	CTP0000015	name
+CL:0000763	CTP0000015	ontology
+myeloid cell	CTP0000015	name
+goblet cell	CTP0000018	name
+CL:0000160	CTP0000018	ontology
+goblet cell	CTP0000018	name
+consensus molecular subtype 3 epithelial cell	CTP0002770	name
+smooth muscle cell of large intestine	CTP0000116	name
+CL:1000279	CTP0000116	ontology
+smooth muscle cell of large intestine	CTP0000116	name
+consensus molecular subtype 1 epithelial cell	CTP0002009	name
+endothelial stalk cell	CTP0000117	name
+CL:0002671	CTP0000117	ontology
+endothelial stalk cell	CTP0000117	name
+enterocyte of epithelium of large intestine	CTP0000118	name
+CL:0002071	CTP0000118	ontology
+enterocyte of epithelium of large intestine	CTP0000118	name
+consensus molecular subtype 2 epithelial cell	CTP0001436	name
+brush cell of epithelium proper of large intestine	CTP0000119	name
+CL:0002203	CTP0000119	ontology
+brush cell of epithelium proper of large intestine	CTP0000119	name
+unspecified plasma cell	CTP0000434	name
+lymphatic endothelial cell	CTP0000307	name
+unknown myeloid cell	CTP0001889	name
+stalk-like endothelial cell	CTP0003366	name
+IgA+ plasma cell	CTP0002345	name
+stromal 1	CTP0000863	name
+CD19+CD20+ B cell	CTP0003021	name
+mature enterocyte	CTP0003232	name
+BEST4+ enterocyte	CTP0001036	name
+stem-like/transit amplifying epithelial cell	CTP0003454	name
+stromal 2	CTP0000343	name
+stromal 3	CTP0002119	name
+intermediate epithelial cell	CTP0002651	name
+enteric glial cell	CTP0002316	name
+tip-like endothelial cell	CTP0000400	name
+gamma delta T cell	CTP0001809	name
+pro-inflammatory myeloid cell	CTP0000985	name
+anti-inflammatory myeloid cell	CTP0001600	name
+proliferating myeloid cell	CTP0002683	name
+SPP1+B myeloid cell	CTP0000426	name
+unknown T cell	CTP0003063	name
+consensus molecular subtype 1	CTP0000402	name
+unknown	CTP0002455	name
+epithelial cell	CTP0000009	name
+CL:0000066	CTP0000009	ontology
+epithelial cell	CTP0000009	name
+SPP1+A myeloid cell	CTP0003289	name
+consensus molecular subtype 3	CTP0001310	name
+consensus molecular subtype 2	CTP0003462	name
+hematopoietic precursor cell	CTP0000120	name
+CL:0008001	CTP0000120	ontology
+hematopoietic precursor cell	CTP0000120	name
+promonocyte	CTP0000121	name
+CL:0000559	CTP0000121	ontology
+promonocyte	CTP0000121	name
+Fraction A pre-pro B cell	CTP0000122	name
+CL:0002045	CTP0000122	ontology
+Fraction A pre-pro B cell	CTP0000122	name
+early pro-B cell	CTP0000123	name
+CL:0002046	CTP0000123	ontology
+early pro-B cell	CTP0000123	name
+basophil	CTP0000124	name
+CL:0000767	CTP0000124	ontology
+basophil	CTP0000124	name
+late pro-B cell	CTP0000125	name
+CL:0002048	CTP0000125	ontology
+late pro-B cell	CTP0000125	name
+erythroblast	CTP0000126	name
+CL:0000765	CTP0000126	ontology
+erythroblast	CTP0000126	name
+granulocytopoietic cell	CTP0000127	name
+CL:0002191	CTP0000127	ontology
+granulocytopoietic cell	CTP0000127	name
+lung endothelial cell	CTP0000128	name
+CL:1001567	CTP0000128	ontology
+lung endothelial cell	CTP0000128	name
+proerythroblast	CTP0000129	name
+CL:0000547	CTP0000129	ontology
+proerythroblast	CTP0000129	name
+Langerhans cell	CTP0000130	name
+CL:0000453	CTP0000130	ontology
+Langerhans cell	CTP0000130	name
+basal cell of epidermis	CTP0000131	name
+CL:0002187	CTP0000131	ontology
+basal cell of epidermis	CTP0000131	name
+keratinocyte	CTP0000132	name
+CL:0000312	CTP0000132	ontology
+keratinocyte	CTP0000132	name
+non-classical monocyte	CTP0000133	name
+CL:0000875	CTP0000133	ontology
+non-classical monocyte	CTP0000133	name
+leukocyte	CTP0000134	name
+CL:0000738	CTP0000134	ontology
+leukocyte	CTP0000134	name
+alveolar macrophage	CTP0000135	name
+CL:0000583	CTP0000135	ontology
+alveolar macrophage	CTP0000135	name
+classical monocyte	CTP0000136	name
+CL:0000860	CTP0000136	ontology
+classical monocyte	CTP0000136	name
+ciliated columnar cell of tracheobronchial tree	CTP0000137	name
+CL:0002145	CTP0000137	ontology
+ciliated columnar cell of tracheobronchial tree	CTP0000137	name
+immature T cell	CTP0000138	name
+CL:0002420	CTP0000138	ontology
+immature T cell	CTP0000138	name
+kidney cell	CTP0000139	name
+CL:1000497	CTP0000139	ontology
+kidney cell	CTP0000139	name
+mesangial cell	CTP0000140	name
+CL:0000650	CTP0000140	ontology
+mesangial cell	CTP0000140	name
+kidney collecting duct epithelial cell	CTP0000141	name
+CL:1000454	CTP0000141	ontology
+kidney collecting duct epithelial cell	CTP0000141	name
+kidney capillary endothelial cell	CTP0000142	name
+CL:1000892	CTP0000142	ontology
+kidney capillary endothelial cell	CTP0000142	name
+kidney loop of Henle ascending limb epithelial cell	CTP0000143	name
+CL:1001016	CTP0000143	ontology
+kidney loop of Henle ascending limb epithelial cell	CTP0000143	name
+DN1 thymic pro-T cell	CTP0000144	name
+CL:0000894	CTP0000144	ontology
+DN1 thymic pro-T cell	CTP0000144	name
+kidney proximal straight tubule epithelial cell	CTP0000145	name
+CL:1000839	CTP0000145	ontology
+kidney proximal straight tubule epithelial cell	CTP0000145	name
+hepatocyte	CTP0000028	name
+CL:0000182	CTP0000028	ontology
+hepatocyte	CTP0000028	name
+duct epithelial cell	CTP0000146	name
+CL:0000068	CTP0000146	ontology
+duct epithelial cell	CTP0000146	name
+skeletal muscle satellite cell	CTP0000147	name
+CL:0000594	CTP0000147	ontology
+skeletal muscle satellite cell	CTP0000147	name
+endothelial cell	CTP0000002	name
+CL:0000115	CTP0000002	ontology
+endothelial cell	CTP0000002	name
+endothelial cell of hepatic sinusoid	CTP0000148	name
+CL:1000398	CTP0000148	ontology
+endothelial cell of hepatic sinusoid	CTP0000148	name
+bladder urothelial cell	CTP0000149	name
+CL:1001428	CTP0000149	ontology
+bladder urothelial cell	CTP0000149	name
+bladder cell	CTP0000150	name
+CL:1001319	CTP0000150	ontology
+bladder cell	CTP0000150	name
+neuroendocrine cell	CTP0000151	name
+CL:0000165	CTP0000151	ontology
+neuroendocrine cell	CTP0000151	name
+mesenchymal cell	CTP0000152	name
+CL:0008019	CTP0000152	ontology
+mesenchymal cell	CTP0000152	name
+blood cell	CTP0000153	name
+CL:0000081	CTP0000153	ontology
+blood cell	CTP0000153	name
+cardiac muscle cell	CTP0000154	name
+CL:0000746	CTP0000154	ontology
+cardiac muscle cell	CTP0000154	name
+endocardial cell	CTP0000155	name
+CL:0002350	CTP0000155	ontology
+endocardial cell	CTP0000155	name
+basal cell	CTP0000014	name
+CL:0000646	CTP0000014	ontology
+basal cell	CTP0000014	name
+luminal epithelial cell of mammary gland	CTP0000156	name
+CL:0002326	CTP0000156	ontology
+luminal epithelial cell of mammary gland	CTP0000156	name
+microglial cell	CTP0000157	name
+CL:0000129	CTP0000157	ontology
+microglial cell	CTP0000157	name
+mesenchymal stem cell of adipose	CTP0003282	name
+keratinocyte stem cell	CTP0000158	name
+CL:0002337	CTP0000158	ontology
+keratinocyte stem cell	CTP0000158	name
+granulocyte monocyte progenitor cell	CTP0000159	name
+CL:0000557	CTP0000159	ontology
+granulocyte monocyte progenitor cell	CTP0000159	name
+skeletal muscle satellite stem cell	CTP0000160	name
+CL:0008011	CTP0000160	ontology
+skeletal muscle satellite stem cell	CTP0000160	name
+astrocyte of the cerebral cortex	CTP0000161	name
+CL:0002605	CTP0000161	ontology
+astrocyte of the cerebral cortex	CTP0000161	name
+enteroendocrine cell	CTP0000162	name
+CL:0000164	CTP0000162	ontology
+enteroendocrine cell	CTP0000162	name
+large intestine goblet cell	CTP0000163	name
+CL:1000320	CTP0000163	ontology
+large intestine goblet cell	CTP0000163	name
+epithelial cell of proximal tubule	CTP0000164	name
+CL:0002306	CTP0000164	ontology
+epithelial cell of proximal tubule	CTP0000164	name
+Slamf1-negative multipotent progenitor cell	CTP0000165	name
+CL:0002035	CTP0000165	ontology
+Slamf1-negative multipotent progenitor cell	CTP0000165	name
+professional antigen presenting cell	CTP0000166	name
+CL:0000145	CTP0000166	ontology
+professional antigen presenting cell	CTP0000166	name
+pancreatic A cell	CTP0000167	name
+CL:0000171	CTP0000167	ontology
+pancreatic A cell	CTP0000167	name
+type B pancreatic cell	CTP0000168	name
+CL:0000169	CTP0000168	ontology
+type B pancreatic cell	CTP0000168	name
+pancreatic PP cell	CTP0000169	name
+CL:0002275	CTP0000169	ontology
+pancreatic PP cell	CTP0000169	name
+pancreatic ductal cell	CTP0000170	name
+CL:0002079	CTP0000170	ontology
+pancreatic ductal cell	CTP0000170	name
+pancreatic stellate cell	CTP0000171	name
+CL:0002410	CTP0000171	ontology
+pancreatic stellate cell	CTP0000171	name
+brush cell of epithelium proper of large intestine	CTP0000119	name
+CL:0002203	CTP0000119	ontology
+Brush cell of epithelium proper of large intestine	CTP0000119	alias
+megakaryocyte-erythroid progenitor cell	CTP0000172	name
+CL:0000050	CTP0000172	ontology
+megakaryocyte-erythroid progenitor cell	CTP0000172	name
+myofibroblast cell	CTP0000173	name
+CL:0000186	CTP0000173	ontology
+myofibroblast cell	CTP0000173	name
+common lymphoid progenitor	CTP0000174	name
+CL:0000051	CTP0000174	ontology
+common lymphoid progenitor	CTP0000174	name
+pancreatic acinar cell	CTP0000175	name
+CL:0002064	CTP0000175	ontology
+pancreatic acinar cell	CTP0000175	name
+epidermal cell	CTP0000176	name
+CL:0000362	CTP0000176	ontology
+epidermal cell	CTP0000176	name
+oligodendrocyte precursor cell	CTP0000177	name
+CL:0002453	CTP0000177	ontology
+oligodendrocyte precursor cell	CTP0000177	name
+erythrocyte	CTP0000178	name
+CL:0000232	CTP0000178	ontology
+erythrocyte	CTP0000178	name
+epithelial cell of lung	CTP0000179	name
+CL:0000082	CTP0000179	ontology
+epithelial cell of lung	CTP0000179	name
+stem cell of epidermis	CTP0000180	name
+CL:1000428	CTP0000180	ontology
+stem cell of epidermis	CTP0000180	name
+brain pericyte	CTP0000181	name
+CL:2000043	CTP0000181	ontology
+brain pericyte	CTP0000181	name
+Bergmann glial cell	CTP0000182	name
+CL:0000644	CTP0000182	ontology
+Bergmann glial cell	CTP0000182	name
+Slamf1-positive multipotent progenitor cell	CTP0000183	name
+CL:0002036	CTP0000183	ontology
+Slamf1-positive multipotent progenitor cell	CTP0000183	name
+mature natural killer cell	CTP0000184	name
+CL:0000824	CTP0000184	ontology
+mature natural killer cell	CTP0000184	name
+pancreatic D cell	CTP0000185	name
+CL:0000173	CTP0000185	ontology
+pancreatic D cell	CTP0000185	name
+Kupffer cell	CTP0000186	name
+CL:0000091	CTP0000186	ontology
+Kupffer cell	CTP0000186	name
+immature natural killer cell	CTP0000187	name
+CL:0000823	CTP0000187	ontology
+immature natural killer cell	CTP0000187	name
+immature NK T cell	CTP0000188	name
+CL:0000914	CTP0000188	ontology
+immature NK T cell	CTP0000188	name
+cardiac neuron	CTP0000189	name
+CL:0010022	CTP0000189	ontology
+cardiac neuron	CTP0000189	name
+pre-natural killer cell	CTP0000190	name
+CL:0000937	CTP0000190	ontology
+pre-natural killer cell	CTP0000190	name
+globose cell of olfactory epithelium	CTP0000191	name
+CL:0002171	CTP0000191	ontology
+globose cell of olfactory epithelium	CTP0000191	name
+basal proper cell of olfactory epithelium	CTP0000192	name
+CL:0002184	CTP0000192	ontology
+basal proper cell of olfactory epithelium	CTP0000192	name
+immediate neural precursor cell	CTP0000997	name
+secretory cell	CTP0000193	name
+CL:0000151	CTP0000193	ontology
+secretory cell	CTP0000193	name
+respiratory basal cell	CTP0000194	name
+CL:0002633	CTP0000194	ontology
+respiratory basal cell	CTP0000194	name
+sustentacular cell	CTP0000195	name
+CL:0000703	CTP0000195	ontology
+sustentacular cell	CTP0000195	name
+Bowman's gland cell	CTP0002521	name
+microvillous olfactory receptor neuron	CTP0000196	name
+CL:0000848	CTP0000196	ontology
+microvillous olfactory receptor neuron	CTP0000196	name
+respiratory ciliated cell	CTP0000556	name
+immune cell	CTP0002846	name
+respiratory horizontal basal cell	CTP0000824	name
+dorsal sustentacular cell	CTP0002735	name
+ventral sustentacular cell	CTP0001860	name
+respiratory secretory cell	CTP0000882	name
+microvillous brush-like cell	CTP0002675	name
+globose basal cell	CTP0002233	name
+atypical olfactory sensory neuron	CTP0002288	name
+microvillous ionocyte-like cell	CTP0000324	name
+olfactory horizontal basal cell	CTP0001755	name
+mature olfactory sensory neuron	CTP0003050	name
+fibroblast of cardiac tissue	CTP0000197	name
+CL:0002548	CTP0000197	ontology
+fibroblast of cardiac tissue	CTP0000197	name
+cardiac endothelial cell	CTP0000198	name
+CL:0010008	CTP0000198	ontology
+cardiac endothelial cell	CTP0000198	name
+cardiomyocyte	CTP0002356	name
+Schwann cell	CTP0000199	name
+CL:0002573	CTP0000199	ontology
+Schwann cell	CTP0000199	name
+cardiac endothelial cell of lymphatic vessel	CTP0002999	name
+proliferating cell	CTP0001981	name
+epicardium	CTP0000472	name
+dendritic-like cell	CTP0000578	name
+smooth muscle cell 2	CTP0002972	name
+cardiac endothelial cell 2	CTP0000300	name
+fibroblast of cardiac tissue 1	CTP0001690	name
+macrophage 2	CTP0000603	name
+fibroblast of cardiac tissue 9	CTP0001244	name
+smooth muscle cell 1	CTP0003006	name
+cardiac endothelial cell 3	CTP0001892	name
+fibroblast of cardiac tissue 8	CTP0003164	name
+macrophage 1	CTP0003323	name
+endocardial cell 1	CTP0001199	name
+macrophage 4	CTP0000569	name
+fibroblast of cardiac tissue 4	CTP0002868	name
+endocardial cell 2	CTP0002545	name
+fibroblast of cardiac tissue 2	CTP0002677	name
+fibroblast of cardiac tissue 7	CTP0001680	name
+macrophage 3	CTP0002605	name
+fibroblast of cardiac tissue 6	CTP0001633	name
+fibroblast of cardiac tissue 3	CTP0000745	name
+fibroblast of cardiac tissue 5	CTP0000889	name
+cardiac endothelial cell 1	CTP0003202	name
+immature neuron 2	CTP0001223	name
+granule cell 3	CTP0002753	name
+perivasular macrophage	CTP0002102	name
+granule cell 1	CTP0003334	name
+astrocyte 5	CTP0002326	name
+microglia	CTP0003422	name
+granule cell 0	CTP0001445	name
+intermediate precursor cell	CTP0003205	name
+vasoactive intestinal peptide positive neuron	CTP0001661	name
+vascular leptomeningeal cell	CTP0000200	name
+CL:4023051	CTP0000200	ontology
+vascular leptomeningeal cell	CTP0000200	name
+calretinin neuron	CTP0001551	name
+astrocyte 14	CTP0000626	name
+granule cell 24	CTP0003142	name
+anterior olfactory nucleus mitral/tufted cell	CTP0002838	name
+external tufted cell	CTP0001134	name
+interneuron 12	CTP0003200	name
+mitral/tufted cell	CTP0000298	name
+olfactory ensheathing cell	CTP0000201	name
+CL:0011028	CTP0000201	ontology
+olfactory ensheathing cell	CTP0000201	name
+vascular cell	CTP0002235	name
+astrocyte	CTP0000017	name
+CL:0000127	CTP0000017	ontology
+astrocyte	CTP0000017	name
+olfactory bulb interneuron	CTP0000202	name
+CL:1001434	CTP0000202	ontology
+olfactory bulb interneuron	CTP0000202	name
+immature neuron	CTP0003084	name
+dopaminergic neuron	CTP0000203	name
+CL:0000700	CTP0000203	ontology
+dopaminergic neuron	CTP0000203	name
+olfactory granule cell	CTP0000204	name
+CL:0000626	CTP0000204	ontology
+olfactory granule cell	CTP0000204	name
+immature neuron 7	CTP0001007	name
+interneuron 8	CTP0001849	name
+leptomeningeal cell	CTP0000205	name
+CL:0000708	CTP0000205	ontology
+leptomeningeal cell	CTP0000205	name
+central nervous system pericyte	CTP0000206	name
+CL:0002575	CTP0000206	ontology
+central nervous system pericyte	CTP0000206	name
+neural progenitor cell	CTP0000207	name
+CL:0011020	CTP0000207	ontology
+neural progenitor cell	CTP0000207	name
+oligodendrocyte A	CTP0003128	name
+cortical interneuron	CTP0000208	name
+CL:0008031	CTP0000208	ontology
+cortical interneuron	CTP0000208	name
+cortical layer 2-3 excitatory neuron	CTP0000335	name
+cerebral cortex endothelial cell	CTP0000209	name
+CL:1001602	CTP0000209	ontology
+cerebral cortex endothelial cell	CTP0000209	name
+pyramidal neuron	CTP0000210	name
+CL:0000598	CTP0000210	ontology
+pyramidal neuron	CTP0000210	name
+cortical layer 4 excitatory neuron	CTP0002256	name
+excitatory neuron	CTP0000211	name
+CL:0008030	CTP0000211	ontology
+excitatory neuron	CTP0000211	name
+phagocyte	CTP0000212	name
+CL:0000234	CTP0000212	ontology
+phagocyte	CTP0000212	name
+cerebral cortex glial cell	CTP0000213	name
+CL:1001579	CTP0000213	ontology
+cerebral cortex glial cell	CTP0000213	name
+cortical layer 5-6 excitatory neuron	CTP0000732	name
+SST-expressing interneuron	CTP0000750	name
+oligodendrocyte C	CTP0000947	name
+SV2C-expressing interneuron	CTP0003032	name
+pyramidal neuron?	CTP0001843	name
+oligodendrocyte B	CTP0002803	name
+mixed excitatory neuron	CTP0000466	name
+VIP-expressing interneuron	CTP0001449	name
+cortical layer 2-3 excitatory neuron B	CTP0001679	name
+PVALB-expressing interneuron	CTP0000560	name
+cortical layer 2-3 excitatory neuron A	CTP0002693	name
+mixed glial cell?	CTP0001138	name
+kidney loop of Henle epithelial cell	CTP0000214	name
+CL:1000909	CTP0000214	ontology
+kidney loop of Henle epithelial cell	CTP0000214	name
+ureteric bud	CTP0000528	name
+pelvic epithelium cell - distal ureteric bud	CTP0003306	name
+nephron progenitor	CTP0002229	name
+renal filtration cell	CTP0000215	name
+CL:0002522	CTP0000215	ontology
+renal filtration cell	CTP0000215	name
+connecting nephron tubules/principal cell - proximal ureteric bud	CTP0000871	name
+kidney interstitial myofibroblast	CTP0000216	name
+CL:1000691	CTP0000216	ontology
+kidney interstitial myofibroblast	CTP0000216	name
+renal vesicle	CTP0001485	name
+glomerular visceral epithelial cell	CTP0000217	name
+CL:0000653	CTP0000217	ontology
+glomerular visceral epithelial cell	CTP0000217	name
+metanephric cap	CTP0003394	name
+S shaped body	CTP0002784	name
+fibroblast type 1	CTP0000647	name
+macrophage type 1	CTP0002856	name
+stroma progenitor	CTP0001817	name
+myofibroblast type 2	CTP0002465	name
+proliferating myofibroblast	CTP0001975	name
+proximal ureteric bud cell	CTP0002105	name
+myofibroblast cell type 1	CTP0002370	name
+fibroblast type 2	CTP0002816	name
+proliferating fibroblast	CTP0003144	name
+connecting nephron tubules/principal cells - proximal ureteric bud	CTP0002089	name
+medial S shaped body cell	CTP0000950	name
+distal renal vesicle cell	CTP0000986	name
+proliferating natural killer cell	CTP0002877	name
+proliferating conventional dendritic cell type 2	CTP0001832	name
+conventional dendritic cell type 2	CTP0000852	name
+macrophage type 2	CTP0000736	name
+distal S shaped body cell	CTP0002879	name
+prolifirating B cell	CTP0000443	name
+proliferating distal renal vesicle cell	CTP0002125	name
+cap mesenchyme cell	CTP0003036	name
+conventional dendritic cell type 1	CTP0001564	name
+prolifirating stroma progenitor	CTP0001420	name
+proliferating cap mesenchyme cell	CTP0002595	name
+proximal S shaped body cell	CTP0001612	name
+proximal renal vesicle cell	CTP0002552	name
+innate lymphocyte-like cell	CTP0001500	name
+prolifirating macrophage	CTP0001357	name
+proliferating monocyte	CTP0002206	name
+myeloid progenitor	CTP0000627	name
+hematopoietic multipotent progenitor	CTP0002712	name
+erythroid progenitor	CTP0003100	name
+monocyte progenitor	CTP0000934	name
+dendritic progenitor	CTP0002394	name
+megakaryocyte progenitor	CTP0001207	name
+erythroid progenitor cell	CTP0000218	name
+CL:0000038	CTP0000218	ontology
+erythroid progenitor cell	CTP0000218	name
+megakaryocyte progenitor cell	CTP0000219	name
+CL:0000553	CTP0000219	ontology
+megakaryocyte progenitor cell	CTP0000219	name
+hematopoietic multipotent progenitor cell	CTP0000220	name
+CL:0000837	CTP0000220	ontology
+hematopoietic multipotent progenitor cell	CTP0000220	name
+common dendritic progenitor	CTP0000221	name
+CL:0001029	CTP0000221	ontology
+common dendritic progenitor	CTP0000221	name
+common myeloid progenitor	CTP0000222	name
+CL:0000049	CTP0000222	ontology
+common myeloid progenitor	CTP0000222	name
+Sertoli cell	CTP0000223	name
+CL:0000216	CTP0000223	ontology
+Sertoli cell	CTP0000223	name
+spermatocyte	CTP0000224	name
+CL:0000017	CTP0000224	ontology
+spermatocyte	CTP0000224	name
+spermatogonium	CTP0000225	name
+CL:0000020	CTP0000225	ontology
+spermatogonium	CTP0000225	name
+Leydig cell and peritubular myoid cell	CTP0000801	name
+spermatid	CTP0000226	name
+CL:0000018	CTP0000226	ontology
+spermatid	CTP0000226	name
+differentiated_P7	CTP0002228	name
+differentiated	CTP0001785	name
+resting basal_P28Adult	CTP0000666	name
+cycling basal_P28Adult	CTP0002186	name
+differentiated_P28Adult	CTP0000838	name
+resting basal_P7	CTP0001230	name
+cycling basal_P7	CTP0002689	name
+stromal cell type 2a	CTP0001783	name
+pericyte type 1	CTP0000803	name
+endothelial cell type 2	CTP0002945	name
+stromal cel type 2b	CTP0001402	name
+stromal cell type 3	CTP0002435	name
+stromal cell type 4	CTP0002175	name
+pericyte type 2	CTP0000768	name
+smooth muscle cell of colon	CTP0000227	name
+CL:1000280	CTP0000227	ontology
+smooth muscle cell of colon	CTP0000227	name
+cortical intermediate progenitor	CTP0003115	name
+canonical glycolysis	CTP0002537	name
+mesen/rhombencephalon inhibitory neuron	CTP0003453	name
+diencephalon inhibitory neuron	CTP0003373	name
+cortical neural progenitor cell	CTP0002553	name
+lateral ganglionic eminence inhibitory neuron	CTP0000989	name
+ganglionic eminence neural progenitor cell	CTP0000589	name
+diencephalon excitatory neuron	CTP0003326	name
+cortical excitatory neuron	CTP0000835	name
+mesen/rhombencephalon excitatory neuron	CTP0001949	name
+non-telencephalon neural progenitor cell	CTP0002161	name
+lateral ganglionic eminence inhibitory neurons	CTP0002434	name
+mesen/rhombencephalon inhibitory neurons	CTP0001758	name
+glycolysis state	CTP0002639	name
+mesen/rhombencephalon excitatory neurons	CTP0003259	name
+medial ganglionic eminence/caudal ganglionic eminence inhibitory neurons	CTP0000566	name
+retinal pigment epithelial cell	CTP0000228	name
+CL:0002586	CTP0000228	ontology
+retinal pigment epithelial cell	CTP0000228	name
+melanocyte	CTP0000229	name
+CL:0000148	CTP0000229	ontology
+melanocyte	CTP0000229	name
+T cell/natural killer cell	CTP0002821	name
+vein endothelial cell	CTP0000230	name
+CL:0002543	CTP0000230	ontology
+vein endothelial cell	CTP0000230	name
+capillary endothelial cell	CTP0000231	name
+CL:0002144	CTP0000231	ontology
+capillary endothelial cell	CTP0000231	name
+endothelial cell of artery	CTP0000232	name
+CL:1000413	CTP0000232	ontology
+endothelial cell of artery	CTP0000232	name
+retinal pigment epithelial cell/retinal rod cell/melanocyte	CTP0001839	name
+leukocyte/other	CTP0002793	name
+choriocapillaris endothelial cell	CTP0000385	name
+white blood cell/other 1	CTP0002963	name
+vein endothelial cell 2	CTP0002938	name
+white blood cell/other 2	CTP0000531	name
+vein endothelial cell 1	CTP0000645	name
+Schwann cell 2	CTP0002612	name
+Schwann cell 1	CTP0001297	name
+pancreatic B cell	CTP0001538	name
+pancreatic epsilon cell	CTP0000233	name
+CL:0005019	CTP0000233	ontology
+pancreatic epsilon cell	CTP0000233	name
+Muller cell	CTP0003436	name
+retinal ganglion cell	CTP0000234	name
+CL:0000740	CTP0000234	ontology
+retinal ganglion cell	CTP0000234	name
+amacrine cell	CTP0000235	name
+CL:0000561	CTP0000235	ontology
+amacrine cell	CTP0000235	name
+retinal rod cell	CTP0000236	name
+CL:0000604	CTP0000236	ontology
+retinal rod cell	CTP0000236	name
+retinal bipolar neuron	CTP0000237	name
+CL:0000748	CTP0000237	ontology
+retinal bipolar neuron	CTP0000237	name
+retinal cone cell	CTP0000238	name
+CL:0000573	CTP0000238	ontology
+retinal cone cell	CTP0000238	name
+retinal rod cell CCA0	CTP0002678	name
+retinal rod cell CCA1	CTP0000832	name
+retinal bipolar neuron CCA8	CTP0001051	name
+retinal bipolar neuron CCA2	CTP0002276	name
+other	CTP0003314	name
+retinal bipolar neuron CCA6	CTP0000525	name
+retinal bipolar neuron CCA7	CTP0003303	name
+retinal rod cell CCA10	CTP0002932	name
+amacrine cell CCA9	CTP0000374	name
+nephron progenitor cell A	CTP0002895	name
+ureteric bud; kidney collecting duct cell	CTP0001959	name
+medial; distal S-shaped body 	CTP0000955	name
+nephron progenitor cell D	CTP0002569	name
+S-shaped body podocyte precursor cell	CTP0001113	name
+nephron progenitor cell C	CTP0002603	name
+early kidney proxmial tubule cell	CTP0002445	name
+kidney interstitial cell A	CTP0002908	name
+glomerular endothelial cell	CTP0000239	name
+CL:0002188	CTP0000239	ontology
+glomerular endothelial cell	CTP0000239	name
+S-shaped body proximal precursor cell	CTP0001187	name
+kidney interstitial progenitor cell	CTP0003375	name
+renal vesicle; comma-shaped body A	CTP0000839	name
+pretubular aggregate	CTP0002082	name
+nephron progenitor cell B	CTP0001335	name
+kidney interstitial cell B	CTP0001828	name
+kidney connecting tubule epithelial cell	CTP0000240	name
+CL:1000768	CTP0000240	ontology
+kidney connecting tubule epithelial cell	CTP0000240	name
+renal vesicle; comma-shaped body B	CTP0003218	name
+paneth-like cell	CTP0001584	name
+paneth cell of epithelium of small intestine	CTP0000241	name
+CL:1000343	CTP0000241	ontology
+paneth cell of epithelium of small intestine	CTP0000241	name
+intestinal enteroendocrine cell	CTP0000242	name
+CL:1001516	CTP0000242	ontology
+intestinal enteroendocrine cell	CTP0000242	name
+intestinal crypt stem cell	CTP0000243	name
+CL:0002250	CTP0000243	ontology
+intestinal crypt stem cell	CTP0000243	name
+small intestine goblet cell	CTP0000244	name
+CL:1000495	CTP0000244	ontology
+small intestine goblet cell	CTP0000244	name
+intestinal crypt transit amplifying cell	CTP0001185	name
+enterocyte of epithelium of small intestine	CTP0000245	name
+CL:1000334	CTP0000245	ontology
+enterocyte of epithelium of small intestine	CTP0000245	name
+stem cell	CTP0000246	name
+CL:0000034	CTP0000246	ontology
+stem cell	CTP0000246	name
+transit amplifying cell	CTP0000247	name
+CL:0009010	CTP0000247	ontology
+transit amplifying cell	CTP0000247	name
+enterocyte	CTP0000019	name
+CL:0000584	CTP0000019	ontology
+enterocyte	CTP0000019	name
+goblet	CTP0001139	name
+progenitor	CTP0002128	name
+epithelial progenitor cell of small intestine	CTP0003356	name
+epithelial progenitor cell of large intestine	CTP0001527	name
+paneth cell	CTP0000248	name
+CL:0000510	CTP0000248	ontology
+paneth cell	CTP0000248	name
+proliferative kidney interstitial cell 4	CTP0002140	name
+kidney interstitial cell 7	CTP0001011	name
+epithelial cell of proximal tubule 4	CTP0002901	name
+epithelial cell of proximal tubule 3	CTP0003244	name
+kidney interstitial cell 11	CTP0002165	name
+glomerular visceral epithelial cell 3	CTP0000938	name
+unknown 2	CTP0002634	name
+parietal epithelial cell 1	CTP0002039	name
+glomerular visceral epithelial cell 1	CTP0000470	name
+distal nephron progenitor	CTP0001019	name
+medial/distal nephron progenitor 4	CTP0002611	name
+early glomerular visceral epithelial cell 4	CTP0001560	name
+unknown 1	CTP0000520	name
+medial/distal nephron progenitor 2	CTP0001749	name
+nephron progenitor 1	CTP0003086	name
+early glomerular visceral epithelial cell 3	CTP0003387	name
+kidney interstital cell 1	CTP0000274	name
+proliferative kidney interstitial cell 5	CTP0002769	name
+committed nephron progenitor	CTP0001324	name
+proliferative kidney interstitial cell 3	CTP0002832	name
+neuronal cell	CTP0001415	name
+kidney interstitial cell 12	CTP0001498	name
+muscle cell 1	CTP0001924	name
+glomerular visceral epithelial cell 5	CTP0003016	name
+kidney interstitial cell 10	CTP0003070	name
+glomerular visceral epithelial cell 6	CTP0000749	name
+kidney interstitial cell 13	CTP0000590	name
+kidney interstitial cell 4	CTP0002998	name
+muscle cell 2	CTP0001152	name
+committed proliferative nephron progenitor	CTP0001300	name
+nephron progenitor 3	CTP0000943	name
+early/late glomerular visceral epithelial cell	CTP0000316	name
+medial/distal nephron progenitor 6	CTP0003134	name
+proliferative nephron progenitor 1	CTP0000764	name
+kidney collecting duct cell	CTP0000249	name
+CL:1001225	CTP0000249	ontology
+kidney collecting duct cell	CTP0000249	name
+kidney interstitial cell 9	CTP0001773	name
+proliferative nephron progenitor 2	CTP0000317	name
+ureteric tip	CTP0003172	name
+early glomerular visceral epithelial cell 2	CTP0000380	name
+juxtaglomerular complex cell	CTP0000250	name
+CL:1000618	CTP0000250	ontology
+juxtaglomerular complex cell	CTP0000250	name
+kidney interstitial cell 3	CTP0000923	name
+epithelial cell of proximal tubule 2	CTP0002731	name
+glomerular visceral epithelial cell 2	CTP0002524	name
+kidney interstitial cell 6	CTP0001888	name
+nephron progenitor 2	CTP0002001	name
+parietal epithelial cell 3	CTP0000646	name
+medial/distal nephron progenitor 1	CTP0000933	name
+proliferative kidney interstital cell 2	CTP0002488	name
+glomerular visceral epithelial cell 4	CTP0003235	name
+glomerular endothelial cell 3	CTP0003192	name
+early glomerular visceral epithelial cell 1	CTP0003065	name
+parietal epithelial cell 2	CTP0003175	name
+nephron progenitor 4	CTP0003014	name
+kidney interstitial cell 5	CTP0002496	name
+kidney interstital cell 2	CTP0001667	name
+glomerular endothelial cell 2	CTP0002058	name
+mixed juxtaglomerular complex cell and mesangial cell 2	CTP0001032	name
+mixed erythrocyte and immune cell	CTP0001165	name
+kidney interstitial cell 8	CTP0002192	name
+glomerular endothelial cell 1	CTP0003034	name
+proliferative kidney interstital cell 1	CTP0001642	name
+epithelial cell of proximal tubule 1	CTP0000462	name
+medial/distal nephron progenitor 5	CTP0002504	name
+medial/distal nephron progenitor 3	CTP0003360	name
+mixed juxtaglomerular complex cell and mesangial cell 1	CTP0001976	name
+alpha-beta T cell	CTP0000251	name
+CL:0000789	CTP0000251	ontology
+alpha-beta T cell	CTP0000251	name
+periportal hepatic sinusoidal endothelial cell	CTP0001845	name
+natural killer-like cell	CTP0003352	name
+mature B cell	CTP0000252	name
+CL:0000785	CTP0000252	ontology
+mature B cell	CTP0000252	name
+hepatic stellate cell	CTP0000253	name
+CL:0000632	CTP0000253	ontology
+hepatic stellate cell	CTP0000253	name
+cholangiocyte	CTP0000254	name
+CL:1000488	CTP0000254	ontology
+cholangiocyte	CTP0000254	name
+portal endothelial cell	CTP0003179	name
+central venous hepatic sinusoidal endothelial cell	CTP0000919	name
+central venous liver sinusoidal endothelial cell	CTP0000795	name
+non-inflammatory macrophage	CTP0000616	name
+NK-like cell	CTP0001766	name
+portal liver sinusoidal endothelial cell	CTP0001252	name
+periportal liver sinusoidal endothelial cell	CTP0002179	name
+fetal endothelial cell	CTP0001698	name
+macrophage/monocyte	CTP0001814	name
+migratory dendritic cell	CTP0002011	name
+not available	CTP0002652	name
+conventional dendritic cell 2	CTP0003246	name
+tumor T cell	CTP0000532	name
+gamma-delta T cell/mucosal invariant T cell	CTP0000675	name
+lymph node T cell	CTP0002357	name
+conventional dendritic cell 1	CTP0001245	name
+cancer associated fibroblast 1	CTP0001524	name
+tumour endothelial cell	CTP0003160	name
+lymph node fibroblast	CTP0001000	name
+cancer associated fibroblast 3	CTP0003051	name
+lymph node endothelial cell	CTP0003223	name
+cancer associated fibroblast 2	CTP0001016	name
+human embryonic fibroblast/induced day type 3 dendritic cell	CTP0000362	name
+embryonic fibroblast	CTP0000255	name
+CL:2000042	CTP0000255	ontology
+embryonic fibroblast	CTP0000255	name
+conventional dendritic cell type 1/induced day 9 dendritic cell	CTP0002950	name
+human embryonic fibroblast	CTP0003180	name
+induced day 9 dendritic cell	CTP0001426	name
+progenitor cell	CTP0000256	name
+CL:0011026	CTP0000256	ontology
+progenitor cell	CTP0000256	name
+monocyte 2	CTP0002137	name
+monocyte 1	CTP0002960	name
+granulocyte 1	CTP0002490	name
+multipotent progenitor cell	CTP0000301	name
+cycling committed progenitor	CTP0002159	name
+CD4-positive monocyte	CTP0002748	name
+unspecified	CTP0003064	name
+cycling multipotent progenitor cell	CTP0001919	name
+granulocyte progenitor	CTP0002169	name
+granulocyte 2	CTP0001784	name
+committed progenitor	CTP0000384	name
+cycling dendritic cell	CTP0000965	name
+granulocyte 3	CTP0003472	name
+lung macrophage	CTP0000257	name
+CL:1001603	CTP0000257	ontology
+lung macrophage	CTP0000257	name
+lung secretory cell	CTP0000258	name
+CL:1000272	CTP0000258	ontology
+lung secretory cell	CTP0000258	name
+transformed epithelial cell	CTP0000690	name
+neoplastic cell	CTP0000259	name
+CL:0001063	CTP0000259	ontology
+neoplastic cell	CTP0000259	name
+acinar cell	CTP0000030	name
+CL:0000622	CTP0000030	ontology
+acinar cell	CTP0000030	name
+co-expression cell	CTP0001780	name
+pancreatic endocrine cell	CTP0000033	name
+CL:0008024	CTP0000033	ontology
+pancreatic endocrine cell	CTP0000033	name
+alpha cell	CTP0001003	name
+ductal cell	CTP0001898	name
+delta cell	CTP0000585	name
+beta cell	CTP0003094	name
+gamma cell	CTP0000507	name
+PSC cell	CTP0000995	name
+MHC class II cell	CTP0003008	name
+unclassified endocrine cell	CTP0001573	name
+epsilon cell	CTP0002366	name
+unclassified cell	CTP0000617	name
+cardiac muscle progenitor	CTP0001013	name
+cycling endothelial cell	CTP0001852	name
+arterially-primed endothelial cell	CTP0001567	name
+endocardium cell progenitor	CTP0002906	name
+cardiac muscle myoblast	CTP0000260	name
+CL:0000513	CTP0000260	ontology
+cardiac muscle myoblast	CTP0000260	name
+haematopoietic progenitor	CTP0001819	name
+OPC/Oligo	CTP0001174	name
+Micro Ctss	CTP0000850	name
+OPC Pdgfra	CTP0002819	name
+Oligo Opalin	CTP0000962	name
+L4 Arf5	CTP0002947	name
+L4 Sparcl1	CTP0002180	name
+L4 Scnn1a	CTP0003353	name
+L4 Scnn1a, L4 Sparcl1	CTP0001482	name
+L5 Hsd11b1, L5a Fam5c	CTP0003346	name
+L5a Batf3	CTP0001982	name
+L5 Hsd11b1	CTP0002796	name
+L5a Fam5c, L5a Batf3	CTP0002663	name
+L4 Sparcl1, L5 Ucma	CTP0003201	name
+L5a Syt17	CTP0001516	name
+L5b Cdh13	CTP0002291	name
+L5a Fam5c	CTP0002277	name
+L5 Hsd11b1, L4 Scnn1a	CTP0002223	name
+Sst Myh8	CTP0001477	name
+L6a Plcxd3	CTP0002909	name
+L5a Fam5c, L5 Hsd11b1	CTP0001945	name
+L5 Chrna6	CTP0000712	name
+L5b Samd3	CTP0000620	name
+L5a Syt17, L5a Batf3	CTP0001277	name
+L5 Ucma	CTP0002101	name
+L5 Ucma, L4 Sparcl1	CTP0002365	name
+L6 Car12, L4 Sparcl1	CTP0000450	name
+L5a Fam5c, L5b Cdh13	CTP0000558	name
+L6a Plcxd3, L6a Mgp	CTP0003288	name
+L4 Sparcl1, L4 Scnn1a	CTP0001833	name
+L4 Arf5, L4 Scnn1a	CTP0001269	name
+Astro Gja1	CTP0000369	name
+L2 Ngb, L2/3 Otof	CTP0002068	name
+L2/3 Otof	CTP0003450	name
+L5b Cdh13, L5b Samd3	CTP0002785	name
+L4 Scnn1a, L4 Arf5	CTP0000621	name
+L5a Batf3, L5a Syt17	CTP0003112	name
+L2 Ngb	CTP0003240	name
+Pvalb Tacr3	CTP0003470	name
+Pvalb Wt1	CTP0003198	name
+Pvalb Wt1, Pvalb Tacr3	CTP0000899	name
+Pvalb Wt1, Pvalb Gpx3	CTP0000279	name
+Pvalb Tacr3, Pvalb Wt1	CTP0001678	name
+Pvalb Rspo2, Pvalb Wt1	CTP0000586	name
+Pvalb Rspo2	CTP0003195	name
+Pvalb Obox3, Pvalb Wt1	CTP0000842	name
+Pvalb Obox3	CTP0003015	name
+Pvalb Gpx3	CTP0000370	name
+Pvalb Cpne5	CTP0002480	name
+Pvalb Tpbg	CTP0002768	name
+Pvalb Rspo2, Pvalb Gpx3	CTP0000807	name
+Pvalb Obox3, Pvalb Gpx3	CTP0000314	name
+Pvalb Wt1, Pvalb Rspo2	CTP0002181	name
+L5 Hsd11b1, L4 Arf5	CTP0000583	name
+L5a Batf3, L5a Fam5c	CTP0000471	name
+L5a Fam5c, L4 Arf5	CTP0003409	name
+L6a Mgp, L6a Plcxd3	CTP0001962	name
+L5b Samd3, L5b Cdh13	CTP0000309	name
+L6 Car12	CTP0001045	name
+L5 Ucma, L5a Batf3	CTP0001697	name
+L5 Ucma, L5a Fam5c	CTP0001506	name
+L6 Syt17	CTP0001703	name
+L6 Car12, L6 Syt17	CTP0001043	name
+Sst Cbln4	CTP0002790	name
+Vip Cxcl14_Car4	CTP0002189	name
+Vip Gpc3	CTP0001759	name
+Vip Mybpc1	CTP0000591	name
+Vip Chat	CTP0000383	name
+Vip Gpc3, Vip Cxcl14_Car4	CTP0002379	name
+L6a Mgp	CTP0003474	name
+Vip Cxcl14_Car4, Vip Mybpc1	CTP0002523	name
+Vip Sncg	CTP0003313	name
+Pvalb Gpx3, Pvalb Wt1	CTP0002527	name
+Pvalb Tpbg, Pvalb Tacr3	CTP0001537	name
+Sst Cdk6, Sst Myh8	CTP0001818	name
+Sst Th, Sst Myh8	CTP0002146	name
+Vip Gpc3, Vip Chat	CTP0001965	name
+Vip Mybpc1, Vip Cxcl14_Car4	CTP0003459	name
+glutamatergic neuron of primary visual area, layer 5a	CTP0002419	name
+GABAergic neuron of primary visual area, layer 5 and layer 6	CTP0002774	name
+GABAergic neuron of primary visual area, layer 1 to 4	CTP0001520	name
+endothelial cell OR oligodendrocyte precursor cell of primary visual cortex	CTP0000984	name
+astrocyte of primary visual cortex	CTP0002983	name
+glutamatergic neuron of primary visual cortex, layer 2/3 and layer 4	CTP0000453	name
+GABAergic neuron of primary visual cortex	CTP0002967	name
+glutamatergic neuron of primary visual area, layer 4	CTP0000344	name
+glutamatergic neuron of primary visual cortex, layer 2/3	CTP0002107	name
+glutamatergic neuron of primary visual cortex, layer 2	CTP0000430	name
+glutamatergic neuron of primary visual area, layer 2/3 and layer 4	CTP0001987	name
+L6a Car12	CTP0001427	name
+L6a Syt17, L6a Car12	CTP0002239	name
+L6a Syt17	CTP0000929	name
+Sst Cbln4, Sst Cdk6	CTP0003181	name
+glutamatergic neuron of primary visual area, layer 5a and layer 6a	CTP0000573	name
+Sst Chodl	CTP0001777	name
+L4 Arf5, L4 Sparcl1	CTP0001255	name
+L6a Plcxd3, L5a Batf3	CTP0002283	name
+L4 Sparcl1, L4 Arf5	CTP0000972	name
+L4 Scnn1a, L5 Hsd11b1	CTP0001130	name
+Pvalb Tacr3, Pvalb Gpx3	CTP0000926	name
+Sst Th	CTP0001548	name
+Sst Cdk6	CTP0000478	name
+Sst Cdk6, Sst Cbln4	CTP0001418	name
+Sst Tacstd2	CTP0001760	name
+Sst Myh8, Sst Cdk6	CTP0000473	name
+OPC/Oligo, Oligo Opalin	CTP0001108	name
+Sncg	CTP0000990	name
+Endo Tbc1d4	CTP0002027	name
+Ndnf Car4	CTP0000905	name
+Igtp	CTP0001836	name
+Ndnf Cxcl14	CTP0002432	name
+Ndnf Cxcl14, Vip Cxcl14_Car4	CTP0002292	name
+Cd34, Ndnf Cxcl14	CTP0000741	name
+Cd34	CTP0000345	name
+Vip Chat, Vip Gpc3	CTP0000683	name
+L4 Sparcl1, L2/3 Otof	CTP0002681	name
+L2/3 Otof, L2 Ngb	CTP0000714	name
+Vip Sncg, Vip Mybpc1	CTP0002372	name
+Ndnf Cxcl14, Cd34	CTP0002538	name
+Ndnf Car4, Ndnf Cxcl14	CTP0003391	name
+Vip Cxcl14_Car4, Vip Chat	CTP0000629	name
+Sst Tacstd2, Sst Cbln4	CTP0000693	name
+Sst Th, Pvalb Gpx3	CTP0002450	name
+Endo Myl9, OPC Pdgfra	CTP0003013	name
+L5a Batf3, L6a Plcxd3	CTP0002890	name
+L2/3 Otof, L4 Sparcl1	CTP0002638	name
+Ndnf Cxcl14, Vip Gpc3	CTP0002655	name
+Vip Cxcl14_Car4, Ndnf Cxcl14	CTP0000715	name
+L6b Mup5, L6a Plcxd3	CTP0001067	name
+L6b Trh	CTP0000778	name
+L6b Mup5	CTP0001301	name
+L6a Plcxd3, Pvalb Gpx3	CTP0001903	name
+Endo Myl9	CTP0002760	name
+L6b Trh, L6b Mup5	CTP0002461	name
+Vip Cxcl14_Car4, Vip Gpc3	CTP0000792	name
+Sst Tacstd2, Pvalb Rspo2	CTP0001737	name
+Sst Th, Sst Cbln4	CTP0002503	name
+Pvalb Gpx3, Pvalb Tacr3	CTP0000549	name
+Pvalb Gpx3, Pvalb Rspo2	CTP0001168	name
+Pvalb Tacr3, Igtp	CTP0001270	name
+Vip Chat, Vip Cxcl14_Car4	CTP0000587	name
+Pvalb Tpbg, Pvalb Gpx3	CTP0001637	name
+L6a Plcxd3, L6b Mup5	CTP0002779	name
+Sst Cbln4, Vip Chat	CTP0003011	name
+L6 Syt17, L5a Syt17	CTP0001473	name
+L5a Fam5c, L5a Syt17	CTP0003072	name
+oligodendrocyte of primary visual cortex	CTP0000305	name
+glutamatergic neuron of primary visual area, layer 5b	CTP0002905	name
+glutamatergic neuron of primary visual area, layer 5	CTP0001526	name
+glutamatergic neuron of primary visual area, layer 5 and layer 5a	CTP0002266	name
+glutamatergic neuron of primary visual area, layer 4 and layer 5	CTP0003093	name
+glutamatergic neuron of primary visual area, layer 6b	CTP0000804	name
+glutamatergic neuron of primary visual area, layer 6a and layer 6b	CTP0003154	name
+endothelial cell of primary visual cortex	CTP0000819	name
+glutamatergic neuron of primary visual area, layer 6a	CTP0002799	name
+microglial cell of primary visual cortex	CTP0001181	name
+oligodendrocyte precursor cell of primary visual cortex	CTP0002912	name
+oligodendrocyte OR oligodendrocyte precursor cell of primary visual cortex	CTP0002924	name
+glutamatergic neuron of primary visual cortex, layer 2 and layer 2/3	CTP0002702	name
+glutamatergic neuron of primary visual area, layer 6	CTP0002157	name
+glutamatergic neuron of primary visual area, layer 4 and layer 6	CTP0000848	name
+glutamatergic neuron of primary visual area, layer 5a and layer 5b	CTP0002546	name
+GABAergic neuron of primary visual cortex, layer 5 and layer 6	CTP0000979	name
+glutamatergic neuron of primary visual area, layer 5a and layer 6	CTP0002942	name
+neurogliaform cell of primary visual cortex	CTP0001618	name
+glutamatergic neuron of primary visual area, layer 5 and layer 6a	CTP0000911	name
+medial ganglionic eminence progenitor	CTP0003085	name
+nCTX.125.SST	CTP0000823	name
+nCTX.125.CORT	CTP0001215	name
+ip.125.DLL1	CTP0001713	name
+pMGE.125.FRZB	CTP0002249	name
+pMGE.125.CYP1B1	CTP0000436	name
+nMGE.125.NEFL	CTP0001632	name
+oMGE.125.PDGFRA	CTP0002257	name
+p.125.ATF3	CTP0002135	name
+pMGE.125.AQP4	CTP0002563	name
+telencephalic progenitor cell	CTP0002392	name
+intermediate medial ganglionic eminence progenitor	CTP0002138	name
+medial ganglionic eminence neuron	CTP0001337	name
+nCTX.100.DLX5	CTP0002824	name
+pMGE.100.AQP4	CTP0002451	name
+nCTX.100.SST	CTP0003385	name
+oMGE.100.PDGFRA	CTP0001404	name
+ip.100.DLL1	CTP0002428	name
+pTEL.100.OLIG1	CTP0001260	name
+lateral ganglionic eminence neuron	CTP0000815	name
+p.100.CTGF	CTP0002551	name
+pTEL.100.CRH	CTP0002484	name
+nCTX.100.CORT	CTP0000423	name
+pMGE.100.FRZB	CTP0001104	name
+p.100.ATF3	CTP0002691	name
+nCTX.100.SST.CRABP1	CTP0001080	name
+nMGE.100.CFC1	CTP0002628	name
+nMGE.54.CFC1	CTP0002072	name
+nCTX.54.GRIA2	CTP0002124	name
+nCTX.54.CORT.NEFL	CTP0001006	name
+nCTX.54.SST	CTP0001724	name
+nCTX.54.CORT	CTP0001583	name
+IpMGE.54.OLIG1	CTP0001998	name
+nMGE.54.GAD1	CTP0001435	name
+ipMGE.54.ST18	CTP0001563	name
+pMGE.54.SPARCL1	CTP0001166	name
+pTEL.54.PAX6	CTP0002166	name
+pTEL.24.PAX6	CTP0001275	name
+nMGE.24.LHX8	CTP0000699	name
+pMGE.24.NKX2-1	CTP0000331	name
+pTEL.24.ANXA1	CTP0002843	name
+nLGE.24.SP8	CTP0000513	name
+nLGE.24.CFC1	CTP0000655	name
+nMGE.24.LHX8.GRIA2	CTP0002363	name
+ipMGE.24.DLL1	CTP0003257	name
+pMGE.54.CRABP2	CTP0001606	name
+late enterocyte progenitor	CTP0002506	name
+early enterocyte progenitor	CTP0001617	name
+endocrine cell	CTP0000029	name
+CL:0000163	CTP0000029	ontology
+endocrine cell	CTP0000029	name
+hair germinal matrix cell	CTP0000261	name
+CL:0002562	CTP0000261	ontology
+hair germinal matrix cell	CTP0000261	name
+hair follicle dermal papilla cell	CTP0000262	name
+CL:0000346	CTP0000262	ontology
+hair follicle dermal papilla cell	CTP0000262	name
+hair germ cell	CTP0001977	name
+hair follicle bulge stem cell	CTP0001265	name
+proliferating neural progenitor cell 4	CTP0001145	name
+proliferating neural progenitor cell 5	CTP0001495	name
+immature neuron 5	CTP0001305	name
+proliferating neural progenitor cell	CTP0003167	name
+immature neuron 3	CTP0001358	name
+proliferating neural progenitor cell 4 - astrocyte	CTP0001559	name
+proliferating neural progenitor cell 3	CTP0002323	name
+vascular smooth muscle cell	CTP0001917	name
+immature neuron 1	CTP0002547	name
+proliferating neural progenitor cell 1	CTP0002310	name
+immature neuron 4	CTP0002476	name
+proliferating neural progenitor cell 2	CTP0003361	name
+proliferating neural progenitor cell 5 - vascular smooth muscle cell	CTP0000568	name
+proliferating neural progenitor cell 5 - microglial cell	CTP0002863	name
+astrocytes or ependymal cell	CTP0003189	name
+proliferating neural progenitor cell 4 - ependymal cell	CTP0002953	name
+ependymal cell	CTP0000263	name
+CL:0000065	CTP0000263	ontology
+ependymal cell	CTP0000263	name
+TA-a	CTP0001764	name
+TA-b	CTP0001722	name
+TB	CTP0002892	name
+SB	CTP0003296	name
+SA-b	CTP0000730	name
+SA-a	CTP0001381	name
+placode	CTP0003396	name
+neural tube	CTP0002408	name
+pharyngeal mesoderm	CTP0001368	name
+forebrain	CTP0003401	name
+mid hindbrain	CTP0000516	name
+mixed mesoderm	CTP0001148	name
+somitic mesoderm	CTP0003465	name
+cardiocyte	CTP0000025	name
+CL:0002494	CTP0000025	ontology
+cardiocyte	CTP0000025	name
+foregut	CTP0002245	name
+neural crest cell	CTP0000264	name
+CL:0011012	CTP0000264	ontology
+neural crest cell	CTP0000264	name
+mesoderm progenitor	CTP0002440	name
+extraembryonic endoderm cell	CTP0002965	name
+presomitic mesoderm	CTP0003378	name
+neuron	CTP0000027	name
+CL:0000540	CTP0000027	ontology
+NEURON	CTP0000027	alias
+Neuron.Gad1Gad2.Cplx3-Npy	CTP0001841	name
+Neuron.Slc17a7-Slc17a6.Shisa8	CTP0001089	name
+Neuron.Slc17a7-Slc17a8.Fezf2-Slc17a8	CTP0001398	name
+Neuron.Gad1Gad2-Chat.Synpr-Slc5a7	CTP0001421	name
+Neuron.Slc17a7.Bcl6-C1ql2	CTP0003250	name
+Neuron.Gad1Gad2.Synpr-Pcdh11x	CTP0003117	name
+MURAL	CTP0001030	name
+Neuron.Gad1Gad2.Sst-Pdyn	CTP0003083	name
+ENDOTHELIAL_TIP	CTP0002491	name
+Endothelial_Tip.Dcn.Mgp-Penk	CTP0001658	name
+ENDOTHELIAL_STALK	CTP0002132	name
+Endothelial_Stalk.Flt1.Car4	CTP0003193	name
+Neuron.Gad1Gad2.Synpr-Crispld2	CTP0003368	name
+Neuron.Gad1Gad2-Th.Nr4a2	CTP0003264	name
+Neuron.Slc17a7-Slc17a6.Tshz2-Fos	CTP0003146	name
+Neuron.Gad1Gad2.Sst-Crh	CTP0001753	name
+Endothelial_Stalk.Flt1.Gm9946	CTP0001446	name
+Endothelial_Stalk.Flt1.Gkn3	CTP0002717	name
+Neuron.Slc17a7-Slc17a6.Tshz2-Cabp7	CTP0000799	name
+Neuron.Slc17a7-Slc17a6.Fezf2-Htr2c	CTP0002513	name
+Neuron.Gad1Gad2.Cplx3-Egln3	CTP0002218	name
+POLYDENDROCYTE	CTP0000302	name
+Neuron.Sc17a7.Crym	CTP0002802	name
+Neuron.Gad1Gad2-Slc17a8.Synpr-Sncg-Yjefn3	CTP0000748	name
+Endothelial_Tip.Dcn.Nnat	CTP0000872	name
+macrophage	CTP0000008	name
+CL:0000235	CTP0000008	ontology
+MACROPHAGE	CTP0000008	alias
+Macrophage.C1qb.Mrc1	CTP0002885	name
+astrocyte	CTP0000017	name
+CL:0000127	CTP0000017	ontology
+ASTROCYTE	CTP0000017	alias
+Endothelial_Tip.Dcn.Mgp-Clu	CTP0001710	name
+Astrocyte.Gja1.Sparc	CTP0001513	name
+oligodendrocyte	CTP0000022	name
+CL:0000128	CTP0000022	ontology
+OLIGODENDROCYTE	CTP0000022	alias
+Oligodendrocyte.Tfr.Klk6	CTP0003351	name
+Neuron.Sc17a7.Oprk1	CTP0000295	name
+Astrocyte.Gja1.Myoc	CTP0002213	name
+Endothelial_Tip.Dcn.Coch	CTP0001693	name
+Neuron.Sc17a7.Calb1-Lpl-Penk	CTP0003059	name
+Neuron.Slc17a7.Syt6-Cplx3	CTP0003018	name
+Neuron.Sc17a7.Calb1-Tshz2	CTP0001033	name
+Neuron.Slc17a7-Slc17a6.Tshz2	CTP0001928	name
+Neuron.Slc17a7-Slc17a6.Tshz2-Prlr	CTP0002188	name
+Neuron.Sc17a7.Rorb-Gpr83	CTP0003166	name
+Neuron.Slc17a7-Slc17a6.Rorb-Pcdh20	CTP0002348	name
+Neuron.Gad1Gad2.Pvalb-Cartpt	CTP0002903	name
+Oligodendrocyte.Tfr.Tmem2	CTP0003381	name
+Neuron.Slc17a7.Syt6-Tshz2-Nrep	CTP0001247	name
+Neuron.Slc17a7.Syt6-Tox	CTP0002873	name
+Neuron.Gad1Gad2.Pvalb-Unc5b	CTP0003403	name
+Neuron.Slc17a7.Bcl6-Npnt	CTP0000913	name
+Neuron.Slc17a7.Syt6-Fos	CTP0000538	name
+Neuron.Slc17a7.Syt6-Nnat	CTP0000961	name
+Neuron.Gad1Gad2.Pvalb-Nefm	CTP0000719	name
+Neuron.Gad1Gad2.Synpr-Sncg	CTP0002154	name
+Neuron.Slc17a7.Bcl6-Fos	CTP0000734	name
+Astrocyte.Gja1.Igfbp2	CTP0001242	name
+Neuron.Slc17a7.Bcl6-Dditl	CTP0002433	name
+Polydendrocyte.Tnr.Tmsb4x	CTP0001699	name
+Neuron.Slc17a7-Slc17a6.Tshz2-Rasd1	CTP0002684	name
+Oligodendrocyte.Tfr.Il33	CTP0001481	name
+Neuron.Gad1Gad2.Cplx3-Reln	CTP0002084	name
+Endothelial_Stalk.Flt1.Vwf	CTP0002162	name
+Polydendrocyte.Tnr.Dlx1	CTP0003132	name
+Neuron.Slc17a7.Fibcd1-Lypd1	CTP0000336	name
+Neuron.Slc17a7-Slc17a6.Tshz2-Nnat	CTP0001164	name
+Gad1Gad2_Id2.Bcl11b	CTP0003467	name
+Neuron.Sc17a7.Calb1-Otof	CTP0001605	name
+Neuron.Slc17a7.Fibcd1-Kitl	CTP0000598	name
+Gad1Gad2Slc17a8_Htr3a.Ktcd12	CTP0001922	name
+Neuron.Slc17a7.Calb2-Vgll3	CTP0002626	name
+Gad1Gad2_Htr3a.Efba5	CTP0001562	name
+Neuron.Slc17a7.Pvrl3-Fos	CTP0001909	name
+Neuron.Slc17a7.Fibcd1-Fos	CTP0003088	name
+Neuron.Slc17a7.Pvrl3-Inhba	CTP0002327	name
+Gad1Gad2_Htr3a.Ecel1	CTP0002369	name
+Neuron.Slc17a7.C1ql2-Cck	CTP0001504	name
+Neuron.Slc17a7.Dcn-Camk2d	CTP0001408	name
+Neuron.Slc17a7.Fibcd1-Nrip3	CTP0001395	name
+Oligodendrocyte.Trf.Plin3	CTP0000789	name
+Neuron.Gad1Gad2_Pvalb.Gfra1	CTP0002709	name
+Gad1Gad2_Htr3a.Cpne5	CTP0000691	name
+Neuron.Gad1Gad2_Pvalb.Tac1	CTP0002312	name
+Gad1Gad2_Id2.Prlr	CTP0001731	name
+Neuron.Slc17a7.Nxph3-Hpcal-Krt12	CTP0003129	name
+Neuron.Slc17a7.Cbln1-Trps1	CTP0002747	name
+Neuron.Slc17a7-Slc17a6.Nxph3-Cbln2-Kcnh8	CTP0001462	name
+Neuron.Slc17a6.Nefm	CTP0001963	name
+Endothelial_Stalk.Flt1.Cdkn2b	CTP0001092	name
+EPENDYMAL	CTP0002631	name
+Gad1Gad2_Cplx3.Tox	CTP0001914	name
+Gad1Gad2_Htr3a.Krt73	CTP0002726	name
+Neuron.Slc17a7.Fezf2-Efna5	CTP0002431	name
+Neuron.Slc17a7.Dcn-Pou3f1	CTP0000971	name
+Neuron.Slc17a7.FIbcd1-Inhba	CTP0002982	name
+Mural.Acta2Rgs5.Acta2	CTP0002331	name
+Neuron.Slc17a7.Syt6-Slc24a2	CTP0001496	name
+Neuron.Slc17a7.Bcl6-Ptgfr	CTP0002608	name
+Mural.Acta2Rgs5Rgs5	CTP0001133	name
+Neuron.Slc17a7-Slc17a6.Fezf2-3110035E14Rik	CTP0001288	name
+Mural.Acta2Rgs5.Abcc9	CTP0002423	name
+Mural.Acta2Rgs5.Fos	CTP0001386	name
+Polydendrocyte.Tnr.Cspg5	CTP0001274	name
+Polydendrocyte.Tnr.Lims2-Tmsb4x	CTP0001662	name
+Neuron.Gad1Gad2.Synpr-Nnat	CTP0000610	name
+Endothelial_Tip.Dcn.Inmt	CTP0001715	name
+MICROGLIA	CTP0003422	name
+Oligodendrocyte.Tfr.Sez6	CTP0002687	name
+Microglia.C1qb.Tmem119	CTP0001994	name
+Microglia.C1qb.Tmem119-Fos	CTP0002874	name
+Neuron.Gad1Gad2.Sst-Nr2f2	CTP0002398	name
+Neuron.Sc17a7.Calb1-Lpl-Cadm2	CTP0001339	name
+Neuron.Slc17a7-Slc17a8.Syt6-Lancl3	CTP0001978	name
+Neuron.Slc17a7.Bcl6-Ndst4	CTP0000353	name
+Microglia.C1qb.Tmem119-Junb	CTP0002754	name
+Ependymal.Ccdc153	CTP0003327	name
+Neuron.Slc17a7.Rgs14	CTP0000308	name
+Neuron.Slc17a7.Pvrl3-Nos1	CTP0002108	name
+Neuron.Slc17a7.Cbln1-Gpr88	CTP0001939	name
+Neuron.Slc17a7.Fibcd1-Nptx2	CTP0001102	name
+Neuron.Slc17a7.Pvrl3-St18	CTP0002658	name
+Neuron.Slc17a7.Calb2-Adcyap1	CTP0000425	name
+Mural.Acta2Rgs5.Kcnj8-Abcc9	CTP0002452	name
+Neuron.Slc17a7.Bcl6-Pvalb	CTP0000738	name
+Neuron.Gad1Gad2.Nfib-Satb1	CTP0002391	name
+Neuron.Slc17a7-Slc17a6.Calb1-Rorb-Il1rapl2	CTP0001515	name
+Neuron.Gad1Gad2-Chat	CTP0002957	name
+Endothelial_Tip.Dcn	CTP0001160	name
+Mural.Rgs5Acta2.Pdgfa	CTP0000356	name
+Mural.Rgs5Acta2.Ccnd1	CTP0001635	name
+Mural.Rgs5Acta2.Cnn1	CTP0001237	name
+Mural.Rgs5Acta2.Junb	CTP0002122	name
+Neuron.Gad1Gad2.Pmch	CTP0002151	name
+Neuron.Slc17a6.Cacna2d1	CTP0002294	name
+Neuron.Slc17a6-Gad2-Th.Crhbp	CTP0001868	name
+Oligodendrocyte.Tfr.Slco3a1	CTP0003456	name
+Neuron.Slc17a6.C1ql2	CTP0000942	name
+Oligodendrocyte.Tfr.Ndrg2	CTP0000755	name
+Neuron.Th.C1ql3	CTP0002870	name
+Neuron.Th-Slc17a6-Lpl	CTP0002721	name
+Neuron.Gad1Gad2.Pax5	CTP0000544	name
+Oligodendrocyte.Tfr.Plin3	CTP0002676	name
+Oligodendrocyte.Tfr.Ctps	CTP0003066	name
+Neuron.Th.Cyp26b1	CTP0003149	name
+Neuron.Th.Grin2c	CTP0000958	name
+Neuron.Gad1Gad2.Gad2	CTP0003319	name
+Neuron.Gad1Gad2.Otx2-Chrna3	CTP0001008	name
+Mural.Rgs5Acta2.Fos	CTP0000321	name
+Neuron.Gad1Gad2-Slc17a6.Cbln1	CTP0003031	name
+Astrocyte.Gja1.Htra1	CTP0002808	name
+Neuron.Slc17a7.Nxph3-Hpcal-Igfbp4	CTP0002804	name
+Neuron.Gad1Gad2.Six3-Pvalb	CTP0002085	name
+Oligodendrocyte.Trf.Ctps	CTP0002859	name
+Polydendrocyte.Tnr.Ctps	CTP0001486	name
+Oligodendrocyte.Trf.Ndrg2	CTP0002690	name
+Oligodendrocyte.Trf.Il33	CTP0002783	name
+Polydendrocyte.Tnr.Pdgfa	CTP0002029	name
+Oligodendrocyte.Trf.Serpinb1a	CTP0002344	name
+Neuron.Gad1Gad2.Pvalb-Gfra2	CTP0002377	name
+Oligodendrocyte.Trf.Klk6	CTP0001988	name
+Neuron.Slc17a6.Pitx2	CTP0003176	name
+Neuron.Gad1Gad2.Tcf7l2	CTP0000522	name
+Polydendrocyte.Tnr.Bmp4	CTP0002788	name
+Mural.Rgs5Acta2.Kcnj8	CTP0000442	name
+Neuron.Gad1Gad2.Dlk1	CTP0001944	name
+Endothelial_Stalk.Flt1.Tgfb2	CTP0002269	name
+Neuron.Slc17a7.Zbtb20	CTP0001800	name
+Oligodendrocyte.Trf.Cldn11	CTP0000705	name
+Neuron.Gad1Gad2.Pvalb-Spp1	CTP0002139	name
+Neuron.Gad1Gad2.Pvalb-Ntng1	CTP0002397	name
+Neuron.Gad1Gad2.Otx2	CTP0001555	name
+Neuron.Slc17a7.Bcl6-Tcerg1l	CTP0002502	name
+Neuron.Gad1Gad2.Sema3e	CTP0001575	name
+Neuron.Slc17a6.Shox2	CTP0002227	name
+Neuron.Slc17a6.Nts	CTP0003452	name
+Neuron.Gad1Gad2.Gad2-Fos	CTP0001913	name
+Endothelial_Tip.Dcn.Alcam	CTP0003079	name
+Neuron.Gad1Gad2.Rln3	CTP0003363	name
+Neuron.Sc17a7.Fermt1	CTP0002822	name
+Neuron.Sc17a7.Rorb-BC006965	CTP0003062	name
+Neuron.Slc17a7.Bcl6-Tshz2-Syt2	CTP0002486	name
+Neuron.Slc17a7.Syt6-Sla	CTP0002236	name
+Neuron.Slc17a7.Bcl6-Cbln1	CTP0000858	name
+Neuron.Sc17a7.Calb1-Lpl	CTP0002030	name
+Neuron.Sc17a7.Sema3e-Nnat	CTP0002660	name
+Neuron.Slc17a7-Slc17a6.Tshz2-Npnt	CTP0000399	name
+Neuron.Sc17a7.Sema3e-Onecut2	CTP0002096	name
+Neuron.Slc17a7.Syt6-Nefm	CTP0001387	name
+Neuron.Sc17a7.Calb1-Ddit4l	CTP0001243	name
+Neuron.Sc17a7.Calb1-Fos	CTP0002260	name
+Neuron.Gad1Gad2.Ndnf	CTP0001304	name
+Neuron.Th.Nefl	CTP0001118	name
+Neuron.Gad1Gad2.Tmem132c	CTP0002936	name
+Polydendrocyte.Tnr.Tmem2	CTP0002730	name
+Neuron.Slc17a6.Tcf4	CTP0000327	name
+Neuron.Gad1Gad2.Ttn	CTP0000828	name
+Endothelial_Tip.Dcn.Ifitm1	CTP0001489	name
+Neuron.Th.Aldh1a1	CTP0002314	name
+Neuron.Slc17a6.Nkx6-1	CTP0001276	name
+Neuron.Gad1Gad2.Gad2-Kcnc3	CTP0003155	name
+Mural.Rgs5Acta2.Cbr2	CTP0003421	name
+Endothelial_Stalk.Flt1.Cdkn1c	CTP0000490	name
+Neuron.Gad1Gad2.Sema3e-Kcng4	CTP0001964	name
+Neuron.Th.Cadm2	CTP0003358	name
+Neuron.Th.Cbln1	CTP0000698	name
+Neuron.Th.Vcan	CTP0000941	name
+Mural.Rgs5Acta2.Cd9	CTP0001197	name
+Polydendrocyte.Tnr.Cspg5-Dad1	CTP0001034	name
+Astrocyte.Gja1.Cst3	CTP0001565	name
+Mural.Rgs5Acta2.Rgs5	CTP0000272	name
+Polydendrocyte.Tnr.Opalin	CTP0001090	name
+Endothelial_Tip.Dcn.Mgp	CTP0001822	name
+Neuron.Slc17a7.Nxph3-Hpcal1-Fos	CTP0001146	name
+Neuron.Sc17a7.Tshz2-Smoc1	CTP0001675	name
+Endothelial_Tip.Dcn.Dapl1	CTP0001120	name
+Oligodendrocyte.Tnf.Ptgds	CTP0001365	name
+Oligodendrocyte.Tnf.Igsf8	CTP0000854	name
+Neuron.Slc17a7.Parm1.Fos	CTP0002254	name
+Oligodendrocyte.Tnf.Kif5b	CTP0000922	name
+Neuron.Slc17a7.Parm1.Ndnf	CTP0003199	name
+Neuron.Gad1Gad2.Pvalb	CTP0001717	name
+Gad1Gad2_Htr3a.Htr1b	CTP0000287	name
+Polydendrocyte.Tnr.Cyth3	CTP0000447	name
+Neuron.Slc17a6.Cck	CTP0000703	name
+Neuron.Chat-Gad1Gad2-Slc17a8.Ngfr	CTP0002980	name
+Neuron.Slc17a6.Tcf7l2	CTP0001598	name
+Endothelial_Stalk.Flt1.Cfh	CTP0002593	name
+Neuron.Gad1Gad2.Adora2a-Pde1c	CTP0000535	name
+Neuron.Slc17a6-Slc17a7-Slc17a8.Fezf2.Slc17a8	CTP0001523	name
+Oligodendrocyte.Tnf.Igsf8-Ctps	CTP0000293	name
+Neuron.Slc17a7.Parm1.Tshz2	CTP0003216	name
+Neuron.Slc17a7.Parm1.Lsamp	CTP0000414	name
+Neuron.Slc17a7.Syt6-Cyp26b1	CTP0002619	name
+Neuron.Slc17a7.Syt6-Sema5a	CTP0002556	name
+Neuron.Slc17a7.Syt6-Etv1	CTP0000282	name
+Neuron.Slc17a7.Parm1.Nnat	CTP0002668	name
+Neuron.Slc17a7.Syt6-Slc30a3	CTP0001068	name
+NeuronSlc17a7-Slc17a6.Syt6-Nnat	CTP0002225	name
+Oligodendrocyte.Tnf.Klk6	CTP0002962	name
+Neuron.Slc17a7.Syt6-Efna5	CTP0001665	name
+Neuron.Slc17a7.Syt6-Kit	CTP0003380	name
+Neuron.Slc17a7.Syt6-Sema3c	CTP0002389	name
+Neuron.Slc17a7.Nptxr-Fos	CTP0003170	name
+Neuron.Slc17a7-Slc17a8.Syt6-Cplx3	CTP0002164	name
+Neuron.Gad1Gad2.Cplx3	CTP0001257	name
+Neuron.Slc17a7.Syt6-Lypd1	CTP0000411	name
+Neuron.Slc17a6-Slc17a7.Nr4a2	CTP0001062	name
+Neuron.Gad1Gad2.Cadm2	CTP0001200	name
+Neuron.Slc17a7.Neurod2-Rorb	CTP0000960	name
+Neuron.Gad1Gad2.Cyp26b1	CTP0002620	name
+Polydendrocyte.Tnr.Pdgfa-Pik3r3	CTP0000790	name
+Neuron.Gad1Gad2.Elfn1-Grik3	CTP0002899	name
+Endothelial_Stalk.Flt1.Mgp	CTP0003061	name
+Neuron.Gad1Gad2.Grem	CTP0000707	name
+Neuron.Gad1Gad2.Adora2a	CTP0002749	name
+Polydendrocyte.Tnr.Pdgfa-Tmem2	CTP0001377	name
+Oligodendrocyte.Trf.Ttyh1	CTP0001096	name
+Endothelial_Stalk.Flt1.Lcn2	CTP0002062	name
+Neuron.Gad1Gad2.Scn4b	CTP0001299	name
+Mural.Acta2Rgs5.Kcnj8	CTP0003379	name
+Neuron.Gad1Gad2.Trdn	CTP0002020	name
+Neuron.Gad1Gad2.Sphkap-Tmem255a	CTP0003463	name
+Neuron.Gad1Gad2.Sst	CTP0003171	name
+Oligodendrocyte.Trf.Mbp	CTP0003226	name
+Neuron.Gad1Gad2.Hpcal4	CTP0001318	name
+Neuron.Gad1Gad2.Drd1-Pdyn	CTP0001128	name
+Neuron.Chat-Gad1Gad2-Slc17a8.Nefm	CTP0002243	name
+Endothelial_Stalk.Flt1.Angpt2	CTP0002629	name
+Astrocyte.Gja1.Gfap	CTP0001049	name
+Neuron.Gad1Gad2.Tac1	CTP0000840	name
+Neuron.Gad1Gad2.Igfbp4.Adora1	CTP0002016	name
+Neuron.Gad1Gad2.Drd1-Nefm	CTP0001098	name
+Neuron.Slc17a7.Neurod2-C1ql3	CTP0000393	name
+Endothelial_Stalk.Flt1.Apold1	CTP0002212	name
+Neuron.Gad1Gad2.Tac2	CTP0002797	name
+Neuron.Gad1Gad2.Fibcd1	CTP0000637	name
+Neuron.Gad1Gad2.Drd1-Pde1c	CTP0002954	name
+Oligodendrocyte.Trf.Kif5b	CTP0003206	name
+Neuron.Gad1Gad2.Satb1	CTP0001212	name
+Neuron.Slc17a7.Nptxr-Ndst4	CTP0000663	name
+Neuron.Gad1Gad2.Vip	CTP0002894	name
+Neuron.Gad1Gad2.Drd1-Lypd1	CTP0002562	name
+Neuron.Gad1Gad2.Chodl	CTP0000728	name
+Neuron.Gad1Gad2.Adora2a-Nefm	CTP0003040	name
+Neuron.Gad1Gad2_Pvalb.Pvalb-Megf11	CTP0001542	name
+Neuron.Slc17a6.Rspo3	CTP0002841	name
+Neuron.Gad1Gad2.Drd1-Pde1a	CTP0000310	name
+Neuron.Gad1Gad2.Drd1-Fos	CTP0002847	name
+Neuron.Gad1Gad2.Adora2a-Nnat	CTP0002308	name
+Neuron.Gad1Gad2.Drd1-Otof-Lmo2	CTP0001392	name
+Neuron.Gad1Gad2.Pvalb-Rgs12	CTP0000280	name
+Polydendrocye.Tnr.Pdgfa	CTP0000964	name
+Neuron.Gad1Gad2.Drd1-Tpbg	CTP0002259	name
+Neuron.Gad1Gad2.Adora2a-Fos	CTP0002986	name
+Astrocyte.Gja1.Crym	CTP0001671	name
+Neuron.Gad1Gad2-Th.Adora2a-Th	CTP0000667	name
+Mural.Rgs5Acta2.Pappa2	CTP0002577	name
+MITOTIC	CTP0002307	name
+Mitotic.MkI67	CTP0001389	name
+Neuron.Gad1Gad2.Vipr2	CTP0001663	name
+Neuron.Gad1Gad2.Lamp5-Cplx3	CTP0002404	name
+Neuron.Gad1Gad2.Sphkap-Cpne4	CTP0002695	name
+Endothelial_Tip.Dcn.Col15a1	CTP0001624	name
+Mural.Rgs5Acta2.Lmcd1	CTP0000457	name
+Neuron.Gad1Gad2.Trh	CTP0002498	name
+Neuron.Gad1Gad2.Igfbp4.Rgs4	CTP0000897	name
+Neuron.Gad1Gad2.Pappa	CTP0001688	name
+Mural.Rgs5Acta2.Acta2	CTP0002306	name
+Neuron.Gad1Gad2.Drd1-Cxcl14	CTP0002880	name
+Polydendrocye.Tnr.Cspg5	CTP0002617	name
+Astrocyte.Gja1.Notum	CTP0001412	name
+Mural.Rgs5Acta2.Col3a1	CTP0000632	name
+Neuron.Slc17a7.Dkk3	CTP0003281	name
+Neuron.Gad1Gad2.Sgol2a	CTP0001100	name
+Neuron.Slc17a7.Cplx3	CTP0001231	name
+Neuron.Slc17a7.Nptxr-Deptor	CTP0001178	name
+Neuron.Slc17a7.Nptxr-Calb1	CTP0001423	name
+Neuron.Slc17a7-Slc17a6.Nptxr-Rorb	CTP0000446	name
+Neuron.Slc17a7.Parm1.Nefm	CTP0001208	name
+Neuron.Slc17a6.Oprk1	CTP0000614	name
+Neuron.Gad1Gad2.Drd1-Nfib	CTP0001706	name
+Mural.Rgs5Acta2.Olfr558	CTP0002092	name
+Neuron.Gad1Gad2.Drd1-Otof-Sorcs1	CTP0003471	name
+Astrocyte.Gja1.Sparc-Car2	CTP0002005	name
+Neuron.Gad1Gad2.Resp18	CTP0001896	name
+Neuron.Gad1Gad2-Th.Trh	CTP0000670	name
+NEUROGENESIS	CTP0000993	name
+Neurogenesis.Sox4.Tuba1c	CTP0003003	name
+Neurogenesis.Sox4.Hist1h2al	CTP0000451	name
+Polydendrocye.Tnr.Ctps	CTP0001696	name
+Neuron.Gad1Gad2.Adora2a-Otof	CTP0000630	name
+Neuron.Gad1Gad2.Adora2a-Th	CTP0003241	name
+Neurogenesis.Sox4.Ung	CTP0001109	name
+Polydendrocye.Tnr.Bmp4	CTP0003077	name
+Neurogenesis.Sox4.Stmn2-Csrp2	CTP0001315	name
+Neuron.Gad1Gad2.Pnoc	CTP0001550	name
+Neurogenesis.Sox4.Stmn2	CTP0000377	name
+Neurogenesis.Sox4.Notum	CTP0000875	name
+Polydendrocyte.Tnr.Tnr	CTP0003204	name
+Neurogenesis.Sox4.Ppp2r2b	CTP0002059	name
+Neuron.Slc17a7.Nxph3-Hpcal1-Tpbg	CTP0001587	name
+Neuron.Slc17a6.Rora.Pvalb	CTP0000500	name
+Neuron.Slc17a6.Rora.Cacng4	CTP0001801	name
+Neuron.Slc17a6.Rora.Cbln2	CTP0000831	name
+Neuron.Slc17a6.Rora.Nrp2	CTP0000631	name
+Neuron.Gad1Gad2.Pou6f2-Pax6	CTP0002535	name
+Neuron.Slc17a6.Rora.Lrrtm2	CTP0000350	name
+Neuron.Gad1Gad2.Chrnb3	CTP0003410	name
+Neuron.Gad1Gad2.Six3-Adcy1	CTP0001952	name
+CHOROID_PLEXUS	CTP0003290	name
+Endothelial_Tip.Dcn.Il33	CTP0000821	name
+Astrocyte.Gja1.Fabp7	CTP0001929	name
+Endothelial_Tip.Dcn.Agt	CTP0003287	name
+Neuron.Slc17a7.Ptgfr	CTP0002898	name
+Neuron.Gad1Gad2_Sst.Pcdh11x	CTP0001246	name
+Neurogenesis.Sox4.Efhd2	CTP0002078	name
+Endothelial_Tip.Dcn.Rbp4	CTP0003101	name
+Polydendrocyte.Tnr.Ptprz1	CTP0002202	name
+Neuron.Slc17a7.Nxph3-Cplx3-Pappa2	CTP0002645	name
+Neurogenesis.Sox4.Gabra5	CTP0000996	name
+Neuron.Gad1Gad2Slc17a8_Sst.Ncam2	CTP0003125	name
+Neurogenesis.Sox4.Gad2	CTP0001875	name
+Neuron.Gad1Gad2_Sst.Atp2b4	CTP0003370	name
+Neuron.Slc17a7.Reln	CTP0001213	name
+Neuron.Slc17a6.Rora.Nptxr	CTP0003418	name
+Neuron.Slc17a6.Nrgn	CTP0003113	name
+Neuron.Slc17a7.Tac2.Htr2c	CTP0000859	name
+Neuron.Slc17a7.Tac2.Wif1	CTP0001084	name
+Neuron.Slc17a7.Tac2.Syt15	CTP0002463	name
+Neuron.Slc17a7.Tac2.Chat	CTP0001533	name
+Neuron.Slc17a6.Sln	CTP0001131	name
+Neuron.Gad1Gad2.Lgi2	CTP0000594	name
+Oligodendroyte.Trf.Il33	CTP0002133	name
+Endothelial_Stalk.Flt1.Pi16	CTP0002809	name
+Neuron.Gad1Gad2.Gata3	CTP0003317	name
+Astrocyte.Gja1.Vegfa	CTP0000346	name
+Endothelial_Tip.Dcn.Nenf	CTP0000420	name
+Neuron.Slc17a6.Rora.Fgf10	CTP0002195	name
+Neuron.Slc17a6.Rora.Atp2b4	CTP0000407	name
+Neuron.Slc17a6.Rora.Calca	CTP0003102	name
+Neuron.Gad1Gad2.Col25a1	CTP0001509	name
+Neuron.Slc17a6.Ebf1	CTP0002129	name
+Mural.Rgs5Acta2.Car4	CTP0000991	name
+Neuron.Gad1Gad2.Six3-Sst	CTP0001476	name
+Neuron.Slc17a6.Rora.C1ql2	CTP0000665	name
+Neuron.Slc17a6.Rora.Lypd6	CTP0003426	name
+Neuron.Slc17a6-Gad1Gad2.Asb4	CTP0000417	name
+Neuron.Gad1Gad2_Pvalb.C1ql1	CTP0001028	name
+Neuron.Gad1Gad2.Cplx3-Crim1	CTP0003187	name
+Neuron.Gad1Gad2.Sst-Calb2	CTP0000595	name
+Polydendrocyte.Tnr.Bmp4-Gpr17	CTP0002000	name
+Neuron.Slc17a6.Reln	CTP0002609	name
+Endothelial_Tip.Dcn.1500015O10Rik	CTP0003445	name
+Endothelial_Stalk.Flt1.Lrg1	CTP0000774	name
+Neuron.Gad1Gad2.Sst-Chodl	CTP0002230	name
+Astrocyte.Gja1	CTP0000814	name
+Mural.Acta2Rgs5.Rgs5	CTP0000826	name
+Endothelial_Tip.Dcn.Apod	CTP0002176	name
+Gja1.Gfap	CTP0000696	name
+Neuron.Gad1Gad2.Pvalb-Chrm2	CTP0002969	name
+Gja1.Htra1	CTP0000454	name
+Neuron.Gad1Gad2.Pvalb-Necab1	CTP0002990	name
+Neuron.Slc17a7.Parm1.Cadm2	CTP0002341	name
+Neuron.Slc17a6-Slc17a7.Fezf2.3110035E14Rik	CTP0001161	name
+Neuron.Gad1Gad2.Cplx3-Dpy19l1	CTP0001652	name
+Neuron.Slc17a7.Syt6-Bdnf	CTP0001012	name
+Neuron.Gad1Gad2.Synpr-Dpy19l1	CTP0000895	name
+Polydendrocyte.Tnr.Bmp4- Ptgds	CTP0000363	name
+Mural.Rgs5Acta2.Abcc9	CTP0000299	name
+Neuron.Slc17a7.Nptxr-Drd1	CTP0002751	name
+Gad1Gad2_Htr3a.Chrm2	CTP0002849	name
+Neuron.Slc17a7-Slc17a6.Nxph3-Nts	CTP0002623	name
+Gad1Gad2_Id2.Tac1	CTP0002600	name
+Neuron.Slc17a6.Htr1a	CTP0001932	name
+Gad1Gad2_Cplx3.Rxfp1	CTP0001908	name
+Neuron.Slc17a7.Nxph3-Ajap1	CTP0001289	name
+Neuron.Slc17a7.Fibcd1-Grm5	CTP0001546	name
+Neuron.Slc17a7.C1ql2-Penk	CTP0002203	name
+Neuron.Slc17a7.Pvrl3-Grm5	CTP0001149	name
+Neuron.Slc17a6.Nnat	CTP0003236	name
+Gad1Gad2Chat_Htr3a.Chat	CTP0000332	name
+Gad1Gad2_Htr3a.Nnat	CTP0001951	name
+Neuron.Slc17a7.Fezf2-Rxfp1	CTP0000503	name
+Neuron.Gad1Gad2_Sst.Spon1	CTP0001261	name
+Gad1Gad2_Htr3a.Sema3c	CTP0003249	name
+Neuron.Gad1Gad2_Sst.Grm1	CTP0000757	name
+Neuron.Slc17a7-Slc17a6.Nxph3-Cbln2-Htr2c	CTP0003416	name
+Neuron.Slc17a7.Nxph3-Sema3c	CTP0001808	name
+Neuron.Gad1Gad2.Pvalb-Cadm1	CTP0000458	name
+Neuron.Gad1Gad2.Pvalb-Rab3b	CTP0002038	name
+Neuron.Gad1Gad2.Pvalb-Nefh	CTP0000853	name
+Neuron.Gad1Gad2_Sst.Rbp4	CTP0001835	name
+Neuron.Slc17a7.Nxph3-Cplx3-Hs6st2	CTP0001534	name
+Gad1Gad2_Htr3a.Ibsp	CTP0000983	name
+Neuron.Slc17a7.Cbln4	CTP0002896	name
+Neuron.Slc17a6.Nell1	CTP0001996	name
+Neuron.Gad1Gad2_Id2.Sfrp2	CTP0001066	name
+Gad1Gad2_Htr3a.Phlda1	CTP0000982	name
+Astrocyte.Gja1.Nnat	CTP0003297	name
+Neuron.Slc17a7.Gabra6	CTP0002347	name
+Neuron.Slc17a6.Grp	CTP0001609	name
+Neurogenesis.Sox4.Cdc20	CTP0002399	name
+Oligodendrocyte.Trf.Man1a	CTP0002095	name
+Neural progenitor cells	CTP0001430	name
+Neural progenitor cells-9	CTP0002144	name
+Neural progenitor cells-9-19	CTP0001298	name
+Chondroctye progenitors	CTP0001926	name
+Chondroctye progenitors-21	CTP0000860	name
+Chondroctye progenitors-21-6	CTP0000642	name
+Schwann cell precursor	CTP0000265	name
+CL:0002375	CTP0000265	ontology
+Schwann cell precursor	CTP0000265	name
+Schwann cell precursor-23	CTP0003022	name
+Schwann cell precursor-23-1	CTP0000559	name
+Osteoblasts	CTP0000833	name
+Osteoblasts-17	CTP0001388	name
+Osteoblasts-17-19	CTP0001754	name
+Oligodendrocyte Progenitors	CTP0002772	name
+Oligodendrocyte Progenitors-11	CTP0000909	name
+Oligodendrocyte Progenitors-11-13	CTP0003365	name
+Sensory neurons	CTP0002533	name
+Sensory neurons-24	CTP0000510	name
+Sensory neurons-24-20	CTP0003328	name
+Neural Tube	CTP0002408	name
+Neural Tube-14	CTP0003460	name
+Neural Tube-14-7	CTP0002722	name
+Definitive erythroid lineage	CTP0000432	name
+Definitive erythroid lineage-22	CTP0002719	name
+Definitive erythroid lineage-22-9	CTP0001143	name
+Intermediate Mesoderm	CTP0002985	name
+Intermediate Mesoderm-3	CTP0002666	name
+Intermediate Mesoderm-3-6	CTP0000867	name
+Postmitotic premature neurons	CTP0001037	name
+Postmitotic premature neurons-10	CTP0001787	name
+Postmitotic premature neurons-10-4	CTP0001367	name
+Melanocytes	CTP0002355	name
+Melanocytes-36	CTP0001709	name
+Melanocytes-36-3	CTP0000313	name
+Myocytes	CTP0001669	name
+Myocytes-13	CTP0003215	name
+Myocytes-13-7	CTP0003104	name
+Premature oligodendrocyte	CTP0002604	name
+Premature oligodendrocyte-19	CTP0002121	name
+Early mesenchyme	CTP0002303	name
+Early mesenchyme-8	CTP0002900	name
+Early mesenchyme-8-15	CTP0000772	name
+Inhibitory interneurons	CTP0001119	name
+Inhibitory interneurons-27	CTP0002826	name
+Inhibitory interneurons-27-4	CTP0002955	name
+Neural progenitor cells-9-9	CTP0002615	name
+Chondroctye progenitors-21-11	CTP0001400	name
+Myocytes-13-4	CTP0001796	name
+White blood cells	CTP0002988	name
+White blood cells-31	CTP0000604	name
+White blood cells-31-9	CTP0000612	name
+Oligodendrocyte Progenitors-11-4	CTP0000523	name
+Chondrocytes & osteoblasts	CTP0001581	name
+Chondrocytes & osteoblasts-2	CTP0000552	name
+Schwann cell precursor-23-23	CTP0001331	name
+Epithelial cells	CTP0000395	name
+Epithelial cells-6	CTP0001328	name
+Epithelial cells-6-22	CTP0002565	name
+Hepatocytes	CTP0002582	name
+Hepatocytes-29	CTP0002743	name
+Hepatocytes-29-3	CTP0001414	name
+Inhibitory neurons	CTP0002467	name
+Inhibitory neurons-15	CTP0003354	name
+Inhibitory neurons-15-8	CTP0003349	name
+Cardiac muscle lineages	CTP0003300	name
+Cardiac muscle lineages-34	CTP0001574	name
+Cardiac muscle lineages-34-7	CTP0001850	name
+Postmitotic premature neurons-10-22	CTP0002795	name
+ependymal cell	CTP0000263	name
+CL:0000065	CTP0000263	ontology
+Ependymal cell	CTP0000263	alias
+Ependymal cell-32	CTP0001224	name
+Ependymal cell-32-2	CTP0003027	name
+Notochord cells	CTP0002789	name
+Notochord cells-30	CTP0003028	name
+Notochord cells-30-3	CTP0002003	name
+Melanocytes-36-4	CTP0002446	name
+Neural progenitor cells-9-27	CTP0000770	name
+Early mesenchyme-8-4	CTP0001694	name
+White blood cells-31-4	CTP0000537	name
+Oligodendrocyte Progenitors-11-1	CTP0003012	name
+Excitatory neurons	CTP0000679	name
+Excitatory neurons-5	CTP0002163	name
+Excitatory neurons-5-9	CTP0000992	name
+Neural Tube-14-14	CTP0003010	name
+Neural progenitor cells-9-20	CTP0002935	name
+Osteoblasts-17-15	CTP0002831	name
+Primitive erythroid lineage	CTP0001864	name
+Primitive erythroid lineage-26	CTP0003397	name
+Primitive erythroid lineage-26-4	CTP0000492	name
+Granule neurons	CTP0001115	name
+Granule neurons-28	CTP0000487	name
+Granule neurons-28-15	CTP0001683	name
+Neural progenitor cells-9-11	CTP0002024	name
+Melanocytes-36-5	CTP0000358	name
+Hepatocytes-29-7	CTP0001480	name
+Primitive erythroid lineage-26-6	CTP0001946	name
+Endothelial cells	CTP0000652	name
+Endothelial cells-20	CTP0000519	name
+Endothelial cells-20-16	CTP0000669	name
+Inhibitory neuron progenitors	CTP0001673	name
+Inhibitory neuron progenitors-18	CTP0000927	name
+Inhibitory neuron progenitors-18-18	CTP0000413	name
+Lens	CTP0001943	name
+Lens-37	CTP0002820	name
+Lens-37-5	CTP0001687	name
+Neural progenitor cells-9-5	CTP0002289	name
+Ependymal cell-32-12	CTP0003276	name
+Isthmic organizer cells	CTP0002592	name
+Isthmic organizer cells-12	CTP0001154	name
+Isthmic organizer cells-12-17	CTP0001901	name
+Sensory neurons-24-4	CTP0001021	name
+Endothelial cells-20-13	CTP0000541	name
+Premature oligodendrocyte-19-5	CTP0003399	name
+Postmitotic premature neurons-10-26	CTP0002278	name
+White blood cells-31-12	CTP0003400	name
+White blood cells-31-2	CTP0001823	name
+Osteoblasts-17-1	CTP0002330	name
+Notochord cells-30-2	CTP0003302	name
+Excitatory neurons-5-4	CTP0001543	name
+Connective tissue progenitors	CTP0003376	name
+Connective tissue progenitors-1	CTP0002214	name
+Connective tissue progenitors-1-4	CTP0000509	name
+Myocytes-13-5	CTP0001466	name
+Excitatory neurons-5-25	CTP0000599	name
+Epithelial cells-6-18	CTP0003221	name
+Melanocytes-36-2	CTP0000940	name
+Hepatocytes-29-4	CTP0003311	name
+Cardiac muscle lineages-34-5	CTP0000600	name
+White blood cells-31-6	CTP0001433	name
+Myocytes-13-15	CTP0002763	name
+Excitatory neurons-5-3	CTP0002928	name
+Notochord cells-30-6	CTP0000682	name
+Ependymal cell-32-13	CTP0002268	name
+Oligodendrocyte Progenitors-11-19	CTP0002471	name
+Inhibitory neuron progenitors-18-13	CTP0001190	name
+Premature oligodendrocyte-19-9	CTP0001071	name
+Notochord cells-30-9	CTP0003402	name
+Chondroctye progenitors-21-15	CTP0002158	name
+Postmitotic premature neurons-10-16	CTP0002834	name
+Lens-37-4	CTP0002818	name
+Inhibitory neuron progenitors-18-15	CTP0000841	name
+Neutrophils	CTP0003425	name
+Neutrophils-38	CTP0002939	name
+Neutrophils-38-4	CTP0001295	name
+Inhibitory interneurons-27-6	CTP0002120	name
+Oligodendrocyte Progenitors-11-10	CTP0001351	name
+Lens-37-1	CTP0001689	name
+White blood cells-31-10	CTP0001695	name
+Osteoblasts-17-8	CTP0001997	name
+Stromal cells	CTP0000731	name
+Stromal cells-16	CTP0000808	name
+Stromal cells-16-14	CTP0001196	name
+Megakaryocytes	CTP0000825	name
+Megakaryocytes-35	CTP0003428	name
+Megakaryocytes-35-6	CTP0002143	name
+Ependymal cell-32-8	CTP0002798	name
+Notochord cells-30-11	CTP0001206	name
+Isthmic organizer cells-12-4	CTP0001566	name
+Isthmic organizer cells-12-13	CTP0001359	name
+Hepatocytes-29-8	CTP0001535	name
+Postmitotic premature neurons-10-14	CTP0003362	name
+Cardiac muscle lineages-34-13	CTP0001410	name
+Postmitotic premature neurons-10-13	CTP0003315	name
+Inhibitory neuron progenitors-18-6	CTP0000672	name
+Isthmic organizer cells-12-12	CTP0000969	name
+Osteoblasts-17-13	CTP0001448	name
+Granule neurons-28-4	CTP0001158	name
+White blood cells-31-13	CTP0001291	name
+Osteoblasts-17-2	CTP0002958	name
+Ependymal cell-32-1	CTP0000740	name
+Epithelial cells-6-19	CTP0002153	name
+Osteoblasts-17-4	CTP0001610	name
+Epithelial cells-6-24	CTP0002914	name
+Ependymal cell-32-7	CTP0002006	name
+Excitatory neurons-5-26	CTP0002313	name
+Lens-37-2	CTP0001390	name
+Inhibitory neurons-15-22	CTP0003238	name
+Chondrocytes & osteoblasts-2-7	CTP0001856	name
+Schwann cell precursor-23-18	CTP0000628	name
+Intermediate Mesoderm-3-22	CTP0000318	name
+Cardiac muscle lineages-34-4	CTP0000605	name
+Neural progenitor cells-9-10	CTP0002511	name
+Intermediate Mesoderm-3-24	CTP0001750	name
+Oligodendrocyte Progenitors-11-18	CTP0001385	name
+Osteoblasts-17-6	CTP0003158	name
+Chondroctye progenitors-21-5	CTP0001934	name
+Neutrophils-38-3	CTP0002995	name
+Neural Tube-14-11	CTP0000342	name
+Ependymal cell-32-4	CTP0001026	name
+White blood cells-31-3	CTP0000865	name
+Postmitotic premature neurons-10-25	CTP0001093	name
+Ependymal cell-32-5	CTP0001705	name
+Epithelial cells-6-27	CTP0002066	name
+Epithelial cells-6-26	CTP0001325	name
+Neural Tube-14-3	CTP0001439	name
+Excitatory neurons-5-5	CTP0002174	name
+Schwann cell precursor-23-13	CTP0002710	name
+Definitive erythroid lineage-22-6	CTP0001384	name
+White blood cells-31-7	CTP0002401	name
+Chondroctye progenitors-21-7	CTP0001979	name
+Inhibitory neuron progenitors-18-1	CTP0000701	name
+Notochord cells-30-15	CTP0001986	name
+White blood cells-31-1	CTP0002246	name
+Chondrocytes & osteoblasts-2-12	CTP0000695	name
+Lens-37-3	CTP0000526	name
+Megakaryocytes-35-2	CTP0002996	name
+Endothelial cells-20-10	CTP0000378	name
+Isthmic organizer cells-12-11	CTP0001847	name
+Isthmic organizer cells-12-2	CTP0002597	name
+Cholinergic neurons	CTP0001281	name
+Cholinergic neurons-33	CTP0001170	name
+Cholinergic neurons-33-12	CTP0002701	name
+Cholinergic neurons-33-14	CTP0000680	name
+Hepatocytes-29-1	CTP0002704	name
+Early mesenchyme-8-11	CTP0000780	name
+Megakaryocytes-35-1	CTP0000944	name
+Megakaryocytes-35-5	CTP0003286	name
+Schwann cell precursor-23-2	CTP0001625	name
+Cholinergic neurons-33-17	CTP0000527	name
+Early mesenchyme-8-12	CTP0002723	name
+Early mesenchyme-8-19	CTP0001614	name
+Cholinergic neurons-33-3	CTP0002688	name
+Inhibitory interneurons-27-9	CTP0003239	name
+Hepatocytes-29-10	CTP0002012	name
+Inhibitory neurons-15-13	CTP0002361	name
+Notochord cells-30-5	CTP0001607	name
+Excitatory neurons-5-14	CTP0001604	name
+Definitive erythroid lineage-22-13	CTP0002787	name
+Megakaryocytes-35-3	CTP0001884	name
+Limb mesenchyme	CTP0002325	name
+Limb mesenchyme-25	CTP0001740	name
+Stromal cells-16-3	CTP0002494	name
+Oligodendrocyte Progenitors-11-17	CTP0000809	name
+Myocytes-13-10	CTP0002173	name
+Endothelial cells-20-15	CTP0000855	name
+Cardiac muscle lineages-34-8	CTP0003106	name
+Excitatory neurons-5-13	CTP0001308	name
+Chondrocytes & osteoblasts-2-2	CTP0002813	name
+Chondrocytes & osteoblasts-2-5	CTP0002337	name
+Stromal cells-16-2	CTP0000883	name
+Jaw and tooth progenitors	CTP0003165	name
+Jaw and tooth progenitors-4	CTP0001437	name
+Jaw and tooth progenitors-4-6	CTP0002388	name
+Neural progenitor cells-9-18	CTP0000963	name
+Jaw and tooth progenitors-4-17	CTP0000428	name
+Epithelial cells-6-14	CTP0003095	name
+Radial glia	CTP0002579	name
+Radial glia-7	CTP0001463	name
+Radial glia-7-10	CTP0002860	name
+White blood cells-31-8	CTP0000648	name
+Myocytes-13-9	CTP0002571	name
+Schwann cell precursor-23-4	CTP0001356	name
+Chondrocytes & osteoblasts-2-19	CTP0002425	name
+Neural progenitor cells-9-25	CTP0001792	name
+Definitive erythroid lineage-22-4	CTP0001322	name
+Postmitotic premature neurons-10-6	CTP0001490	name
+Cholinergic neurons-33-11	CTP0002147	name
+Jaw and tooth progenitors-4-10	CTP0000514	name
+Excitatory neurons-5-12	CTP0001666	name
+Osteoblasts-17-18	CTP0001167	name
+Inhibitory neurons-15-10	CTP0003194	name
+Granule neurons-28-10	CTP0000688	name
+Myocytes-13-8	CTP0000608	name
+Neural progenitor cells-9-16	CTP0002570	name
+Isthmic organizer cells-12-14	CTP0003480	name
+Cardiac muscle lineages-34-2	CTP0002966	name
+Inhibitory interneurons-27-15	CTP0003377	name
+Cardiac muscle lineages-34-1	CTP0000498	name
+Schwann cell precursor-23-20	CTP0003364	name
+Granule neurons-28-7	CTP0002436	name
+Melanocytes-36-6	CTP0003157	name
+Epithelial cells-6-23	CTP0001854	name
+Melanocytes-36-1	CTP0001129	name
+Osteoblasts-17-7	CTP0000388	name
+Sensory neurons-24-19	CTP0000545	name
+Endothelial cells-20-5	CTP0002833	name
+Excitatory neurons-5-1	CTP0002064	name
+Jaw and tooth progenitors-4-11	CTP0000445	name
+Postmitotic premature neurons-10-29	CTP0001081	name
+Neural progenitor cells-9-28	CTP0001259	name
+Inhibitory neuron progenitors-18-7	CTP0002854	name
+Inhibitory interneurons-27-11	CTP0002828	name
+Isthmic organizer cells-12-6	CTP0001505	name
+Inhibitory interneurons-27-8	CTP0003026	name
+Inhibitory interneurons-27-16	CTP0002590	name
+Postmitotic premature neurons-10-27	CTP0002042	name
+Schwann cell precursor-23-22	CTP0003359	name
+Ependymal cell-32-6	CTP0002904	name
+Chondrocytes & osteoblasts-2-18	CTP0001881	name
+White blood cells-31-14	CTP0001391	name
+Granule neurons-28-6	CTP0001280	name
+Megakaryocytes-35-4	CTP0001630	name
+Lens-37-6	CTP0002090	name
+Connective tissue progenitors-1-9	CTP0001454	name
+Neural progenitor cells-9-13	CTP0000368	name
+Sensory neurons-24-9	CTP0001293	name
+Cholinergic neurons-33-19	CTP0002296	name
+Intermediate Mesoderm-3-16	CTP0002883	name
+Early mesenchyme-8-6	CTP0002864	name
+Cardiac muscle lineages-34-11	CTP0003247	name
+Neutrophils-38-1	CTP0001334	name
+Postmitotic premature neurons-10-7	CTP0001536	name
+Neural Tube-14-12	CTP0002917	name
+Oligodendrocyte Progenitors-11-11	CTP0003337	name
+Early mesenchyme-8-10	CTP0002636	name
+Chondroctye progenitors-21-8	CTP0002598	name
+Inhibitory neuron progenitors-18-5	CTP0002836	name
+Premature oligodendrocyte-19-1	CTP0002933	name
+Cholinergic neurons-33-18	CTP0003384	name
+Premature oligodendrocyte-19-8	CTP0000806	name
+Granule neurons-28-12	CTP0000776	name
+Inhibitory interneurons-27-12	CTP0000973	name
+Osteoblasts-17-5	CTP0001615	name
+Isthmic organizer cells-12-3	CTP0001378	name
+Cardiac muscle lineages-34-3	CTP0002216	name
+Excitatory neurons-5-15	CTP0002279	name
+Sensory neurons-24-12	CTP0002265	name
+Early mesenchyme-8-16	CTP0000449	name
+Premature oligodendrocyte-19-10	CTP0003067	name
+Sensory neurons-24-17	CTP0000653	name
+Neural Tube-14-16	CTP0002613	name
+Hepatocytes-29-12	CTP0002949	name
+Early mesenchyme-8-7	CTP0001183	name
+Chondroctye progenitors-21-2	CTP0002758	name
+Epithelial cells-6-29	CTP0000820	name
+Postmitotic premature neurons-10-1	CTP0002493	name
+Hepatocytes-29-13	CTP0001376	name
+Melanocytes-36-8	CTP0000876	name
+Intermediate Mesoderm-3-17	CTP0000277	name
+Postmitotic premature neurons-10-24	CTP0001681	name
+Sensory neurons-24-11	CTP0002670	name
+Notochord cells-30-13	CTP0001726	name
+Postmitotic premature neurons-10-8	CTP0001937	name
+Oligodendrocyte Progenitors-11-20	CTP0002586	name
+Inhibitory neurons-15-9	CTP0000439	name
+Notochord cells-30-4	CTP0002060	name
+Inhibitory interneurons-27-5	CTP0002599	name
+Stromal cells-16-9	CTP0001623	name
+Postmitotic premature neurons-10-28	CTP0002584	name
+Intermediate Mesoderm-3-13	CTP0002429	name
+Schwann cell precursor-23-14	CTP0003137	name
+Oligodendrocyte Progenitors-11-12	CTP0003411	name
+Epithelial cells-6-16	CTP0002046	name
+Neutrophils-38-2	CTP0001465	name
+Radial glia-7-21	CTP0001278	name
+Myocytes-13-12	CTP0000602	name
+Schwann cell precursor-23-11	CTP0001601	name
+Schwann cell precursor-23-21	CTP0001582	name
+Endothelial cells-20-9	CTP0000800	name
+Definitive erythroid lineage-22-2	CTP0003388	name
+Endothelial cells-20-7	CTP0001756	name
+Osteoblasts-17-10	CTP0002679	name
+Oligodendrocyte Progenitors-11-3	CTP0001248	name
+Epithelial cells-6-25	CTP0002927	name
+Endothelial cells-20-12	CTP0002542	name
+Notochord cells-30-7	CTP0003033	name
+Jaw and tooth progenitors-4-4	CTP0000524	name
+Inhibitory interneurons-27-2	CTP0002805	name
+Radial glia-7-22	CTP0002664	name
+Chondrocytes & osteoblasts-2-3	CTP0003434	name
+Stromal cells-16-1	CTP0002956	name
+Cholinergic neurons-33-2	CTP0001522	name
+Radial glia-7-3	CTP0000339	name
+Inhibitory neuron progenitors-18-2	CTP0000920	name
+Definitive erythroid lineage-22-8	CTP0003284	name
+Schwann cell precursor-23-16	CTP0003139	name
+Neural progenitor cells-9-15	CTP0001745	name
+Schwann cell precursor-23-10	CTP0003468	name
+Postmitotic premature neurons-10-20	CTP0000352	name
+Stromal cells-16-11	CTP0000729	name
+Jaw and tooth progenitors-4-13	CTP0002732	name
+Schwann cell precursor-23-19	CTP0001425	name
+Neural Tube-14-2	CTP0002672	name
+Definitive erythroid lineage-22-5	CTP0002007	name
+Intermediate Mesoderm-3-4	CTP0001182	name
+Schwann cell precursor-23-7	CTP0001141	name
+Primitive erythroid lineage-26-5	CTP0003299	name
+Chondroctye progenitors-21-14	CTP0001568	name
+Neural progenitor cells-9-2	CTP0002373	name
+Hepatocytes-29-9	CTP0001004	name
+Intermediate Mesoderm-3-23	CTP0001017	name
+Intermediate Mesoderm-3-10	CTP0003074	name
+Epithelial cells-6-11	CTP0001241	name
+Epithelial cells-6-1	CTP0003087	name
+Cholinergic neurons-33-16	CTP0003423	name
+Neural Tube-14-6	CTP0002220	name
+Hepatocytes-29-5	CTP0000435	name
+Inhibitory interneurons-27-3	CTP0002871	name
+Intermediate Mesoderm-3-1	CTP0001747	name
+Inhibitory neuron progenitors-18-16	CTP0002479	name
+Granule neurons-28-14	CTP0002780	name
+Endothelial cells-20-2	CTP0001097	name
+Notochord cells-30-17	CTP0003355	name
+Inhibitory interneurons-27-1	CTP0001815	name
+Schwann cell precursor-23-17	CTP0003291	name
+Inhibitory neurons-15-15	CTP0001354	name
+Definitive erythroid lineage-22-19	CTP0003056	name
+Stromal cells-16-7	CTP0002601	name
+Hepatocytes-29-2	CTP0000529	name
+Limb mesenchyme-25-2	CTP0003174	name
+Melanocytes-36-10	CTP0001554	name
+Inhibitory interneurons-27-14	CTP0002262	name
+Ependymal cell-32-11	CTP0001627	name
+Sensory neurons-24-13	CTP0000910	name
+Intermediate Mesoderm-3-19	CTP0000634	name
+Inhibitory neurons-15-20	CTP0002974	name
+Stromal cells-16-10	CTP0000575	name
+Chondrocytes & osteoblasts-2-14	CTP0001250	name
+Early mesenchyme-8-17	CTP0002482	name
+Sensory neurons-24-7	CTP0002800	name
+Myocytes-13-16	CTP0001227	name
+Limb mesenchyme-25-9	CTP0000752	name
+Sensory neurons-24-15	CTP0002517	name
+Neural progenitor cells-9-17	CTP0000401	name
+Inhibitory neurons-15-1	CTP0001082	name
+Notochord cells-30-14	CTP0001569	name
+Hepatocytes-29-6	CTP0002196	name
+Inhibitory interneurons-27-10	CTP0002989	name
+Jaw and tooth progenitors-4-14	CTP0001492	name
+Epithelial cells-6-6	CTP0001044	name
+Inhibitory neuron progenitors-18-9	CTP0000904	name
+Oligodendrocyte Progenitors-11-6	CTP0002656	name
+Granule neurons-28-13	CTP0000970	name
+Oligodendrocyte Progenitors-11-9	CTP0003191	name
+Definitive erythroid lineage-22-12	CTP0001054	name
+Inhibitory neurons-15-7	CTP0000376	name
+Osteoblasts-17-12	CTP0000390	name
+Premature oligodendrocyte-19-16	CTP0000650	name
+Primitive erythroid lineage-26-1	CTP0001317	name
+Melanocytes-36-9	CTP0000692	name
+Primitive erythroid lineage-26-2	CTP0000948	name
+Primitive erythroid lineage-26-3	CTP0000288	name
+Intermediate Mesoderm-3-9	CTP0002167	name
+Jaw and tooth progenitors-4-5	CTP0000884	name
+Inhibitory interneurons-27-7	CTP0000315	name
+Cholinergic neurons-33-13	CTP0002692	name
+Jaw and tooth progenitors-4-19	CTP0000918	name
+Ependymal cell-32-14	CTP0000766	name
+Osteoblasts-17-14	CTP0002077	name
+Inhibitory neuron progenitors-18-14	CTP0002662	name
+Chondrocytes & osteoblasts-2-20	CTP0002720	name
+Notochord cells-30-10	CTP0001869	name
+Epithelial cells-6-3	CTP0002010	name
+Ependymal cell-32-3	CTP0002548	name
+Neural progenitor cells-9-6	CTP0003265	name
+Premature oligodendrocyte-19-14	CTP0001730	name
+Notochord cells-30-8	CTP0003097	name
+Epithelial cells-6-9	CTP0001349	name
+Stromal cells-16-12	CTP0001132	name
+Jaw and tooth progenitors-4-7	CTP0002934	name
+Inhibitory neuron progenitors-18-11	CTP0001311	name
+Limb mesenchyme-25-4	CTP0002716	name
+Oligodendrocyte Progenitors-11-16	CTP0002150	name
+Sensory neurons-24-21	CTP0003477	name
+Inhibitory neurons-15-17	CTP0000554	name
+Stromal cells-16-5	CTP0003229	name
+Postmitotic premature neurons-10-18	CTP0001440	name
+Connective tissue progenitors-1-7	CTP0002478	name
+Excitatory neurons-5-8	CTP0000290	name
+Myocytes-13-17	CTP0003329	name
+Granule neurons-28-16	CTP0002384	name
+White blood cells-31-11	CTP0003330	name
+Excitatory neurons-5-2	CTP0001664	name
+Intermediate Mesoderm-3-8	CTP0001428	name
+Neural progenitor cells-9-4	CTP0000681	name
+Premature oligodendrocyte-19-4	CTP0003424	name
+Isthmic organizer cells-12-1	CTP0002217	name
+Early mesenchyme-8-8	CTP0003404	name
+Notochord cells-30-1	CTP0001135	name
+Epithelial cells-6-2	CTP0000829	name
+Inhibitory neurons-15-4	CTP0002991	name
+Cardiac muscle lineages-34-9	CTP0001545	name
+Granule neurons-28-2	CTP0000381	name
+Cholinergic neurons-33-1	CTP0001478	name
+Premature oligodendrocyte-19-15	CTP0003278	name
+Radial glia-7-15	CTP0003145	name
+Epithelial cells-6-4	CTP0000709	name
+Limb mesenchyme-25-10	CTP0002703	name
+Isthmic organizer cells-12-15	CTP0001648	name
+Isthmic organizer cells-12-8	CTP0002311	name
+Sensory neurons-24-1	CTP0003372	name
+Radial glia-7-1	CTP0002453	name
+Radial glia-7-14	CTP0000721	name
+Excitatory neurons-5-23	CTP0002544	name
+Epithelial cells-6-7	CTP0000908	name
+Neural Tube-14-10	CTP0003058	name
+Epithelial cells-6-5	CTP0003152	name
+Osteoblasts-17-11	CTP0002106	name
+Radial glia-7-2	CTP0000571	name
+Radial glia-7-13	CTP0002335	name
+Neural Tube-14-5	CTP0001989	name
+Premature oligodendrocyte-19-12	CTP0003393	name
+Granule neurons-28-17	CTP0002110	name
+Cholinergic neurons-33-10	CTP0002111	name
+Inhibitory neuron progenitors-18-3	CTP0002923	name
+Chondrocytes & osteoblasts-2-21	CTP0001708	name
+Inhibitory neurons-15-18	CTP0000639	name
+Intermediate Mesoderm-3-12	CTP0000977	name
+Intermediate Mesoderm-3-15	CTP0000975	name
+Endothelial cells-20-3	CTP0003322	name
+Neural Tube-14-8	CTP0001954	name
+Sensory neurons-24-14	CTP0001702	name
+Chondrocytes & osteoblasts-2-16	CTP0002694	name
+Oligodendrocyte Progenitors-11-8	CTP0000708	name
+Definitive erythroid lineage-22-14	CTP0002530	name
+Sensory neurons-24-2	CTP0000744	name
+Definitive erythroid lineage-22-17	CTP0001691	name
+Granule neurons-28-3	CTP0002913	name
+Granule neurons-28-1	CTP0000988	name
+Isthmic organizer cells-12-5	CTP0003294	name
+Granule neurons-28-11	CTP0002807	name
+Sensory neurons-24-8	CTP0003382	name
+Definitive erythroid lineage-22-15	CTP0000354	name
+Schwann cell precursor-23-9	CTP0001873	name
+Schwann cell precursor-23-6	CTP0000782	name
+Intermediate Mesoderm-3-14	CTP0001795	name
+Cardiac muscle lineages-34-12	CTP0003116	name
+Ependymal cell-32-10	CTP0000410	name
+Stromal cells-16-8	CTP0001001	name
+Epithelial cells-6-17	CTP0003304	name
+Postmitotic premature neurons-10-17	CTP0002349	name
+Epithelial cells-6-13	CTP0002172	name
+Epithelial cells-6-15	CTP0000334	name
+Sensory neurons-24-16	CTP0001649	name
+Endothelial cells-20-11	CTP0002509	name
+Definitive erythroid lineage-22-18	CTP0001826	name
+Inhibitory neuron progenitors-18-17	CTP0001124	name
+Melanocytes-36-7	CTP0003080	name
+Premature oligodendrocyte-19-6	CTP0002875	name
+Inhibitory neurons-15-11	CTP0002395	name
+Early mesenchyme-8-14	CTP0001352	name
+Connective tissue progenitors-1-1	CTP0001471	name
+Chondroctye progenitors-21-9	CTP0001711	name
+Radial glia-7-18	CTP0002680	name
+Osteoblasts-17-9	CTP0001578	name
+Neural Tube-14-15	CTP0002304	name
+Neural progenitor cells-9-24	CTP0001532	name
+Neural progenitor cells-9-14	CTP0003386	name
+Osteoblasts-17-17	CTP0002015	name
+Myocytes-13-6	CTP0001714	name
+Stromal cells-16-6	CTP0001366	name
+Schwann cell precursor-23-5	CTP0002876	name
+Limb mesenchyme-25-7	CTP0002253	name
+Myocytes-13-14	CTP0000660	name
+Schwann cell precursor-23-15	CTP0002359	name
+Intermediate Mesoderm-3-20	CTP0000303	name
+Epithelial cells-6-28	CTP0002047	name
+Excitatory neurons-5-17	CTP0000796	name
+Inhibitory neurons-15-3	CTP0000418	name
+Postmitotic premature neurons-10-21	CTP0002160	name
+---	CTP0001976	name
+Premature oligodendrocyte-19-11	CTP0001326	name
+Postmitotic premature neurons-10-11	CTP0001525	name
+Oligodendrocyte Progenitors-11-14	CTP0001579	name
+Stromal cells-16-13	CTP0001768	name
+Oligodendrocyte Progenitors-11-5	CTP0002635	name
+Chondroctye progenitors-21-1	CTP0000717	name
+Granule neurons-28-8	CTP0001225	name
+Epithelial cells-6-20	CTP0000641	name
+Neural progenitor cells-9-7	CTP0002543	name
+Radial glia-7-12	CTP0002022	name
+Sensory neurons-24-18	CTP0002255	name
+Radial glia-7-17	CTP0002993	name
+Early mesenchyme-8-5	CTP0001058	name
+Inhibitory neuron progenitors-18-10	CTP0000869	name
+Inhibitory neuron progenitors-18-8	CTP0002274	name
+Excitatory neurons-5-6	CTP0000347	name
+Cholinergic neurons-33-9	CTP0000761	name
+Jaw and tooth progenitors-4-12	CTP0000440	name
+Inhibitory neurons-15-2	CTP0002492	name
+Inhibitory neurons-15-16	CTP0000643	name
+Postmitotic premature neurons-10-19	CTP0000577	name
+Isthmic organizer cells-12-10	CTP0002902	name
+Neural Tube-14-13	CTP0000613	name
+Radial glia-7-20	CTP0001677	name
+Inhibitory neuron progenitors-18-12	CTP0001205	name
+Myocytes-13-19	CTP0003405	name
+Inhibitory neurons-15-12	CTP0001020	name
+Epithelial cells-6-10	CTP0002667	name
+Sensory neurons-24-22	CTP0001273	name
+Endothelial cells-20-6	CTP0001083	name
+Early mesenchyme-8-13	CTP0001930	name
+Radial glia-7-5	CTP0000673	name
+Intermediate Mesoderm-3-7	CTP0001327	name
+Jaw and tooth progenitors-4-1	CTP0001442	name
+Myocytes-13-21	CTP0002168	name
+Myocytes-13-13	CTP0002219	name
+Chondroctye progenitors-21-10	CTP0000273	name
+Premature oligodendrocyte-19-2	CTP0001659	name
+White blood cells-31-5	CTP0003019	name
+Epithelial cells-6-21	CTP0001374	name
+Cholinergic neurons-33-7	CTP0001733	name
+Jaw and tooth progenitors-4-18	CTP0002781	name
+Inhibitory neurons-15-6	CTP0000751	name
+Jaw and tooth progenitors-4-3	CTP0002495	name
+Early mesenchyme-8-9	CTP0001761	name
+Intermediate Mesoderm-3-2	CTP0000606	name
+Chondrocytes & osteoblasts-2-15	CTP0002183	name
+Early mesenchyme-8-2	CTP0003310	name
+Postmitotic premature neurons-10-5	CTP0002705	name
+Definitive erythroid lineage-22-7	CTP0000775	name
+Neural progenitor cells-9-1	CTP0000623	name
+Jaw and tooth progenitors-4-8	CTP0002093	name
+Isthmic organizer cells-12-16	CTP0000892	name
+Osteoblasts-17-16	CTP0000952	name
+Neural progenitor cells-9-22	CTP0002661	name
+Chondroctye progenitors-21-4	CTP0000546	name
+Neural progenitor cells-9-12	CTP0001047	name
+Sensory neurons-24-5	CTP0000624	name
+Myocytes-13-11	CTP0000685	name
+Notochord cells-30-12	CTP0001597	name
+Endothelial cells-20-14	CTP0001732	name
+Postmitotic premature neurons-10-3	CTP0003150	name
+Chondroctye progenitors-21-13	CTP0002817	name
+Limb mesenchyme-25-8	CTP0002602	name
+Connective tissue progenitors-1-3	CTP0000711	name
+Neural progenitor cells-9-3	CTP0002637	name
+Excitatory neurons-5-11	CTP0001685	name
+Inhibitory neurons-15-14	CTP0002328	name
+Notochord cells-30-16	CTP0001313	name
+Oligodendrocyte Progenitors-11-15	CTP0003183	name
+Radial glia-7-19	CTP0001285	name
+Hepatocytes-29-11	CTP0002764	name
+Postmitotic premature neurons-10-15	CTP0002295	name
+Postmitotic premature neurons-10-12	CTP0001256	name
+Limb mesenchyme-25-3	CTP0003041	name
+Cholinergic neurons-33-8	CTP0002127	name
+Neural progenitor cells-9-21	CTP0003212	name
+Ependymal cell-32-9	CTP0000980	name
+Sensory neurons-24-3	CTP0003048	name
+Premature oligodendrocyte-19-7	CTP0000767	name
+Premature oligodendrocyte-19-3	CTP0002247	name
+Endothelial cells-20-8	CTP0001831	name
+Early mesenchyme-8-18	CTP0003190	name
+Definitive erythroid lineage-22-1	CTP0001716	name
+Limb mesenchyme-25-11	CTP0002286	name
+Excitatory neurons-5-19	CTP0001086	name
+Chondrocytes & osteoblasts-2-6	CTP0001968	name
+Intermediate Mesoderm-3-3	CTP0001451	name
+Connective tissue progenitors-1-2	CTP0002640	name
+Radial glia-7-7	CTP0003089	name
+Excitatory neurons-5-22	CTP0000718	name
+Schwann cell precursor-23-8	CTP0000925	name
+Intermediate Mesoderm-3-11	CTP0001871	name
+Jaw and tooth progenitors-4-2	CTP0000866	name
+Connective tissue progenitors-1-8	CTP0002387	name
+Oligodendrocyte Progenitors-11-7	CTP0002299	name
+Intermediate Mesoderm-3-21	CTP0001175	name
+Chondrocytes & osteoblasts-2-4	CTP0000773	name
+Chondrocytes & osteoblasts-2-17	CTP0000555	name
+Cardiac muscle lineages-34-6	CTP0000433	name
+Neural progenitor cells-9-26	CTP0000329	name
+Sensory neurons-24-6	CTP0000337	name
+Notochord cells-30-18	CTP0002829	name
+Oligodendrocyte Progenitors-11-2	CTP0001136	name
+Cholinergic neurons-33-15	CTP0003049	name
+Connective tissue progenitors-1-6	CTP0002971	name
+Definitive erythroid lineage-22-20	CTP0003307	name
+Excitatory neurons-5-10	CTP0001042	name
+Neural Tube-14-1	CTP0003417	name
+Early mesenchyme-8-1	CTP0003071	name
+Excitatory neurons-5-20	CTP0000896	name
+Stromal cells-16-4	CTP0000644	name
+Connective tissue progenitors-1-5	CTP0001811	name
+Definitive erythroid lineage-22-3	CTP0002981	name
+Radial glia-7-8	CTP0001411	name
+Definitive erythroid lineage-22-11	CTP0003242	name
+Myocytes-13-18	CTP0000674	name
+Sensory neurons-24-10	CTP0002354	name
+Limb mesenchyme-25-1	CTP0003267	name
+Cholinergic neurons-33-5	CTP0002778	name
+Endothelial cells-20-1	CTP0002578	name
+Granule neurons-28-5	CTP0002231	name
+Chondroctye progenitors-21-12	CTP0002264	name
+Cholinergic neurons-33-4	CTP0001556	name
+Excitatory neurons-5-18	CTP0002771	name
+Limb mesenchyme-25-6	CTP0002773	name
+Inhibitory neurons-15-19	CTP0000843	name
+Inhibitory neurons-15-21	CTP0003213	name
+Excitatory neurons-5-27	CTP0001316	name
+Neural progenitor cells-9-23	CTP0001510	name
+Limb mesenchyme-25-5	CTP0002438	name
+Isthmic organizer cells-12-7	CTP0002043	name
+Definitive erythroid lineage-22-10	CTP0000459	name
+Early mesenchyme-8-3	CTP0002155	name
+Radial glia-7-9	CTP0001479	name
+Granule neurons-28-9	CTP0001307	name
+Chondrocytes & osteoblasts-2-13	CTP0000455	name
+Jaw and tooth progenitors-4-15	CTP0002134	name
+Schwann cell precursor-23-12	CTP0000651	name
+Premature oligodendrocyte-19-13	CTP0003184	name
+Definitive erythroid lineage-22-16	CTP0001942	name
+Neural Tube-14-9	CTP0000326	name
+Ependymal cell-32-15	CTP0001009	name
+Chondrocytes & osteoblasts-2-11	CTP0000811	name
+Myocytes-13-20	CTP0000878	name
+Jaw and tooth progenitors-4-9	CTP0001264	name
+Inhibitory interneurons-27-13	CTP0002234	name
+Inhibitory interneurons-27-17	CTP0000561	name
+Neural Tube-14-4	CTP0002554	name
+Radial glia-7-6	CTP0001238	name
+Cardiac muscle lineages-34-10	CTP0002815	name
+Cholinergic neurons-33-6	CTP0002861	name
+Epithelial cells-6-8	CTP0000987	name
+Schwann cell precursor-23-3	CTP0001444	name
+Inhibitory neurons-15-5	CTP0001162	name
+Osteoblasts-17-3	CTP0003308	name
+Neural progenitor cells-9-8	CTP0002549	name
+Inhibitory neuron progenitors-18-4	CTP0003437	name
+Postmitotic premature neurons-10-9	CTP0000844	name
+Isthmic organizer cells-12-9	CTP0003163	name
+Postmitotic premature neurons-10-23	CTP0001072	name
+Myocytes-13-2	CTP0001209	name
+Excitatory neurons-5-7	CTP0002242	name
+Radial glia-7-16	CTP0001660	name
+Chondrocytes & osteoblasts-2-10	CTP0003185	name
+Postmitotic premature neurons-10-2	CTP0000891	name
+Jaw and tooth progenitors-4-16	CTP0001171	name
+Excitatory neurons-5-21	CTP0001770	name
+Myocytes-13-1	CTP0003389	name
+Postmitotic premature neurons-10-10	CTP0001501	name
+Radial glia-7-11	CTP0001151	name
+Chondroctye progenitors-21-3	CTP0001503	name
+Excitatory neurons-5-16	CTP0002405	name
+Radial glia-7-4	CTP0002018	name
+Chondrocytes & osteoblasts-2-9	CTP0002302	name
+Chondrocytes & osteoblasts-2-8	CTP0003053	name
+Intermediate Mesoderm-3-18	CTP0002744	name
+Excitatory neurons-5-24	CTP0002572	name
+Myocytes-13-3	CTP0001073	name
+Intermediate Mesoderm-3-5	CTP0000856	name
+Chondrocytes & osteoblasts-2-1	CTP0002131	name
+Epithelial cells-6-12	CTP0000656	name
+Endothelial cells-20-4	CTP0002736	name
+Vascular cells	CTP0002827	name
+Vascular endothelial cells	CTP0001344	name
+Immune cells	CTP0000966	name
+Microglia	CTP0003422	name
+Vascular and leptomeningeal cells	CTP0000668	name
+Vascular smooth muscle cells	CTP0003266	name
+Glia	CTP0001272	name
+CNS glia	CTP0002350	name
+Astroependymal cells	CTP0001878	name
+Ependymal cells	CTP0000469	name
+Astrocytes	CTP0002653	name
+Choroid epithelial cells	CTP0002700	name
+Neurons	CTP0002891	name
+PNS neurons	CTP0000563	name
+Peripheral sensory neurons	CTP0003457	name
+Peripheral sensory non-peptidergic neurons	CTP0000880	name
+Peripheral sensory neurofilament neurons	CTP0001862	name
+Peripheral sensory peptidergic neurons	CTP0002587	name
+Sympathetic neurons	CTP0002952	name
+Sympathetic cholinergic neurons	CTP0000283	name
+Sympathetic noradrenergic neurons	CTP0002588	name
+Perivascular macrophages	CTP0001781	name
+Neural crest-like glia	CTP0002063	name
+Satellite glia	CTP0002610	name
+Schwann cells	CTP0001394	name
+CNS neurons	CTP0002075	name
+Immature neural	CTP0003268	name
+Non-glutamatergic neuroblasts	CTP0001099	name
+Di- and mesencephalon neurons	CTP0002884	name
+Di- and mesencephalon excitatory neurons	CTP0003159	name
+Hindbrain neurons	CTP0000760	name
+Glutamatergic neuroblasts	CTP0001904	name
+Cholinergic, monoaminergic and peptidergic neurons	CTP0003098	name
+Peptidergic neurons	CTP0002126	name
+Telencephalon interneurons	CTP0000493	name
+Telencephalon inhibitory interneurons	CTP0000787	name
+Olfactory inhibitory neurons	CTP0001494	name
+Cholinergic and monoaminergic neurons	CTP0001990	name
+Subventricular zone radial glia-like cells	CTP0001816	name
+Dentate gyrus radial glia-like cells	CTP0002621	name
+Olfactory ensheathing cells	CTP0002737	name
+Spinal cord neurons	CTP0001061	name
+Spinal cord excitatory neurons	CTP0002536	name
+Telencephalon projecting neurons	CTP0001646	name
+Telencephalon projecting inhibitory neurons	CTP0003029	name
+Oligodendrocytes	CTP0000921	name
+Enteric glia	CTP0001907	name
+Enteric neurons	CTP0001461	name
+Telencephalon projecting excitatory neurons	CTP0001891	name
+Cerebellum neurons	CTP0002510	name
+Di- and mesencephalon inhibitory neurons	CTP0002881	name
+Spinal cord inhibitory neurons	CTP0000724	name
+Oligodendrocyte precursor cells	CTP0002083	name
+Dentate gyrus granule neurons	CTP0001031	name
+Subcommissural organ hypendymal cells	CTP0001150	name
+Diencephalic roof plate	CTP0001362	name
+glioblast	CTP0000266	name
+CL:0000030	CTP0000266	ontology
+Glioblast	CTP0000266	alias
+Midbrain	CTP0000671	name
+Neuroblast	CTP0001497	name
+Midbrain GABAergic	CTP0001956	name
+Forebrain glutamatergic	CTP0000881	name
+Committed oligodendrocyte precursor	CTP0002673	name
+Forebrain GABAergic	CTP0002992	name
+Cajal-Retzius	CTP0000733	name
+Forebrain	CTP0003401	name
+PreOPC	CTP0002525	name
+Mixed region	CTP0003433	name
+Mixed region astrocytes	CTP0002209	name
+Spinal cord	CTP0000474	name
+oligodendrocyte precursor cell	CTP0000177	name
+CL:0002453	CTP0000177	ontology
+Oligodendrocyte precursor cell	CTP0000177	alias
+Undefined	CTP0003057	name
+motor neuron	CTP0000270	name
+CL:0000100	CTP0000270	ontology
+Motor neuron	CTP0000270	alias
+sensory neuron	CTP0000271	name
+CL:0000101	CTP0000271	ontology
+Sensory neuron	CTP0000271	alias
+Midbrain glutamatergic	CTP0002718	name
+Hindbrain glutamatergic	CTP0001876	name
+Hindbrain glycinergic	CTP0001920	name
+Hindbrain	CTP0002210	name
+Hindbrain GABAergic	CTP0002358	name
+Spinal cord glutamatergic	CTP0000550	name
+Mixed region glutamatergic	CTP0000416	name
+Hypothalamus	CTP0003228	name
+Ependymal-like	CTP0001807	name
+Ependymal	CTP0002631	name
+Late isthmic organizer	CTP0002585	name
+Bergmann glia	CTP0001399	name
+Choroid plexus	CTP0001638	name
+olfactory ensheathing cell	CTP0000201	name
+CL:0011028	CTP0000201	ontology
+Olfactory ensheathing cell	CTP0000201	alias
+Subcommissural organ	CTP0000412	name
+Subcommissural organ hypendymal cell	CTP0002489	name
+Pineal gland	CTP0002589	name
+Dorsal hindbrain and spinal cord	CTP0000805	name
+Diencephalon	CTP0003133	name
+Dorsal hindbrain	CTP0002200	name
+Cortical hem	CTP0003461	name
+Mixed region and neurotransmitter	CTP0000742	name
+Midbrain dopaminergic	CTP0003473	name
+Dorsal midbrain glutamatergic	CTP0001221	name
+Cerebellum glutamatergic	CTP0002170	name
+Diencephalon glutamatergic	CTP0000495	name
+Pituitary neuroendocrine	CTP0000664	name
+Epithalamus glutamatergic	CTP0002911	name
+Mixed region GABAergic	CTP0001232	name
+Spinal cord glycinergic	CTP0000635	name
+Cerebellum GABAergic	CTP0002699	name
+Posterior hindbrain glutamatergic	CTP0002352	name
+Cortical or hippocampal glutamatergic	CTP0001894	name
+Neuronal intermediate progenitor	CTP0000501	name
+Thalamus glutamatergic	CTP0002767	name
+Hindbrain serotoninergic	CTP0001360	name
+Hypothalamus glutamatergic	CTP0001507	name
+Midbrain-hindbrain GABAergic	CTP0002076	name
+Perivascular fibroblast-like cells	CTP0001253	name
+Pia 1	CTP0002454	name
+Early fibroblasts	CTP0002098	name
+Pia 2	CTP0001210	name
+Blood	CTP0002226	name
+Erythroid progenitor	CTP0003100	name
+erythrocyte	CTP0000178	name
+CL:0000232	CTP0000178	ontology
+Erythrocyte	CTP0000178	alias
+Chondrocytes	CTP0003091	name
+Pia 3	CTP0001834	name
+Arachnoid	CTP0003371	name
+Intermediate meninges 2	CTP0001039	name
+Arachnoid barrier cells	CTP0000726	name
+Dura	CTP0002515	name
+Vascular	CTP0001676	name
+Intermediate meninges 1	CTP0001991	name
+Neural tube	CTP0002408	name
+Caudal	CTP0001514	name
+Optic cup	CTP0000557	name
+Anterior	CTP0002862	name
+Mesenchyme	CTP0002002	name
+Floor plate	CTP0001788	name
+Neural crest	CTP0002258	name
+Mesoderm	CTP0002632	name
+Pharyngeal	CTP0002215	name
+Bad cells	CTP0003001	name
+Paraxial	CTP0003177	name
+Cardiac	CTP0001925	name
+Neuromesodermal progenitors	CTP0003009	name
+Gastrulation	CTP0001941	name
+Hematoendothelial lineage	CTP0002741	name
+Nascent mesoderm	CTP0000422	name
+Epiblast	CTP0002761	name
+Primordial germ cells	CTP0001229	name
+Osteochondral mesoderm	CTP0001855	name
+Endoderm	CTP0002032	name
+Extraembryonic ectoderm	CTP0002442	name
+Parietal endoderm	CTP0002406	name
+Visceral endoderm	CTP0002400	name
+Cardiac mesoderm	CTP0000759	name
+Extraembryonic endoderm	CTP0003455	name
+Definitive endoderm	CTP0001393	name
+Fourth-ventricle roof plate	CTP0001645	name
+Early choroid plexus	CTP0003178	name
+Node	CTP0001961	name
+Anterior primitive streak	CTP0000847	name
+Ectoderm	CTP0001620	name
+Olfactory epithelium	CTP0001757	name
+Olfactory pit	CTP0002118	name
+Lateral nasal pit	CTP0000659	name
+Early ectoderm	CTP0001840	name
+Gut	CTP0001970	name
+Dorsal early ectoderm	CTP0002054	name
+Surface ectoderm	CTP0001005	name
+Oral ectoderm	CTP0002931	name
+Adenohypophyseal placode	CTP0003344	name
+Otic vesicle	CTP0000364	name
+Pharyngeal epithelium	CTP0001874	name
+Dorsal forebrain	CTP0002097	name
+Ventral hindbrain	CTP0003255	name
+Ventral midbrain	CTP0001794	name
+Midbrain-hindbrain boundary	CTP0000488	name
+Immune	CTP0000444	name
+Infiltrating immune	CTP0000508	name
+platelet	CTP0000071	name
+CL:0000233	CTP0000071	ontology
+Platelet	CTP0000071	alias
+Early macrophage	CTP0001286	name
+Forebrain astrocyte	CTP0002606	name
+Dorsal midbrain	CTP0000406	name
+Anteromedial cerebral pole	CTP0000678	name
+Roof plate	CTP0001383	name
+Dorsal diencephalon	CTP0001320	name
+Midbrain basal plate	CTP0001905	name
+Hindbrain roof plate	CTP0001251	name
+Midbrain floor plate	CTP0001220	name
+Hypothalamic floor-plate like	CTP0002317	name
+Zona limitans intrathalamica	CTP0002534	name
+Hindbrain floor plate	CTP0001443	name
+Angioblast	CTP0001712	name
+Endothelial	CTP0002284	name
+Axon tract-associated microglia	CTP0001670	name
+Pericyte	CTP0001416	name
+Vascular smooth muscle	CTP0001106	name
+Non-cycling perivascular macrophages	CTP0000341	name
+Cycling perivascular macrophages	CTP0001284	name
+Cycling microglia	CTP0002997	name
+Non-cycling microglia	CTP0001373	name
+Radial glia cell	CTP0001769	name
+Forebrain neuron	CTP0002437	name
+Forebrain radial glia cell	CTP0001592	name
+olfactory epithelial cell	CTP0000106	name
+CL:0002167	CTP0000106	ontology
+Olfactory epithelial cell	CTP0000106	alias
+myoblast	CTP0000267	name
+CL:0000056	CTP0000267	ontology
+Myoblast	CTP0000267	alias
+Facial fibroblast	CTP0002776	name
+Dorsal midbrain neuron	CTP0002910	name
+Limb fibroblast	CTP0001127	name
+Ganglion	CTP0001867	name
+Meninges cell	CTP0001053	name
+Immune cell	CTP0002846	name
+Mid-/hindbrain and spinal cord neuron	CTP0000485	name
+Connective tissue	CTP0003000	name
+Spinal cord neuron	CTP0001973	name
+Mucosal epithelium	CTP0001226	name
+Smooth muscle	CTP0001458	name
+Sympathetic nerve	CTP0002380	name
+Inner ear	CTP0002141	name
+Cartilage primordium	CTP0001599	name
+Bone	CTP0000424	name
+Jaw and tooth	CTP0002055	name
+Meninges	CTP0001369	name
+Brain	CTP0000816	name
+keratinocyte	CTP0000132	name
+CL:0000312	CTP0000132	ontology
+Keratinocyte	CTP0000132	alias
+Epidermis	CTP0002627	name
+Cavity	CTP0000562	name
+Cardiomyocyte	CTP0002356	name
+Thalamus neuron	CTP0001191	name
+Dermomyotome	CTP0001188	name
+Primitive gut tube	CTP0002426	name
+Lung primordium	CTP0002351	name
+Branchial arch	CTP0001948	name
+AGM	CTP0003105	name
+Sclerotome	CTP0002745	name
+Lung	CTP0002869	name
+Eye	CTP0001484	name
+Cartilage	CTP0001865	name
+Blood vessel	CTP0003301	name
+GI tract	CTP0003430	name
+Liver	CTP0002100	name
+Heart	CTP0001885	name
+Urogenital ridge	CTP0001079	name
+Head mesenchyme	CTP0000694	name
+Dorsal root ganglion	CTP0001653	name
+Muscle	CTP0002512	name
+Thymus	CTP0000754	name
+OPC	CTP0003017	name
+DA neuron	CTP0001861	name
+IN thalamus	CTP0001589	name
+Astr5	CTP0002048	name
+Astr4	CTP0003138	name
+EX L6	CTP0001101	name
+EX Mb	CTP0000998	name
+EX L4	CTP0003298	name
+Astr3	CTP0003435	name
+IN Vip+	CTP0002091	name
+Endothelium	CTP0002462	name
+EX L2/3	CTP0002322	name
+IN Pvalb+Gad1+	CTP0000592	name
+Olig	CTP0002907	name
+Astr2	CTP0002053	name
+Meninge	CTP0002050	name
+EX thalamus	CTP0001103	name
+EX L5/6	CTP0001040	name
+Facial nerve	CTP0003120	name
+Submandibular gland	CTP0000932	name
+Ovary	CTP0001682	name
+Adipose tissue	CTP0002444	name
+Pancreas	CTP0001950	name
+EX CA	CTP0000515	name
+GCL-D	CTP0002190	name
+ML	CTP0003081	name
+IPL	CTP0003369	name
+SEZ	CTP0001541	name
+GCL-E	CTP0000917	name
+GCL-I	CTP0001346	name
+OPL	CTP0002383	name
+ONL	CTP0003099	name
+GL	CTP0001122	name
+Smooth muscle cells	CTP0001341	name
+IN Sst+	CTP0001684	name
+EX	CTP0001140	name
+Astr1	CTP0002738	name
+GN DG	CTP0002755	name
+IN Pvalb+	CTP0000534	name
+Adrenal gland	CTP0001778	name
+Kidney	CTP0001779	name
+Mesentery	CTP0000386	name
+Mesothelium	CTP0000429	name
+Urethra	CTP0001993	name
+Endo	CTP0000304	name
+GlioB	CTP0001406	name
+NeuB	CTP0000874	name
+GABA Neu	CTP0000640	name
+Micro	CTP0003162	name
+Glu NeuB	CTP0001342	name
+Glu Neu	CTP0002708	name
+GABA NeuB	CTP0002855	name
+Fibro	CTP0000885	name
+Ery	CTP0003336	name
+RGC	CTP0002385	name
+Pancreas primordium	CTP0001422	name
+Cranium fibroblast	CTP0003156	name
+Hindbrain glutamatergic neuroblast	CTP0003444	name
+Mixed region neuron	CTP0002633	name
+Cajal-Retzius cell	CTP0000268	name
+CL:0000695	CTP0000268	ontology
+Cajal-Retzius cell	CTP0000268	name
+Mixed region GABAergic neuron	CTP0000452	name
+Hindbrain glutamatergic neuron	CTP0001967	name
+Midbrain glutamatergic neuron	CTP0000967	name
+Midbrain glutamatergic neuroblast	CTP0000499	name
+forebrain neuroblast	CTP0000269	name
+CL:1000042	CTP0000269	ontology
+Forebrain neuroblast	CTP0000269	alias
+Diencephalon glutamatergic neuron	CTP0001651	name
+Olfactory neuron	CTP0003037	name
+Hypothalamus neuron	CTP0001063	name
+Ventromedial hypothalamus GABAergic neuron	CTP0001512	name
+Cortical or hippocampal glutamatergic neuron	CTP0001157	name
+Dorsal hindbrain radial glia	CTP0002036	name
+Cerebellar granule neuroblasts	CTP0001767	name
+Hindbrain neuroblast	CTP0003245	name
+Forebrain glutamatergic neuroblast	CTP0001186	name
+Forebrain GABAergic neuroblast	CTP0001791	name
+Forebrain radial glia	CTP0001802	name
+Midbrain radial glia	CTP0003357	name
+Mixed region glioblast	CTP0003136	name
+Forebrain GABAergic neuron	CTP0001403	name
+dopaminergic neuron	CTP0000203	name
+CL:0000700	CTP0000203	ontology
+Dopaminergic neuron	CTP0000203	alias
+Hindbrain glioblast	CTP0003045	name
+Cortical glutamatergic neuron	CTP0003341	name
+Cortical intermediate progenitor	CTP0003115	name
+Notochord	CTP0001674	name
+Lateral-ventral cortex	CTP0002941	name
+Cortex_L6	CTP0003451	name
+Cortical amygdalar area	CTP0002457	name
+Stratum oriens of CA1	CTP0000999	name
+Dentate gyrus	CTP0003222	name
+Molecular layer of dentate gyrus	CTP0001857	name
+Posterior amygdalar nucleus	CTP0003458	name
+Cortex_L4	CTP0000902	name
+Subiculum	CTP0002074	name
+Cortex-L2/3	CTP0002267	name
+CA1	CTP0001088	name
+Cortex_L5	CTP0001417	name
+Thalamus	CTP0001002	name
+Fiber tract	CTP0001707	name
+Stratum lacunosum/raditum of CA1	CTP0000570	name
+Cortex_L1	CTP0000827	name
+Substandia nigra/Ventral tegmental area	CTP0002088	name
+Testis	CTP0003324	name
+MGL2	CTP0002466	name
+MEGLU14	CTP0002374	name
+MBDOP2	CTP0002746	name
+TEGLU21	CTP0002665	name
+HBGLU9	CTP0001853	name
+EPEN	CTP0002858	name
+TEGLU17	CTP0002427	name
+TEGLU23	CTP0001419	name
+DGGRC2	CTP0001608	name
+MEGLU1	CTP0000322	name
+TEGLU24	CTP0001266	name
+TEINH19	CTP0000419	name
+ACTE2	CTP0003107	name
+TEGLU7	CTP0002142	name
+MEGLU3	CTP0001719	name
+ACTE1	CTP0000564	name
+TEGLU11	CTP0000974	name
+TEGLU3	CTP0003096	name
+ACNT2	CTP0000582	name
+MEINH2	CTP0000706	name
+MEINH8	CTP0001438	name
+TEGLU10	CTP0000320	name
+ABC	CTP0002061	name
+MOL1	CTP0001211	name
+TEGLU8	CTP0002205	name
+TEGLU6	CTP0001283	name
+TEGLU4	CTP0001727	name
+VLMC2	CTP0001282	name
+TEGLU2	CTP0000935	name
+ACNT1	CTP0001644	name
+HBGLU7	CTP0001429	name
+TEINH1	CTP0001372	name
+ACMB	CTP0000597	name
+Excitatory	CTP0001343	name
+L6a2	CTP0001214	name
+L6b	CTP0003169	name
+L6a1	CTP0002415	name
+L6a	CTP0002580	name
+L5b	CTP0000276	name
+L2/3	CTP0002866	name
+L4	CTP0000654	name
+L5a2	CTP0003052	name
+L5a	CTP0001547	name
+L5	CTP0001455	name
+Inhibitory	CTP0001938	name
+Pvalb	CTP0001985	name
+Sst_Cbln4	CTP0002762	name
+Sst_Clstn2	CTP0001491	name
+Ndnf	CTP0001539	name
+Vip	CTP0002065	name
+Sst_Chodl	CTP0003256	name
+Sst	CTP0001137	name
+Chodl	CTP0001217	name
+Sst_Nr2f2	CTP0000710	name
+L5a1	CTP0003412	name
+L2/3_Syt10	CTP0000486	name
+Th	CTP0001173	name
+L5_Chrna6	CTP0003207	name
+L5b1	CTP0001195	name
+L5b2	CTP0001741	name
+Sst_Nmbr	CTP0002403	name
+H838	CTP0001123	name
+H1975	CTP0002477	name
+H2228	CTP0002449	name
+A549	CTP0001070	name
+HCC827	CTP0000421	name
+quiescent_stellate	CTP0002417	name
+activated_stellate	CTP0002857	name
+immune_other	CTP0002791	name
+B_cell	CTP0002519	name
+gamma	CTP0001557	name
+alpha	CTP0002447	name
+delta	CTP0000704	name
+ductal	CTP0000834	name
+beta	CTP0003210	name
+t_cell	CTP0003161	name
+endothelial	CTP0002284	name
+schwann	CTP0001014	name
+acinar	CTP0002886	name
+mast	CTP0001464	name
+epsilon	CTP0000784	name
+T_cell	CTP0003161	name
+aNSC+TAC+NB	CTP0001521	name
+COP	CTP0002298	name
+Mural Cell+ Fibroblast	CTP0000581	name
+T cell	CTP0000004	name
+CL:0000084	CTP0000004	ontology
+T Cell	CTP0000004	alias
+Mural Cell + Fibroblast	CTP0002422	name
+PP	CTP0000365	name
+EndothelialCells	CTP0002775	name
+Oligodendro1	CTP0000491	name
+Sst/Nts	CTP0001312	name
+MuralCells	CTP0000481	name
+Oligodendro2	CTP0002182	name
+Nfix/Htr2c	CTP0002968	name
+Oligodend1	CTP0000618	name
+Oligodendro3	CTP0001886	name
+Oxt	CTP0001239	name
+NG2/OPC	CTP0003347	name
+Oligodendro4	CTP0002814	name
+Th/Slc6a3	CTP0002505	name
+Ependymocytes	CTP0000540	name
+Pars_Tuber1B	CTP0001971	name
+Agrp/Sst	CTP0002641	name
+b2_tanycytes1	CTP0000928	name
+unassigned(2)	CTP0001396	name
+Pars_Tuber1A	CTP0000398	name
+Th/Cxcl12	CTP0001613	name
+Oligodend2	CTP0001077	name
+Ependymocy2	CTP0000743	name
+Gm8773/Tac1	CTP0002564	name
+PVMMicro	CTP0000756	name
+Oligodendro5	CTP0002916	name
+Ghrh	CTP0002028	name
+a2_tanycytes	CTP0002008	name
+Pars_Tuber1C	CTP0002574	name
+Agrp/Gm8773	CTP0002792	name
+b1_tanycytes	CTP0002920	name
+Tanycyte1	CTP0002840	name
+Pomc/Ttr	CTP0000463	name
+Oligodend3	CTP0002728	name
+Ependymocy1	CTP0001380	name
+Hdc	CTP0001194	name
+Neurons1	CTP0001879	name
+Mural_Cells2	CTP0003220	name
+Rgs16/Vip	CTP0001969	name
+Tanycyte2	CTP0001859	name
+Mural_Cells1	CTP0001824	name
+Pomc/Anxa2	CTP0001235	name
+NG2_OPC2	CTP0002526	name
+unassigned(1)	CTP0000548	name
+NG2_OPC1	CTP0003119	name
+Slc17a6/Trhr	CTP0003042	name
+a1_tanycytes1	CTP0000292	name
+Oligodendro6	CTP0001940	name
+Fam19a2	CTP0002025	name
+Neurons6	CTP0000464	name
+Nr5a1/Nfib	CTP0000565	name
+Neurons5	CTP0000945	name
+Nr5a1/Adcyap1	CTP0001302	name
+Neurons4	CTP0002390	name
+Qrfp	CTP0003030	name
+Neurons3	CTP0002240	name
+Htr3b	CTP0002178	name
+Neurons2	CTP0001947	name
+Th/Lef1	CTP0003075	name
+ParsTuber2	CTP0001639	name
+Parstuber2B	CTP0003078	name
+Sst/Unc13c	CTP0002413	name
+ParsTuber1	CTP0001734	name
+Parstuber2A	CTP0001353	name
+Tmem215	CTP0000580	name
+Fibroblasts3	CTP0002232	name
+Pomc/Glipr1	CTP0003320	name
+Fibroblasts2	CTP0001052	name
+Kiss1/Tac2	CTP0003025	name
+Fibroblasts1	CTP0001820	name
+Gpr50	CTP0000588	name
+a1_tanycytes2	CTP0003002	name
+b2_tanycytes2	CTP0001877	name
+PVMs	CTP0003263	name
+Rgs16/Dlx1	CTP0002290	name
+Rgs16/Slc17a6	CTP0000494	name
+Sst/Pthlh	CTP0002485	name
+Granule-mature	CTP0003118	name
+Granule-immature	CTP0002460	name
+GABAergic	CTP0003293	name
+Glutamatergic	CTP0001553	name
+L5 PT CTX	CTP0000873	name
+L5/6 NP CTX	CTP0002123	name
+L5 IT CTX	CTP0003135	name
+L6 CT CTX	CTP0003395	name
+Car3	CTP0003055	name
+L6b CTX	CTP0003039	name
+L4/5 IT CTX	CTP0002729	name
+L6 IT CTX	CTP0002557	name
+L2/3 IT CTX	CTP0000366	name
+Lamp5	CTP0002882	name
+Non-Neuronal	CTP0002973	name
+Oligo	CTP0003419	name
+Neuroblast_2	CTP0003219	name
+L2/3 IT PPP	CTP0000886	name
+Astro	CTP0002944	name
+VLMC	CTP0002669	name
+Micro-PVM	CTP0003429	name
+L5/6 IT TPE-ENT	CTP0003203	name
+SMC-Peri	CTP0001870	name
+L6b/CT ENT	CTP0002378	name
+CT SUB	CTP0001825	name
+CR	CTP0000720	name
+Cck-Tox	CTP0001999	name
+Mossy-Adcyap1	CTP0001596	name
+Meis2	CTP0000480	name
+Mossy-Cyp26b1	CTP0001382	name
+Mossy-Klk8	CTP0002360	name
+GABA-Cnr1	CTP0002825	name
+GABA-Lhx6	CTP0001872	name
+L4 RSP-ACA	CTP0002594	name
+L2 IT ENTl	CTP0001958	name
+L3 IT ENT	CTP0000864	name
+L2/3 IT ENTl	CTP0001529	name
+CA3	CTP0001075	name
+CA1-ProS	CTP0002654	name
+SUB-ProS	CTP0001790	name
+CA2-IG-FC	CTP0000387	name
+DG	CTP0001091	name
+L2/3 IT RHP	CTP0001588	name
+NP SUB	CTP0001656	name
+NP PPP	CTP0002353	name
+L5 PPP	CTP0003441	name
+L2 IT ENTm	CTP0002951	name
+L6 IT ENTl	CTP0001511	name
+Radial_Glia-like	CTP0002893	name
+OL	CTP0001830	name
+PVM	CTP0001050	name
+NFOL	CTP0003392	name
+Neuroblast_1	CTP0001065	name
+nIPC	CTP0002520	name
+L2/3 IT	CTP0001453	name
+Exc L2-3 LINC00507 DSG3	CTP0000539	name
+L5 IT	CTP0002607	name
+Exc L5 THEMIS SLC22A18	CTP0001078	name
+Inh L3-5 VIP TAC3	CTP0003254	name
+Exc L3-5 RORB LNX2	CTP0003442	name
+Astro L1-6 FGFR3 PLCG1	CTP0000530	name
+Exc L3 LAMP5 CARM1P1	CTP0002674	name
+Inh L3-6 PAX6 LINC01497	CTP0003214	name
+Exc L2-3 RORB CCDC68	CTP0002297	name
+L5/6 NP	CTP0002282	name
+Exc L5-6 FEZF2 IFNG-AS1	CTP0001846	name
+Inh L1-5 VIP CD27-AS1	CTP0002056	name
+Inh L1-6 LAMP5 AARD	CTP0001397	name
+Exc L3-5 RORB RPRM	CTP0002765	name
+L6 IT	CTP0003260	name
+Exc L6 THEMIS SLN	CTP0002725	name
+Inh L2-5 PVALB HHIPL1	CTP0001580	name
+Exc L6 FEZF2 KLK7	CTP0000915	name
+Exc L2-3 RORB PTPN3	CTP0000931	name
+VLMC L1-5 PDGFRA COLEC12	CTP0002014	name
+Inh L3-5 SST GGTLC3	CTP0000325	name
+Exc L3-5 RORB TNNT2	CTP0002430	name
+Inh L1-2 SST PRRT4	CTP0000409	name
+Inh L1-3 VIP CHRNA2	CTP0003069	name
+Inh L1-6 SST NPY	CTP0001409	name
+Inh L5-6 PVALB GAPDHP60	CTP0002396	name
+L6 CT	CTP0000702	name
+Exc L5-6 FEZF2 C9orf135-AS1	CTP0001902	name
+Oligo L2-6 OPALIN FTH1P3	CTP0000939	name
+Exc L3-5 RORB LINC01202	CTP0001838	name
+Exc L2-3 RORB RTKN2	CTP0000536	name
+Inh L1-2 VIP HTR3A	CTP0002280	name
+Inh L2-5 VIP SOX11	CTP0001799	name
+L5 ET	CTP0000713	name
+Exc L3-5 FEZF2 LINC01107	CTP0001746	name
+Inh L5-6 PVALB FAM150B	CTP0003121	name
+Inh L1-2 VIP WNT4	CTP0001591	name
+Inh L5-6 VIP COL4A3	CTP0000959	name
+Micro L1-6 TYROBP CD74	CTP0000572	name
+Exc L6 FEZF2 PROKR2	CTP0002346	name
+Exc L6 FEZF2 FFAR4	CTP0002086	name
+Inh L2-5 VIP BSPRY	CTP0000845	name
+Inh L5-6 SST C4orf26	CTP0002740	name
+Exc L6 FEZF2 POGK	CTP0001611	name
+Inh L5-6 SST FBN2	CTP0001407	name
+Exc L2 LINC00507 GLRA3	CTP0000567	name
+Inh L3-5 PVALB ISG20	CTP0002152	name
+Exc L5-6 THEMIS TNFAIP6	CTP0003331	name
+Inh L2-5 PVALB RPH3AL	CTP0001915	name
+Inh L1-5 VIP SMOC1	CTP0003060	name
+Exc L6 THEMIS SNTG2	CTP0000467	name
+Inh L1-2 PVALB CDK20	CTP0000291	name
+Exc L5 FEZF2 RNF144A-AS1	CTP0003251	name
+OPC L1-6 PDGFRA COL20A1	CTP0001112	name
+Exc L5 FEZF2 PKD2L1	CTP0002483	name
+Inh L1 PVALB SST ASIC4	CTP0002474	name
+Exc L5-6 FEZF2 FILIP1L	CTP0001263	name
+Inh L3-5 SST OR5AH1P	CTP0001657	name
+Inh L2-3 SST NMU	CTP0002109	name
+Exc L5 THEMIS RGPD6	CTP0002412	name
+Inh L1-6 LAMP5 NES	CTP0002448	name
+Inh L3-6 VIP ZIM2-AS1	CTP0002801	name
+Oligo L3-6 OPALIN ENPP6	CTP0003443	name
+Exc L5 FEZF2 NREP-AS1	CTP0000785	name
+Inh L1-3 VIP CBLN1	CTP0003321	name
+Inh L3-5 VIP IGDCC3	CTP0000746	name
+Inh L2 VIP SLC6A16	CTP0000739	name
+Inh L1-2 SST CCNJL	CTP0001329	name
+Inh L5-6 PVALB MEPE	CTP0001744	name
+Inh L5-6 PVALB SST CRHR2	CTP0002273	name
+Inh L5-6 SST BEAN1	CTP0001153	name
+Inh L1-6 PVALB COL15A1	CTP0003227	name
+Inh L3-6 VIP UG0898H09	CTP0003211	name
+L6 IT Car3	CTP0000461	name
+Exc L5-6 THEMIS SMYD1	CTP0001249	name
+Inh L3-5 SST CDH3	CTP0003318	name
+Inh L1 PAX6 CHRFAM7A	CTP0002752	name
+Exc L5 FEZF2 CSN1S1	CTP0002017	name
+Exc L3 THEMIS ENPEP	CTP0000994	name
+Exc L5 RORB MED8	CTP0002528	name
+Inh L1 SST DEFB108B	CTP0001980	name
+Inh L3 PVALB SAMD13	CTP0002281	name
+Inh L1 VIP KLHDC8B	CTP0001487	name
+Inh L1-3 VIP HSPB6	CTP0003340	name
+Inh L1-3 SST FAM20A	CTP0002915	name
+Exc L5 THEMIS FGF10	CTP0000286	name
+Exc L6 THEMIS LINC00343	CTP0001742	name
+Inh L5-6 LAMP5 CRABP1	CTP0002070	name
+Inh L1 LAMP5 RAB11FIP1	CTP0000846	name
+Inh L5-6 PVALB ZFPM2-AS1	CTP0003044	name
+Exc L2 LAMP5 KCNG3	CTP0002568	name
+Inh L5 PVALB LRIG3	CTP0002978	name
+Inh L1-2 VIP EXPH5	CTP0002416	name
+Exc L5-6 FEZF2 SH2D1B	CTP0003292	name
+Inh L1-6 LAMP5 CA1	CTP0001456	name
+Exc L3-5 FEZF2 ASGR2	CTP0001576	name
+Exc L5 THEMIS LINC01116	CTP0000978	name
+Oligo L2-6 OPALIN MAP6D1	CTP0000372	name
+Exc L2 LINC00507 ATP7B	CTP0000700	name
+Exc L3 RORB OTOGL	CTP0002333	name
+Inh L1 LAMP5 BMP2	CTP0000937	name
+Inh L3-5 VIP HS3ST3A1	CTP0000504	name
+Exc L3-5 RORB LAMA4	CTP0002844	name
+Endo L2-5 NOSTRIN SRGN	CTP0001452	name
+Inh L1-6 VIP SLC7A6OS	CTP0000619	name
+Inh L5-6 SST PIK3CD	CTP0002940	name
+Inh L1 SST P4HA3	CTP0001798	name
+Exc L6 FEZF2 PDYN	CTP0001851	name
+Oligo L5-6 OPALIN LDLRAP1	CTP0001107	name
+Inh L5-6 SST ISX	CTP0001457	name
+Inh L1-2 VIP SCML4	CTP0003338	name
+Inh L5 SST RPL35AP11	CTP0001460	name
+Inh L1 PAX6 MIR101-1	CTP0001692	name
+Inh L2 PAX6 FREM2	CTP0001912	name
+Inh L5-6 SST PAWR	CTP0000638	name
+Exc L5-6 FEZF2 OR1L8	CTP0000379	name
+Exc L5-6 FEZF2 CFTR	CTP0002261	name
+Inh L1-2 SST CLIC6	CTP0002531	name
+Inh L1-5 VIP LINC01013	CTP0002458	name
+Inh L1 LAMP5 PVRL2	CTP0000689	name
+Inh L5-6 PVALB KCNIP2	CTP0001201	name
+Inh L1-3 VIP FNDC1	CTP0002539	name
+Astro L1-6 FGFR3 AQP1	CTP0003046	name
+Inh L1 LAMP5 NMBR	CTP0002130	name
+Inh L1-2 VIP PTGER3	CTP0002201	name
+Inh L6 SST TH	CTP0002112	name
+Exc L5-6 FEZF2 LPO	CTP0002937	name
+Inh L5-6 SST KLHL1	CTP0000477	name
+Exc L5 THEMIS VILL	CTP0003270	name
+Inh L1-5 VIP PHLDB3	CTP0000576	name
+Inh L2 PVALB FRZB	CTP0002851	name
+Inh L5-6 SST DNAJC14	CTP0000415	name
+Astro L1 FGFR3 SERPINI2	CTP0001379	name
+VIP	CTP0002065	name
+Inh L2-5 VIP TOX2	CTP0001752	name
+LAMP5	CTP0002882	name
+Inh L1 LAMP5 NDNF	CTP0002381	name
+Exc L6 FEZF2 FAM95C	CTP0002441	name
+Inh L5-6 LAMP5 SFTA3	CTP0002113	name
+PVALB	CTP0001985	name
+Inh L6 LHX6 GLP1R	CTP0002727	name
+L5/6 IT Car3	CTP0003305	name
+Exc L6 THEMIS C6orf48	CTP0002336	name
+Exc L5-6 THEMIS GPR21	CTP0001434	name
+IT	CTP0001271	name
+Exc L5-6 THEMIS TMEM233	CTP0000916	name
+Non-neuronal	CTP0002973	name
+Oligo L4-6 MOBP COL18A1	CTP0001882	name
+Exc L6 FEZF2 TBC1D26	CTP0000914	name
+Exc L5-6 FEZF2 MYBPHL	CTP0003123	name
+Exc L5 RORB SNHG7	CTP0001960	name
+Exc L4-5 RORB LINC01474	CTP0003469	name
+Inh L1-3 VIP GGH	CTP0001641	name
+Inh L1-2 PVALB TAC1	CTP0003092	name
+Inh L2-6 VIP VIP	CTP0001459	name
+Astro L1 FGFR3 FOS	CTP0002145	name
+Exc L6 FEZF2 KRT17	CTP0002386	name
+Exc L6 FEZF2 TBCC	CTP0001023	name
+Exc L5-6 RORB LINC00320	CTP0002332	name
+Inh L1 ADARB2 ADAM33	CTP0003122	name
+Exc L5 FEZF2 SCN7A	CTP0001585	name
+Inh L1-3 PVALB WFDC2	CTP0001895	name
+SST	CTP0001137	name
+Inh L3-5 SST MAFB	CTP0000349	name
+Inh L1 SST CXCL14	CTP0001056	name
+PAX6	CTP0001347	name
+Inh L1-3 PAX6 NABP1	CTP0001616	name
+Inh L1 PAX6 CA4	CTP0003248	name
+Inh L2-4 SST AHR	CTP0002424	name
+Inh L1-3 VIP ACHE	CTP0001866	name
+Peri L1-6 MUSTN1	CTP0003090	name
+Inh L5-6 SST TH	CTP0002650	name
+Inh L1-4 VIP CHRNA2	CTP0002222	name
+OPC L1-6 MYT1	CTP0002244	name
+Exc L3 LINC00507 CTXN3	CTP0001447	name
+Inh L1-4 LAMP5 DUSP4	CTP0000862	name
+Inh L1-6 VIP RGS16	CTP0001087	name
+Inh L2-4 PVALB C8orf4	CTP0000783	name
+Inh L1-2 VIP RPL41P3	CTP0002184	name
+Exc L3-4 RORB SEMA6D	CTP0003252	name
+Astro L1-6 FGFR3 ETNPPL	CTP0001918	name
+Oligo L4-6 OPALIN	CTP0002540	name
+Exc L4-5 RORB HNRNPA1P46	CTP0001345	name
+Exc L4-5 RORB RPL31P31	CTP0000448	name
+Exc L3-5 RORB CMAHP	CTP0002285	name
+L4 IT	CTP0001424	name
+Exc L2-4 RORB GRIK1	CTP0002041	name
+Inh L1-3 VIP ZNF322P1	CTP0000489	name
+Inh L3-6 PVALB MFI2	CTP0001018	name
+Exc L6 FEZF2 SLITRK6	CTP0003309	name
+Exc L5 RORB LINC01202	CTP0003343	name
+Inh L1-6 LAMP5 CA13	CTP0000810	name
+Inh L5-6 PVALB STON2	CTP0001827	name
+Exc L6 FEZF2 VWA2	CTP0002338	name
+Exc L5-6 FEZF2 ANKRD20A1	CTP0000877	name
+Exc L6 THEMIS EGR3	CTP0000936	name
+Inh L1-3 VIP CCDC184	CTP0002104	name
+Inh L1-5 VIP KCNJ2	CTP0002878	name
+Inh L5 PVALB CNTNAP3P2	CTP0002035	name
+Endo L2-5 CLDN5	CTP0002071	name
+Inh L4-6 SST MTHFD2P6	CTP0001887	name
+Exc L4-5 RORB LCN15	CTP0002648	name
+Micro L1-6 C1QC	CTP0000328	name
+Exc L3 RORB CARTPT	CTP0001029	name
+Exc L2-3 LINC00507 RPL9P17	CTP0002686	name
+Astro L1 FGFR3 MT1G	CTP0001595	name
+Inh L1 PAX6 GRIP2	CTP0001640	name
+Inh L6 LAMP5 ANKRD20A11P	CTP0000506	name
+Exc L3-4 RORB FOLH1B	CTP0002207	name
+Inh L1 ADARB2 DISP2	CTP0002052	name
+Exc L3 THEMIS PLA2G7	CTP0002318	name
+Inh L1 VIP TNFAIP8L3	CTP0000851	name
+Inh L1-2 PAX6 SCGN	CTP0001774	name
+Inh L1 VIP PCDH20	CTP0001432	name
+Inh L3-4 PVALB HOMER3	CTP0002541	name
+Exc L3-5 FEZF2 DCN	CTP0001829	name
+Exc L3 LINC00507 PSRC1	CTP0000311	name
+Inh L3-6 VIP KCTD13	CTP0001240	name
+Exc L3-5 RORB CD24	CTP0000403	name
+Inh L1-6 VIP PENK	CTP0002630	name
+VLMC L1-3 CYP1B1	CTP0000879	name
+Inh L1-3 VIP SSTR1	CTP0002929	name
+Inh L3 VIP CBLN1	CTP0001332	name
+Inh L5-6 SST ISOC1	CTP0001650	name
+Inh L2-4 VIP LGI2	CTP0001729	name
+Inh L2-4 VIP DSEL	CTP0002094	name
+Inh L1-6 PVALB SCUBE3	CTP0000482	name
+Exc L5-6 THEMIS THTPA	CTP0001502	name
+Exc L4 RORB CCDC168	CTP0001192	name
+Exc L3-4 RORB PRSS12	CTP0001927	name
+Inh L6 LAMP5 C1QL2	CTP0002044	name
+Exc L5-6 THEMIS IL7R	CTP0003020	name
+Exc L6 FEZF2 ETV4	CTP0002649	name
+Exc L4-6 RORB HPCA	CTP0001348	name
+Exc L5-6 FEZF2 RSAD2	CTP0000553	name
+Exc L6 FEZF2 CPZ	CTP0000870	name
+Inh L1 LAMP5 GGT8P	CTP0001619	name
+Inh L4-5 PVALB TRIM67	CTP0003233	name
+Exc L5-6 FEZF2 CABP7	CTP0000297	name
+Inh L1 VIP PRSS8	CTP0002811	name
+Inh L1 VIP SOX11	CTP0002414	name
+Exc L4 RORB BHLHE22	CTP0002475	name
+Inh L1-2 VIP PPAPDC1A	CTP0001739	name
+Exc L5-6 THEMIS OR1J1	CTP0001594	name
+Inh L5-6 SST KLHL14	CTP0001628	name
+Exc L3-5 RORB HSPB3	CTP0001561	name
+Exc L6 FEZF2 P4HA3	CTP0002368	name
+Exc L3-4 RORB RPS3P6	CTP0000722	name
+Exc L3-5 LINC00507 SLN	CTP0002319	name
+Inh L6 SST NPY	CTP0001549	name
+Exc L5 FEZF2 DYRK2	CTP0000903	name
+Exc L3-5 THEMIS ELOF1	CTP0002026	name
+Exc L3-5 FEZF2 ONECUT1	CTP0003054	name
+Inh L1-6 VIP RCN1	CTP0001294	name
+Exc L5-6 FEZF2 CYP26B1	CTP0002136	name
+Exc L5 FEZF2 MORN2	CTP0001279	name
+Exc L3-5 THEMIS UBE2F	CTP0003243	name
+Exc L4 RORB CACNG5	CTP0001475	name
+Exc L4-5 RORB ASCL1	CTP0000394	name
+Exc L4-5 RORB AIM2	CTP0000551	name

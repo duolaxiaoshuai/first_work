@@ -1,0 +1,29 @@
+﻿project_id,experiment_id,omics_id,organ,species,sample_number,cell_number,description,sample_relationship,protocol
+PRO000000307,EPT000000326,SCT000000286,liver,Homo sapiens,18,16498,-,independent,p1
+PRO000000289,EPT000000294,SCT000000266,liver,Homo sapiens,5,8444,-,independent,p1
+PRO000000290,EPT000000295,SCT000000267,liver,Homo sapiens,151,6896,-,independent,p1
+PRO000000291,EPT000000296,SCT000000268,blood,Homo sapiens,95,72,-,independent,p1
+PRO000000291,EPT000000296,SCT000000268,liver,Homo sapiens,95,72,-,independent,p1
+PRO000000292,EPT000000297,SCT000000269,liver,Homo sapiens,188,496,-,independent,p1
+PRO000000293,EPT000000298,SCT000000270,liver,Mus musculus,10,65495,-,independent,p1
+PRO000000294,EPT000000299,SCT000000271,blood,Homo sapiens,32,47940,-,independent,p1
+PRO000000294,EPT000000299,SCT000000271,lymph node,Homo sapiens,32,47940,-,independent,p1
+PRO000000294,EPT000000299,SCT000000271,bile duct,Homo sapiens,32,47940,-,independent,p1
+PRO000000294,EPT000000299,SCT000000271,peritoneum,Homo sapiens,32,47940,-,independent,p1
+PRO000000294,EPT000000299,SCT000000271,liver,Homo sapiens,32,47940,-,independent,p1
+PRO000000295,EPT000000300,SCT000000272,liver,Mus musculus,21,6306,-,independent,p1
+PRO000000296,EPT000000301,SCT000000273,specific cell,Homo sapiens,6,5063,-,independent,p1
+PRO000000297,EPT000000302,SCT000000274,liver,Homo sapiens,2238,2036,-,independent,p1
+PRO000000297,EPT000000302,SCT000000274,tonsil,Homo sapiens,2238,2036,-,independent,p1
+PRO000000297,EPT000000302,SCT000000274,blood,Homo sapiens,2238,2036,-,independent,p1
+PRO000000298,EPT000000303,SCT000000275,liver,Homo sapiens,24,3800,-,independent,p1
+PRO000000299,EPT000000306,SCT000000278,Liver,Homo sapiens,26,22769,-,independent,p1
+PRO000000299,EPT000000304,SCT000000276,liver,Homo sapiens,2,681,-,independent,p1
+PRO000000299,EPT000000305,SCT000000277,liver,Homo sapiens,12,12,,independent,p1
+PRO000000300,EPT000000307,SCT000000279,liver,Homo sapiens,9,28000,,independent,p1
+PRO000000301,EPT000000308,SCT000000280,liver,Homo sapiens,12,17410,,independent,p1
+PRO000000302,EPT000000310,SCT000000282,embryo,Homo sapiens,2,11932,,independent,p1
+PRO000000302,EPT000000309,SCT000000281,embryo,Homo sapiens,9,1231,,independent,p1
+PRO000000303,EPT000000311,SCT000000283,embryo,Homo sapiens,11,19645,,independent,p1
+PRO000000304,EPT000000312,SCT000000284,specific cell,Mus musculus,12,12,,independent,p1
+PRO000000305,EPT000000313,SCT000000285,embryo,Mus musculus,4,2332,,independent,p1

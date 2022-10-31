@@ -1,0 +1,3715 @@
+id,celltype_id,celltype_name,type
+1,1,primordial germ cell,1
+2,1,CL:0000670,3
+3,1,Primordial germ cell,2
+4,2,endothelial cell,1
+5,2,CL:0000115,3
+6,2,Endothelial cell,2
+7,2067,Proliferating T cell,1
+8,3,fibroblast,1
+9,3,CL:0000057,3
+10,3,Fibroblast,2
+11,1169,Fetal Neuron,1
+12,4,T cell,1
+13,4,CL:0000084,3
+14,4,T cell,1
+15,5,stromal cell,1
+16,5,CL:0000499,3
+17,5,Stromal cell,2
+18,6,smooth muscle cell,1
+19,6,CL:0000192,3
+20,6,Smooth muscle cell,2
+21,2591,Erythroid cell,1
+22,1405,Fetal epithelial progenitor,1
+23,1204,Erythroid progenitor cell (RP high),1
+24,2964,Fetal stromal cell,1
+25,636,Fetal mesenchymal progenitor,1
+26,2659,Fetal skeletal muscle cell,1
+27,2500,hESC,1
+28,1323,Antigen presenting cell (RPS high),1
+29,7,B cell,1
+30,7,CL:0000236,3
+31,7,B cell,1
+32,8,macrophage,1
+33,8,CL:0000235,3
+34,8,Macrophage,2
+35,2975,Neutrophil (RPS high),1
+36,9,epithelial cell,1
+37,9,CL:0000066,3
+38,9,Epithelial cell,2
+39,2961,Fetal enterocyte,1
+40,791,CB CD34+,1
+41,10,monocyte,1
+42,10,CL:0000576,3
+43,10,Monocyte,2
+44,1593,Kidney intercalated cell,1
+45,793,Fetal chondrocyte,1
+46,11,dendritic cell,1
+47,11,CL:0000451,3
+48,11,Dendritic cell,2
+49,3196,B cell (Plasmocyte),1
+50,1024,Fetal endocrine cell,1
+51,12,neutrophil,1
+52,12,CL:0000775,3
+53,12,Neutrophil,2
+54,2922,Endothelial cell (APC),1
+55,13,mast cell,1
+56,13,CL:0000097,3
+57,13,Mast cell,2
+58,1169,Fetal neuron,1
+59,14,basal cell,1
+60,14,CL:0000646,3
+61,14,Basal cell,2
+62,758,Fetal acinar cell,1
+63,512,Endothelial cell (endothelial to mesenchymal transition),1
+64,3427,Sinusoidal endothelial cell,1
+65,2642,Fetal fibroblast,1
+66,2750,M2 Macrophage,1
+67,1736,Immature sertoli cell (Pre-Sertoli cell),1
+68,1626,Proximal tubule progenitor,1
+69,2376,Loop of Henle,1
+70,15,myeloid cell,1
+71,15,CL:0000763,3
+72,15,Myeloid cell,2
+73,2970,Fasciculata cell,1
+74,2560,Epithelial cell (intermediated),1
+75,1144,Intermediated cell,1
+76,16,stratified epithelial cell,1
+77,16,CL:0000079,3
+78,16,Stratified epithelial cell,2
+79,812,Gastric endocrine cell,1
+80,1177,Enterocyte progenitor,1
+81,946,Hepatocyte/Endodermal cell,1
+82,17,astrocyte,1
+83,17,CL:0000127,3
+84,17,Astrocyte,2
+85,18,goblet cell,1
+86,18,CL:0000160,3
+87,18,Goblet cell,2
+88,2199,Ureteric bud cell,1
+89,716,Intercalated cell,1
+90,19,enterocyte,1
+91,19,CL:0000584,3
+92,19,Enterocyte,2
+93,2149,AT2 cell,1
+94,798,Ventricle cardiomyocyte,1
+95,2646,Adrenal gland inflammatory cell,1
+96,725,Pancreas exocrine cell,1
+97,484,Gastric chief cell,1
+98,20,mesothelial cell,1
+99,20,CL:0000077,3
+100,20,Mesothelial cell,2
+101,21,chondrocyte,1
+102,21,CL:0000138,3
+103,21,Chondrocyte,2
+104,22,oligodendrocyte,1
+105,22,CL:0000128,3
+106,22,Oligodendrocyte,2
+107,23,thyroid follicular cell,1
+108,23,CL:0002258,3
+109,23,Thyroid follicular cell,2
+110,1114,Myocyte,1
+111,24,lymphocyte,1
+112,24,CL:0000542,3
+113,24,Lymphocyte,2
+114,2248,Myoloid cell,1
+115,1371,B cell(Plasmocyte),1
+116,1309,Cd8+ T cell,1
+117,2013,Fetal Proliferating cell,1
+118,25,cardiocyte,1
+119,25,CL:0002494,3
+120,25,Cardiocyte,2
+121,968,Prostate epithelial cell,1
+122,3038,Cd4+ T cell,1
+123,26,mesenchymal stem cell,1
+124,26,CL:0000134,3
+125,26,Mesenchymal stem cell,2
+126,3130,Mammary gland in lactation,1
+127,27,neuron,1
+128,27,CL:0000540,3
+129,27,Neuron,2
+130,3271,Intercalated cells of collecting duct,1
+131,3005,Fetal kidney epithelial cell,1
+132,28,hepatocyte,1
+133,28,CL:0000182,3
+134,28,Hepatocyte,2
+135,29,endocrine cell,1
+136,29,CL:0000163,3
+137,29,Endocrine cell,2
+138,30,acinar cell,1
+139,30,CL:0000622,3
+140,30,Acinar cell,2
+141,2943,Female fetal gonad cell,1
+142,1330,Secretory epithelial cell,1
+143,2339,Alveolar type II cell,1
+144,285,Microglial,1
+145,3390,Adipocyte,1
+146,31,small luteal cell,1
+147,31,CL:0000590,3
+148,31,Small luteal cell,2
+149,32,cumulus cell,1
+150,32,CL:0000711,3
+151,32,Cumulus cell,2
+152,2810,Pre sertoli cell,1
+153,33,pancreatic endocrine cell,1
+154,33,CL:0008024,3
+155,33,Pancreatic endocrine cell,2
+156,34,embryonic stem cell,1
+157,34,CL:0002322,3
+158,34,Embryonic stem cell,2
+159,389,Fetal Premeiotic germ cell,1
+160,389,Fetal premeiotic germ cell,1
+161,2823,Proximal tubule brush border cell,1
+162,2596,Spermatogonia,1
+163,1602,Spermicyte,1
+164,1923,Testicular cell,1
+165,3333,Invasive spongiotrophoblast,1
+166,35,"naive thymus-derived CD4-positive, alpha-beta T cell",1
+167,35,CL:0000895,3
+168,35,"naive thymus-derived CD4-positive, alpha-beta T cell",1
+169,36,plasmacytoid dendritic cell,1
+170,36,CL:0000784,3
+171,36,plasmacytoid dendritic cell,1
+172,37,CD14-positive monocyte,1
+173,37,CL:0001054,3
+174,37,CD14-positive monocyte,1
+175,38,helper T cell,1
+176,38,CL:0000912,3
+177,38,helper T cell,1
+178,39,erythroid lineage cell,1
+179,39,CL:0000764,3
+180,39,erythroid lineage cell,1
+181,40,mesenchymal stem cell of the bone marrow,1
+182,40,CL:0002540,3
+183,40,mesenchymal stem cell of the bone marrow,1
+184,41,megakaryocyte,1
+185,41,CL:0000556,3
+186,41,megakaryocyte,1
+187,42,pro-B cell,1
+188,42,CL:0000826,3
+189,42,pro-B cell,1
+190,24,lymphocyte,1
+191,24,CL:0000542,3
+192,24,lymphocyte,1
+193,43,plasma cell,1
+194,43,CL:0000786,3
+195,43,plasma cell,1
+196,44,"CD14-positive, CD16-positive monocyte",1
+197,44,CL:0002397,3
+198,44,"CD14-positive, CD16-positive monocyte",1
+199,45,memory B cell,1
+200,45,CL:0000787,3
+201,45,memory B cell,1
+202,46,conventional dendritic cell,1
+203,46,CL:0000990,3
+204,46,conventional dendritic cell,1
+205,47,cytotoxic T cell,1
+206,47,CL:0000910,3
+207,47,cytotoxic T cell,1
+208,48,naive B cell,1
+209,48,CL:0000788,3
+210,48,naive B cell,1
+211,49,"CD8-positive, alpha-beta T cell",1
+212,49,CL:0000625,3
+213,49,"CD8-positive, alpha-beta T cell",1
+214,50,natural killer cell,1
+215,50,CL:0000623,3
+216,50,natural killer cell,1
+217,51,bone marrow hematopoietic cell,1
+218,51,CL:1001610,3
+219,51,bone marrow hematopoietic cell,1
+220,52,precursor B cell,1
+221,52,CL:0000817,3
+222,52,precursor B cell,1
+223,837,T-helper cell/regulatory T cell,1
+224,53,naive T cell,1
+225,53,CL:0000898,3
+226,53,naive T cell,1
+227,54,T-helper 2 cell,1
+228,54,CL:0000546,3
+229,54,T-helper 2 cell,1
+230,55,T-helper 1 cell,1
+231,55,CL:0000545,3
+232,55,T-helper 1 cell,1
+233,56,"CD4-positive, alpha-beta T cell",1
+234,56,CL:0000624,3
+235,56,"CD4-positive, alpha-beta T cell",1
+236,11,dendritic cell,1
+237,11,CL:0000451,3
+238,11,dendritic cell,1
+239,2334,naive T cell type 2,1
+240,794,CD4+ naive T cell,1
+241,57,hematopoietic stem cell,1
+242,57,CL:0000037,3
+243,57,hematopoietic stem cell,1
+244,2439,CD14+ monocyte type 1,1
+245,1743,cytotoxic T cell type 2,1
+246,2148,naive CD8+ T cell,1
+247,2300,erythroid cell type 1,1
+248,26,mesenchymal stem cell,1
+249,26,CL:0000134,3
+250,26,mesenchymal stem cell,1
+251,3440,B cell T cell doublet,1
+252,2918,CD16+ monocyte,1
+253,1647,CD14+ monocyte type 2,1
+254,3446,T-helper cell,1
+255,763,erythroid cell type 2,1
+256,431,cytotoxic T cell type 1,1
+257,3038,CD4+ T cell,1
+258,769,naive T cell type 3,1
+259,3024,natural killer cell type 1,1
+260,753,T-helper cell including regulatory T cell population,1
+261,2948,natural killer cell type 2,1
+262,306,naive T-helper cell type 1,1
+263,333,naive T cell type 1,1
+264,3464,naive T-helper cell type 2,1
+265,2591,erythroid cell,1
+266,58,blood vessel endothelial cell,1
+267,58,CL:0000071,3
+268,58,blood vessel endothelial cell,1
+269,59,epithelial cell of stratum germinativum of esophagus,1
+270,59,CL:1000447,3
+271,59,epithelial cell of stratum germinativum of esophagus,1
+272,5,stromal cell,1
+273,5,CL:0000499,3
+274,5,stromal cell,1
+275,1813,submucosal gland mucous cell,1
+276,60,immature B cell,1
+277,60,CL:0000816,3
+278,60,immature B cell,1
+279,2714,lymphatic vessel,1
+280,3262,submocosal esophageal gland,1
+281,61,follicular B cell,1
+282,61,CL:0000843,3
+283,61,follicular B cell,1
+284,10,monocyte,1
+285,10,CL:0000576,3
+286,10,monocyte,1
+287,62,T follicular helper cell,1
+288,62,CL:0002038,3
+289,62,T follicular helper cell,1
+290,63,"activated CD8-positive, alpha-beta T cell",1
+291,63,CL:0000906,3
+292,63,"activated CD8-positive, alpha-beta T cell",1
+293,64,innate lymphoid cell,1
+294,64,CL:0001065,3
+295,64,innate lymphoid cell,1
+296,65,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",1
+297,65,CL:0000792,3
+298,65,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",1
+299,66,plasmablast,1
+300,66,CL:0000980,3
+301,66,plasmablast,1
+302,67,"CD8-alpha alpha positive, gamma-delta intraepithelial T cell",1
+303,67,CL:0000802,3
+304,67,"CD8-alpha alpha positive, gamma-delta intraepithelial T cell",1
+305,2037,monocyte/macrophage,1
+306,765,natural killer cell/CD8+ cytotoxic T cell,1
+307,8,macrophage,1
+308,8,CL:0000235,3
+309,8,macrophage,1
+310,68,epithelial cell of esophagus,1
+311,68,CL:0002252,3
+312,68,epithelial cell of esophagus,1
+313,69,IgM plasma cell,1
+314,69,CL:0000986,3
+315,69,IgM plasma cell,1
+316,70,IgG plasma cell,1
+317,70,CL:0000985,3
+318,70,IgG plasma cell,1
+319,71,platelet,1
+320,71,CL:0000233,3
+321,71,platelet,1
+322,13,mast cell,1
+323,13,CL:0000097,3
+324,13,mast cell,1
+325,72,type II pneumocyte,1
+326,72,CL:0002063,3
+327,72,type II pneumocyte,1
+328,73,type I pneumocyte,1
+329,73,CL:0002062,3
+330,73,type I pneumocyte,1
+331,74,lung ciliated cell,1
+332,74,CL:1000271,3
+333,74,lung ciliated cell,1
+334,75,muscle cell,1
+335,75,CL:0000187,3
+336,75,muscle cell,1
+337,1015,respiratory system lymphatic vessel,1
+338,898,respiratory system blood vessel,1
+339,76,"CD8-positive, alpha-beta cytotoxic T cell",1
+340,76,CL:0000794,3
+341,76,"CD8-positive, alpha-beta cytotoxic T cell",1
+342,77,regulatory T cell,1
+343,77,CL:0000815,3
+344,77,regulatory T cell,1
+345,78,fibroblast of lung,1
+346,78,CL:0002553,3
+347,78,fibroblast of lung,1
+348,505,dendritic cell/dividing monocyte,1
+349,294,basal epithelial cell,1
+350,1309,CD8+ T cell,1
+351,3148,lymph vessel cell,1
+352,684,blood vessel cell,1
+353,2550,CD27+ B cell,1
+354,3348,suprabasal epithelial cell,1
+355,912,dividing epithelial cell,1
+356,1363,upper epithelial cell,1
+357,16,stratified epithelial cell,1
+358,16,CL:0000079,3
+359,16,stratified epithelial cell,1
+360,1953,CD27- B cell,1
+361,1992,FCGR3A+ natural killer cell,1
+362,1254,CD160+ natural killer cell,1
+363,813,hypermutation B cell,1
+364,788,activated dendritic cell,1
+365,2888,dendritic cell type 2,1
+366,1837,plasma IgG expressing cell,1
+367,2625,B/T doublet,1
+368,1975,naÃ¯ve CD4+ T cell,1
+369,2984,dividing T cell,1
+370,2643,dividing natural killer cell,1
+371,1629,innate lymphoid cells,1
+372,2194,MAIT-like CD8+ T cell,1
+373,284,gamma-delta CD8+ T cell,1
+374,1786,regulatory CD4+ T cell,1
+375,661,plasma IgM expressing cell,1
+376,392,cytotoxic CD8+ T cell,1
+377,2103,activated CD8+ T cell,1
+378,2034,follicular helper CD4+ T cell,1
+379,1258,mantle B cell,1
+380,3182,dendritic cell type 1,1
+381,518,CD34+ progenitor,1
+382,2455,Unknown,1
+383,1984,submucosal gland duct cell,1
+384,3,fibroblast,1
+385,3,CL:0000057,3
+386,3,fibroblast,1
+387,3414,alveolar epithelial cell type 2,1
+388,2707,CD8+ cytotoxic T cell,1
+389,2757,MARCOneg macrophage,1
+390,2682,alveolar epithelial cell type 1,1
+391,1483,MARCOpos macrophage,1
+392,79,ciliated cell,1
+393,79,CL:0000064,3
+394,79,ciliated cell,1
+395,762,dividing macrophage,1
+396,723,CD4+ conventional T cell,1
+397,80,decidual cell,1
+398,80,CL:2000002,3
+399,80,decidual cell,1
+400,81,granulocyte,1
+401,81,CL:0000094,3
+402,81,granulocyte,1
+403,2443,decidual natural killer cell,1
+404,3367,placental endothelial cell,1
+405,465,endometrial glandular epithelial cell,1
+406,3269,uterine endothelial cell,1
+407,1899,syncytiotrophoblast,1
+408,2642,fetal fibroblast,1
+409,82,extravillous trophoblast,1
+410,82,CL:0008036,3
+411,82,extravillous trophoblast,1
+412,2004,uterine perivascular cell,1
+413,2644,cytotrophoblast,1
+414,83,Hofbauer cell,1
+415,83,CL:3000001,3
+416,83,Hofbauer cell,1
+417,84,endothelial cell of lymphatic vessel,1
+418,84,CL:0002138,3
+419,84,endothelial cell of lymphatic vessel,1
+420,906,decidual macrophage (dM3),1
+421,1900,placental extravillous trophoblast cell (EVT),1
+422,2469,Hofbauer cell (HB),1
+423,924,fetal endothelial cell (Endo f),1
+424,1022,decidual macrophage (dM2),1
+425,890,decidual macrophage (dM1),1
+426,2263,proliferating decidual natural killer cell (dNK p),1
+427,1472,maternal endothelial cell (Endo m),1
+428,2576,plasmacytoid dendritic cell (DC2),1
+429,777,CD16-positive natural killer cell (NK CD16+),1
+430,3274,decidual natural killer cell (dNK2),1
+431,2156,conventional dendritic cell (DC1),1
+432,2848,CD16-negative natural killer cell (NK CD16-),1
+433,1198,innate lymphoid cell (ILC3),1
+434,2073,syncytiotrophoblast cell (SCT),1
+435,1577,decidual natural killer cell (dNK1),1
+436,633,decidual natural killer cell (dNK3),1
+437,3283,decidual stromal cell (dS3),1
+438,1793,fetal fibroblast (fFB1),1
+439,1350,lymphatic endothelial cell (Endo l),1
+440,3449,decidual perivascular cell (dP1),1
+441,2301,decidual stromal cell (dS2),1
+442,676,decidual perivascular cell (dP2),1
+443,3197,glandular epithelial cell (Epi2),1
+444,1041,villous cytotrophoblast (VCT),1
+445,1508,glandular epithelial cell (Epi1),1
+446,2252,decidual stromal cell (dS1),1
+447,3224,fetal fibroblast (fFB2),1
+448,3253,Pericytes,1
+449,85,ILC1,1
+450,85,CL:0001068,3
+451,85,ILC1,1
+452,86,IgA plasma cell,1
+453,86,CL:0000987,3
+454,86,IgA plasma cell,1
+455,2371,activated fibroblast,1
+456,3415,moDC,1
+457,1983,cytotoxic CD8 Trm,1
+458,3153,Trm,1
+459,3109,CD8 Trm,1
+460,1179,TFH-like,1
+461,3272,Th17 Trm,1
+462,1222,resident macrophage,1
+463,87,inflammatory macrophage,1
+464,87,CL:0000863,3
+465,87,inflammatory macrophage,1
+466,593,Tregs,1
+467,357,central memory T cell,1
+468,6,smooth muscle cell,1
+469,6,CL:0000192,3
+470,6,smooth muscle cell,1
+471,3073,activated DC,1
+472,658,DC1,1
+473,323,CD36+ endothelial cell,1
+474,367,highly activated T cell,1
+475,1370,pDC,1
+476,88,glial cell,1
+477,88,CL:0000125,3
+478,88,glial cell,1
+479,697,T (gd),1
+480,953,ACKR1+ endothelial cell,1
+481,1686,DC2,1
+482,2293,ILC3,1
+483,3047,T follicular helper cell like,1
+484,89,"CD8-positive, alpha-beta memory T cell",1
+485,89,CL:0000909,3
+486,89,"CD8-positive, alpha-beta memory T cell",1
+487,90,myeloid dendritic cell,1
+488,90,CL:0000782,3
+489,90,myeloid dendritic cell,1
+490,91,group 1 innate lymphoid cell,1
+491,91,CL:0001067,3
+492,91,group 1 innate lymphoid cell,1
+493,92,pericyte cell,1
+494,92,CL:0000669,3
+495,92,pericyte cell,1
+496,93,smooth muscle fiber of ileum,1
+497,93,CL:1000278,3
+498,93,smooth muscle fiber of ileum,1
+499,94,mature conventional dendritic cell,1
+500,94,CL:0000841,3
+501,94,mature conventional dendritic cell,1
+502,95,"central memory CD8-positive, alpha-beta T cell",1
+503,95,CL:0000907,3
+504,95,"central memory CD8-positive, alpha-beta T cell",1
+505,96,T-helper 17 cell,1
+506,96,CL:0000899,3
+507,96,T-helper 17 cell,1
+508,97,memory T cell,1
+509,97,CL:0000813,3
+510,97,memory T cell,1
+511,98,group 3 innate lymphoid cell,1
+512,98,CL:0001071,3
+513,98,group 3 innate lymphoid cell,1
+514,99,tissue-resident macrophage,1
+515,99,CL:0000864,3
+516,99,tissue-resident macrophage,1
+517,100,gut endothelial cell,1
+518,100,CL:0000131,3
+519,100,gut endothelial cell,1
+520,101,gamma-delta T cell,1
+521,101,CL:0000798,3
+522,101,gamma-delta T cell,1
+523,2926,fibroblasts,1
+524,747,unassigned resting T cell,1
+525,2697,resting CD8+ T cell,1
+526,2872,resting CD4+ T cell,1
+527,382,unassigned activated T call,1
+528,2459,activated CD4+ T cell,1
+529,102,"activated CD4-positive, alpha-beta T cell",1
+530,102,CL:0000896,3
+531,102,"activated CD4-positive, alpha-beta T cell",1
+532,103,ionocyte,1
+533,103,CL:0005006,3
+534,103,ionocyte,1
+535,104,nasal mucosa goblet cell,1
+536,104,CL:0002480,3
+537,104,nasal mucosa goblet cell,1
+538,105,olfactory bulb tufted cell,1
+539,105,CL:1001503,3
+540,105,olfactory bulb tufted cell,1
+541,106,olfactory epithelial cell,1
+542,106,CL:0002167,3
+543,106,olfactory epithelial cell,1
+544,22,oligodendrocyte,1
+545,22,CL:0000128,3
+546,22,oligodendrocyte,1
+547,107,brush cell,1
+548,107,CL:0002204,3
+549,107,brush cell,1
+550,108,interneuron,1
+551,108,CL:0000099,3
+552,108,interneuron,1
+553,109,ciliated epithelial cell,1
+554,109,CL:0000067,3
+555,109,ciliated epithelial cell,1
+556,12,neutrophil,1
+557,12,CL:0000775,3
+558,12,neutrophil,1
+559,110,olfactory receptor cell,1
+560,110,CL:0000207,3
+561,110,olfactory receptor cell,1
+562,27,neuron,1
+563,27,CL:0000540,3
+564,27,neuron,1
+565,111,basal cell of olfactory epithelium,1
+566,111,CL:0002169,3
+567,111,basal cell of olfactory epithelium,1
+568,112,nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa,1
+569,112,CL:2000094,3
+570,112,nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa,1
+571,113,type-6 epithelial cell of thymus,1
+572,113,CL:0002295,3
+573,113,type-6 epithelial cell of thymus,1
+574,1116,mitral tufted cell,1
+575,1974,fibroblast 1,1
+576,1059,blood endothelial cell,1
+577,479,Obp2a+ Obp2b+ Obp1a+ Obp1b+ cell 1,1
+578,2287,Obp2a+ Obp2b+ Obp1a+ Obp1b+ cell 2,1
+579,275,Gria2+ neuron,1
+580,2766,fibroblast 2,1
+581,2616,tuft cell,1
+582,2715,Muc5b+ Bpifa1+ Bpifb2+ goblet cell,1
+583,1057,Bpif9ba+ Bpifb9b+ Bpifb5+ cell,1
+584,3231,fibroblast 3,1
+585,981,vomeronasal receptor expressing neuron,1
+586,1488,Muc5b+ Scgb1c1+ goblet cell,1
+587,1111,Cck+ epithelial cell,1
+588,496,Arx+ neuron,1
+589,3141,Cyp2g1+ olfactory epithelial cell,1
+590,1184,myofibroblast or pericyte,1
+591,1469,olfactory epithelial gland cell,1
+592,1771,olfactory sensory neuron,1
+593,2614,Muc2+ Cyp2g1+ olfactory epithelial cell,1
+594,1180,Npy+ neuron,1
+595,1995,Cxcl17+ Ccl9+ epithelial cell,1
+596,1069,immature rostral migratory neuron,1
+597,3339,immature olfactory sensory neuron,1
+598,3335,external plexiform layer interneuron,1
+599,521,myofibroblast,1
+600,114,endothelial tip cell,1
+601,114,CL:0000704,3
+602,114,endothelial tip cell,1
+603,1416,pericyte,1
+604,115,epithelial cell of large intestine,1
+605,115,CL:0002253,3
+606,115,epithelial cell of large intestine,1
+607,15,myeloid cell,1
+608,15,CL:0000763,3
+609,15,myeloid cell,1
+610,18,goblet cell,1
+611,18,CL:0000160,3
+612,18,goblet cell,1
+613,2770,consensus molecular subtype 3 epithelial cell,1
+614,116,smooth muscle cell of large intestine,1
+615,116,CL:1000279,3
+616,116,smooth muscle cell of large intestine,1
+617,2009,consensus molecular subtype 1 epithelial cell,1
+618,117,endothelial stalk cell,1
+619,117,CL:0002671,3
+620,117,endothelial stalk cell,1
+621,118,enterocyte of epithelium of large intestine,1
+622,118,CL:0002071,3
+623,118,enterocyte of epithelium of large intestine,1
+624,1436,consensus molecular subtype 2 epithelial cell,1
+625,119,brush cell of epithelium proper of large intestine,1
+626,119,CL:0002203,3
+627,119,brush cell of epithelium proper of large intestine,1
+628,434,unspecified plasma cell,1
+629,307,lymphatic endothelial cell,1
+630,1889,unknown myeloid cell,1
+631,3366,stalk-like endothelial cell,1
+632,2345,IgA+ plasma cell,1
+633,863,stromal 1,1
+634,3021,CD19+CD20+ B cell,1
+635,3232,mature enterocyte,1
+636,1036,BEST4+ enterocyte,1
+637,3454,stem-like/transit amplifying epithelial cell,1
+638,343,stromal 2,1
+639,2119,stromal 3,1
+640,2651,intermediate epithelial cell,1
+641,2316,enteric glial cell,1
+642,400,tip-like endothelial cell,1
+643,1809,gamma delta T cell,1
+644,985,pro-inflammatory myeloid cell,1
+645,1600,anti-inflammatory myeloid cell,1
+646,2683,proliferating myeloid cell,1
+647,426,SPP1+B myeloid cell,1
+648,3063,unknown T cell,1
+649,402,consensus molecular subtype 1,1
+650,2455,unknown,1
+651,9,epithelial cell,1
+652,9,CL:0000066,3
+653,9,epithelial cell,1
+654,3289,SPP1+A myeloid cell,1
+655,1310,consensus molecular subtype 3,1
+656,3462,consensus molecular subtype 2,1
+657,120,hematopoietic precursor cell,1
+658,120,CL:0008001,3
+659,120,hematopoietic precursor cell,1
+660,121,promonocyte,1
+661,121,CL:0000559,3
+662,121,promonocyte,1
+663,122,Fraction A pre-pro B cell,1
+664,122,CL:0002045,3
+665,122,Fraction A pre-pro B cell,1
+666,123,early pro-B cell,1
+667,123,CL:0002046,3
+668,123,early pro-B cell,1
+669,124,basophil,1
+670,124,CL:0000767,3
+671,124,basophil,1
+672,125,late pro-B cell,1
+673,125,CL:0002048,3
+674,125,late pro-B cell,1
+675,126,erythroblast,1
+676,126,CL:0000765,3
+677,126,erythroblast,1
+678,127,granulocytopoietic cell,1
+679,127,CL:0002191,3
+680,127,granulocytopoietic cell,1
+681,128,lung endothelial cell,1
+682,128,CL:1001567,3
+683,128,lung endothelial cell,1
+684,129,proerythroblast,1
+685,129,CL:0000547,3
+686,129,proerythroblast,1
+687,130,Langerhans cell,1
+688,130,CL:0000453,3
+689,130,Langerhans cell,1
+690,131,basal cell of epidermis,1
+691,131,CL:0002187,3
+692,131,basal cell of epidermis,1
+693,132,keratinocyte,1
+694,132,CL:0000312,3
+695,132,keratinocyte,1
+696,133,non-classical monocyte,1
+697,133,CL:0000875,3
+698,133,non-classical monocyte,1
+699,134,leukocyte,1
+700,134,CL:0000738,3
+701,134,leukocyte,1
+702,135,alveolar macrophage,1
+703,135,CL:0000583,3
+704,135,alveolar macrophage,1
+705,136,classical monocyte,1
+706,136,CL:0000860,3
+707,136,classical monocyte,1
+708,137,ciliated columnar cell of tracheobronchial tree,1
+709,137,CL:0002145,3
+710,137,ciliated columnar cell of tracheobronchial tree,1
+711,138,immature T cell,1
+712,138,CL:0002420,3
+713,138,immature T cell,1
+714,139,kidney cell,1
+715,139,CL:1000497,3
+716,139,kidney cell,1
+717,140,mesangial cell,1
+718,140,CL:0000650,3
+719,140,mesangial cell,1
+720,141,kidney collecting duct epithelial cell,1
+721,141,CL:1000454,3
+722,141,kidney collecting duct epithelial cell,1
+723,142,kidney capillary endothelial cell,1
+724,142,CL:1000892,3
+725,142,kidney capillary endothelial cell,1
+726,143,kidney loop of Henle ascending limb epithelial cell,1
+727,143,CL:1001016,3
+728,143,kidney loop of Henle ascending limb epithelial cell,1
+729,144,DN1 thymic pro-T cell,1
+730,144,CL:0000894,3
+731,144,DN1 thymic pro-T cell,1
+732,145,kidney proximal straight tubule epithelial cell,1
+733,145,CL:1000839,3
+734,145,kidney proximal straight tubule epithelial cell,1
+735,28,hepatocyte,1
+736,28,CL:0000182,3
+737,28,hepatocyte,1
+738,146,duct epithelial cell,1
+739,146,CL:0000068,3
+740,146,duct epithelial cell,1
+741,147,skeletal muscle satellite cell,1
+742,147,CL:0000594,3
+743,147,skeletal muscle satellite cell,1
+744,2,endothelial cell,1
+745,2,CL:0000115,3
+746,2,endothelial cell,1
+747,148,endothelial cell of hepatic sinusoid,1
+748,148,CL:1000398,3
+749,148,endothelial cell of hepatic sinusoid,1
+750,149,bladder urothelial cell,1
+751,149,CL:1001428,3
+752,149,bladder urothelial cell,1
+753,150,bladder cell,1
+754,150,CL:1001319,3
+755,150,bladder cell,1
+756,151,neuroendocrine cell,1
+757,151,CL:0000165,3
+758,151,neuroendocrine cell,1
+759,152,mesenchymal cell,1
+760,152,CL:0008019,3
+761,152,mesenchymal cell,1
+762,153,blood cell,1
+763,153,CL:0000081,3
+764,153,blood cell,1
+765,154,cardiac muscle cell,1
+766,154,CL:0000746,3
+767,154,cardiac muscle cell,1
+768,155,endocardial cell,1
+769,155,CL:0002350,3
+770,155,endocardial cell,1
+771,14,basal cell,1
+772,14,CL:0000646,3
+773,14,basal cell,1
+774,156,luminal epithelial cell of mammary gland,1
+775,156,CL:0002326,3
+776,156,luminal epithelial cell of mammary gland,1
+777,157,microglial cell,1
+778,157,CL:0000129,3
+779,157,microglial cell,1
+780,3282,mesenchymal stem cell of adipose,1
+781,158,keratinocyte stem cell,1
+782,158,CL:0002337,3
+783,158,keratinocyte stem cell,1
+784,159,granulocyte monocyte progenitor cell,1
+785,159,CL:0000557,3
+786,159,granulocyte monocyte progenitor cell,1
+787,160,skeletal muscle satellite stem cell,1
+788,160,CL:0008011,3
+789,160,skeletal muscle satellite stem cell,1
+790,161,astrocyte of the cerebral cortex,1
+791,161,CL:0002605,3
+792,161,astrocyte of the cerebral cortex,1
+793,162,enteroendocrine cell,1
+794,162,CL:0000164,3
+795,162,enteroendocrine cell,1
+796,163,large intestine goblet cell,1
+797,163,CL:1000320,3
+798,163,large intestine goblet cell,1
+799,164,epithelial cell of proximal tubule,1
+800,164,CL:0002306,3
+801,164,epithelial cell of proximal tubule,1
+802,165,Slamf1-negative multipotent progenitor cell,1
+803,165,CL:0002035,3
+804,165,Slamf1-negative multipotent progenitor cell,1
+805,166,professional antigen presenting cell,1
+806,166,CL:0000145,3
+807,166,professional antigen presenting cell,1
+808,167,pancreatic A cell,1
+809,167,CL:0000171,3
+810,167,pancreatic A cell,1
+811,168,type B pancreatic cell,1
+812,168,CL:0000169,3
+813,168,type B pancreatic cell,1
+814,169,pancreatic PP cell,1
+815,169,CL:0002275,3
+816,169,pancreatic PP cell,1
+817,170,pancreatic ductal cell,1
+818,170,CL:0002079,3
+819,170,pancreatic ductal cell,1
+820,171,pancreatic stellate cell,1
+821,171,CL:0002410,3
+822,171,pancreatic stellate cell,1
+823,119,brush cell of epithelium proper of large intestine,1
+824,119,CL:0002203,3
+825,119,Brush cell of epithelium proper of large intestine,2
+826,172,megakaryocyte-erythroid progenitor cell,1
+827,172,CL:0000050,3
+828,172,megakaryocyte-erythroid progenitor cell,1
+829,173,myofibroblast cell,1
+830,173,CL:0000186,3
+831,173,myofibroblast cell,1
+832,174,common lymphoid progenitor,1
+833,174,CL:0000051,3
+834,174,common lymphoid progenitor,1
+835,175,pancreatic acinar cell,1
+836,175,CL:0002064,3
+837,175,pancreatic acinar cell,1
+838,176,epidermal cell,1
+839,176,CL:0000362,3
+840,176,epidermal cell,1
+841,177,oligodendrocyte precursor cell,1
+842,177,CL:0002453,3
+843,177,oligodendrocyte precursor cell,1
+844,178,erythrocyte,1
+845,178,CL:0000232,3
+846,178,erythrocyte,1
+847,179,epithelial cell of lung,1
+848,179,CL:0000082,3
+849,179,epithelial cell of lung,1
+850,180,stem cell of epidermis,1
+851,180,CL:1000428,3
+852,180,stem cell of epidermis,1
+853,181,brain pericyte,1
+854,181,CL:2000043,3
+855,181,brain pericyte,1
+856,182,Bergmann glial cell,1
+857,182,CL:0000644,3
+858,182,Bergmann glial cell,1
+859,183,Slamf1-positive multipotent progenitor cell,1
+860,183,CL:0002036,3
+861,183,Slamf1-positive multipotent progenitor cell,1
+862,184,mature natural killer cell,1
+863,184,CL:0000824,3
+864,184,mature natural killer cell,1
+865,185,pancreatic D cell,1
+866,185,CL:0000173,3
+867,185,pancreatic D cell,1
+868,186,Kupffer cell,1
+869,186,CL:0000091,3
+870,186,Kupffer cell,1
+871,187,immature natural killer cell,1
+872,187,CL:0000823,3
+873,187,immature natural killer cell,1
+874,188,immature NK T cell,1
+875,188,CL:0000914,3
+876,188,immature NK T cell,1
+877,189,cardiac neuron,1
+878,189,CL:0010022,3
+879,189,cardiac neuron,1
+880,190,pre-natural killer cell,1
+881,190,CL:0000937,3
+882,190,pre-natural killer cell,1
+883,191,globose cell of olfactory epithelium,1
+884,191,CL:0002171,3
+885,191,globose cell of olfactory epithelium,1
+886,192,basal proper cell of olfactory epithelium,1
+887,192,CL:0002184,3
+888,192,basal proper cell of olfactory epithelium,1
+889,997,immediate neural precursor cell,1
+890,193,secretory cell,1
+891,193,CL:0000151,3
+892,193,secretory cell,1
+893,194,respiratory basal cell,1
+894,194,CL:0002633,3
+895,194,respiratory basal cell,1
+896,195,sustentacular cell,1
+897,195,CL:0000703,3
+898,195,sustentacular cell,1
+899,2521,Bowman's gland cell,1
+900,196,microvillous olfactory receptor neuron,1
+901,196,CL:0000848,3
+902,196,microvillous olfactory receptor neuron,1
+903,556,respiratory ciliated cell,1
+904,2846,immune cell,1
+905,824,respiratory horizontal basal cell,1
+906,2735,dorsal sustentacular cell,1
+907,1860,ventral sustentacular cell,1
+908,882,respiratory secretory cell,1
+909,2675,microvillous brush-like cell,1
+910,2233,globose basal cell,1
+911,2288,atypical olfactory sensory neuron,1
+912,324,microvillous ionocyte-like cell,1
+913,1755,olfactory horizontal basal cell,1
+914,3050,mature olfactory sensory neuron,1
+915,197,fibroblast of cardiac tissue,1
+916,197,CL:0002548,3
+917,197,fibroblast of cardiac tissue,1
+918,198,cardiac endothelial cell,1
+919,198,CL:0010008,3
+920,198,cardiac endothelial cell,1
+921,2356,cardiomyocyte,1
+922,199,Schwann cell,1
+923,199,CL:0002573,3
+924,199,Schwann cell,1
+925,2999,cardiac endothelial cell of lymphatic vessel,1
+926,1981,proliferating cell,1
+927,472,epicardium,1
+928,578,dendritic-like cell,1
+929,2972,smooth muscle cell 2,1
+930,300,cardiac endothelial cell 2,1
+931,1690,fibroblast of cardiac tissue 1,1
+932,603,macrophage 2,1
+933,1244,fibroblast of cardiac tissue 9,1
+934,3006,smooth muscle cell 1,1
+935,1892,cardiac endothelial cell 3,1
+936,3164,fibroblast of cardiac tissue 8,1
+937,3323,macrophage 1,1
+938,1199,endocardial cell 1,1
+939,569,macrophage 4,1
+940,2868,fibroblast of cardiac tissue 4,1
+941,2545,endocardial cell 2,1
+942,2677,fibroblast of cardiac tissue 2,1
+943,1680,fibroblast of cardiac tissue 7,1
+944,2605,macrophage 3,1
+945,1633,fibroblast of cardiac tissue 6,1
+946,745,fibroblast of cardiac tissue 3,1
+947,889,fibroblast of cardiac tissue 5,1
+948,3202,cardiac endothelial cell 1,1
+949,1223,immature neuron 2,1
+950,2753,granule cell 3,1
+951,2102,perivasular macrophage,1
+952,3334,granule cell 1,1
+953,2326,astrocyte 5,1
+954,3422,microglia,1
+955,1445,granule cell 0,1
+956,3205,intermediate precursor cell,1
+957,1661,vasoactive intestinal peptide positive neuron,1
+958,200,vascular leptomeningeal cell,1
+959,200,CL:4023051,3
+960,200,vascular leptomeningeal cell,1
+961,1551,calretinin neuron,1
+962,626,astrocyte 14,1
+963,3142,granule cell 24,1
+964,2838,anterior olfactory nucleus mitral/tufted cell,1
+965,1134,external tufted cell,1
+966,3200,interneuron 12,1
+967,298,mitral/tufted cell,1
+968,201,olfactory ensheathing cell,1
+969,201,CL:0011028,3
+970,201,olfactory ensheathing cell,1
+971,2235,vascular cell,1
+972,17,astrocyte,1
+973,17,CL:0000127,3
+974,17,astrocyte,1
+975,202,olfactory bulb interneuron,1
+976,202,CL:1001434,3
+977,202,olfactory bulb interneuron,1
+978,3084,immature neuron,1
+979,203,dopaminergic neuron,1
+980,203,CL:0000700,3
+981,203,dopaminergic neuron,1
+982,204,olfactory granule cell,1
+983,204,CL:0000626,3
+984,204,olfactory granule cell,1
+985,1007,immature neuron 7,1
+986,1849,interneuron 8,1
+987,205,leptomeningeal cell,1
+988,205,CL:0000708,3
+989,205,leptomeningeal cell,1
+990,206,central nervous system pericyte,1
+991,206,CL:0002575,3
+992,206,central nervous system pericyte,1
+993,207,neural progenitor cell,1
+994,207,CL:0011020,3
+995,207,neural progenitor cell,1
+996,3128,oligodendrocyte A,1
+997,208,cortical interneuron,1
+998,208,CL:0008031,3
+999,208,cortical interneuron,1
+1000,335,cortical layer 2-3 excitatory neuron,1
+1001,209,cerebral cortex endothelial cell,1
+1002,209,CL:1001602,3
+1003,209,cerebral cortex endothelial cell,1
+1004,210,pyramidal neuron,1
+1005,210,CL:0000598,3
+1006,210,pyramidal neuron,1
+1007,2256,cortical layer 4 excitatory neuron,1
+1008,211,excitatory neuron,1
+1009,211,CL:0008030,3
+1010,211,excitatory neuron,1
+1011,212,phagocyte,1
+1012,212,CL:0000234,3
+1013,212,phagocyte,1
+1014,213,cerebral cortex glial cell,1
+1015,213,CL:1001579,3
+1016,213,cerebral cortex glial cell,1
+1017,732,cortical layer 5-6 excitatory neuron,1
+1018,750,SST-expressing interneuron,1
+1019,947,oligodendrocyte C,1
+1020,3032,SV2C-expressing interneuron,1
+1021,1843,pyramidal neuron?,1
+1022,2803,oligodendrocyte B,1
+1023,466,mixed excitatory neuron,1
+1024,1449,VIP-expressing interneuron,1
+1025,1679,cortical layer 2-3 excitatory neuron B,1
+1026,560,PVALB-expressing interneuron,1
+1027,2693,cortical layer 2-3 excitatory neuron A,1
+1028,1138,mixed glial cell?,1
+1029,214,kidney loop of Henle epithelial cell,1
+1030,214,CL:1000909,3
+1031,214,kidney loop of Henle epithelial cell,1
+1032,528,ureteric bud,1
+1033,3306,pelvic epithelium cell - distal ureteric bud,1
+1034,2229,nephron progenitor,1
+1035,215,renal filtration cell,1
+1036,215,CL:0002522,3
+1037,215,renal filtration cell,1
+1038,871,connecting nephron tubules/principal cell - proximal ureteric bud,1
+1039,216,kidney interstitial myofibroblast,1
+1040,216,CL:1000691,3
+1041,216,kidney interstitial myofibroblast,1
+1042,1485,renal vesicle,1
+1043,217,glomerular visceral epithelial cell,1
+1044,217,CL:0000653,3
+1045,217,glomerular visceral epithelial cell,1
+1046,3394,metanephric cap,1
+1047,2784,S shaped body,1
+1048,647,fibroblast type 1,1
+1049,2856,macrophage type 1,1
+1050,1817,stroma progenitor,1
+1051,2465,myofibroblast type 2,1
+1052,1975,proliferating myofibroblast,1
+1053,2105,proximal ureteric bud cell,1
+1054,2370,myofibroblast cell type 1,1
+1055,2816,fibroblast type 2,1
+1056,3144,proliferating fibroblast,1
+1057,2089,connecting nephron tubules/principal cells - proximal ureteric bud,1
+1058,950,medial S shaped body cell,1
+1059,986,distal renal vesicle cell,1
+1060,2877,proliferating natural killer cell,1
+1061,1832,proliferating conventional dendritic cell type 2,1
+1062,852,conventional dendritic cell type 2,1
+1063,736,macrophage type 2,1
+1064,2879,distal S shaped body cell,1
+1065,443,prolifirating B cell,1
+1066,2125,proliferating distal renal vesicle cell,1
+1067,3036,cap mesenchyme cell,1
+1068,1564,conventional dendritic cell type 1,1
+1069,1420,prolifirating stroma progenitor,1
+1070,2595,proliferating cap mesenchyme cell,1
+1071,1612,proximal S shaped body cell,1
+1072,2552,proximal renal vesicle cell,1
+1073,1500,innate lymphocyte-like cell,1
+1074,1357,prolifirating macrophage,1
+1075,2206,proliferating monocyte,1
+1076,627,myeloid progenitor,1
+1077,2712,hematopoietic multipotent progenitor,1
+1078,3100,erythroid progenitor,1
+1079,934,monocyte progenitor,1
+1080,2394,dendritic progenitor,1
+1081,1207,megakaryocyte progenitor,1
+1082,218,erythroid progenitor cell,1
+1083,218,CL:0000038,3
+1084,218,erythroid progenitor cell,1
+1085,219,megakaryocyte progenitor cell,1
+1086,219,CL:0000553,3
+1087,219,megakaryocyte progenitor cell,1
+1088,220,hematopoietic multipotent progenitor cell,1
+1089,220,CL:0000837,3
+1090,220,hematopoietic multipotent progenitor cell,1
+1091,221,common dendritic progenitor,1
+1092,221,CL:0001029,3
+1093,221,common dendritic progenitor,1
+1094,222,common myeloid progenitor,1
+1095,222,CL:0000049,3
+1096,222,common myeloid progenitor,1
+1097,223,Sertoli cell,1
+1098,223,CL:0000216,3
+1099,223,Sertoli cell,1
+1100,224,spermatocyte,1
+1101,224,CL:0000017,3
+1102,224,spermatocyte,1
+1103,225,spermatogonium,1
+1104,225,CL:0000020,3
+1105,225,spermatogonium,1
+1106,801,Leydig cell and peritubular myoid cell,1
+1107,226,spermatid,1
+1108,226,CL:0000018,3
+1109,226,spermatid,1
+1110,2228,differentiated_P7,1
+1111,1785,differentiated,1
+1112,666,resting basal_P28Adult,1
+1113,2186,cycling basal_P28Adult,1
+1114,838,differentiated_P28Adult,1
+1115,1230,resting basal_P7,1
+1116,2689,cycling basal_P7,1
+1117,1783,stromal cell type 2a,1
+1118,803,pericyte type 1,1
+1119,2945,endothelial cell type 2,1
+1120,1402,stromal cel type 2b,1
+1121,2435,stromal cell type 3,1
+1122,2175,stromal cell type 4,1
+1123,768,pericyte type 2,1
+1124,227,smooth muscle cell of colon,1
+1125,227,CL:1000280,3
+1126,227,smooth muscle cell of colon,1
+1127,3115,cortical intermediate progenitor,1
+1128,2537,canonical glycolysis,1
+1129,3453,mesen/rhombencephalon inhibitory neuron,1
+1130,3373,diencephalon inhibitory neuron,1
+1131,2553,cortical neural progenitor cell,1
+1132,989,lateral ganglionic eminence inhibitory neuron,1
+1133,589,ganglionic eminence neural progenitor cell,1
+1134,3326,diencephalon excitatory neuron,1
+1135,835,cortical excitatory neuron,1
+1136,1949,mesen/rhombencephalon excitatory neuron,1
+1137,2161,non-telencephalon neural progenitor cell,1
+1138,2434,lateral ganglionic eminence inhibitory neurons,1
+1139,1758,mesen/rhombencephalon inhibitory neurons,1
+1140,2639,glycolysis state,1
+1141,3259,mesen/rhombencephalon excitatory neurons,1
+1142,566,medial ganglionic eminence/caudal ganglionic eminence inhibitory neurons,1
+1143,228,retinal pigment epithelial cell,1
+1144,228,CL:0002586,3
+1145,228,retinal pigment epithelial cell,1
+1146,229,melanocyte,1
+1147,229,CL:0000148,3
+1148,229,melanocyte,1
+1149,2821,T cell/natural killer cell,1
+1150,230,vein endothelial cell,1
+1151,230,CL:0002543,3
+1152,230,vein endothelial cell,1
+1153,231,capillary endothelial cell,1
+1154,231,CL:0002144,3
+1155,231,capillary endothelial cell,1
+1156,232,endothelial cell of artery,1
+1157,232,CL:1000413,3
+1158,232,endothelial cell of artery,1
+1159,1839,retinal pigment epithelial cell/retinal rod cell/melanocyte,1
+1160,2793,leukocyte/other,1
+1161,385,choriocapillaris endothelial cell,1
+1162,2963,white blood cell/other 1,1
+1163,2938,vein endothelial cell 2,1
+1164,531,white blood cell/other 2,1
+1165,645,vein endothelial cell 1,1
+1166,2612,Schwann cell 2,1
+1167,1297,Schwann cell 1,1
+1168,1538,pancreatic B cell,1
+1169,233,pancreatic epsilon cell,1
+1170,233,CL:0005019,3
+1171,233,pancreatic epsilon cell,1
+1172,3436,Muller cell,1
+1173,234,retinal ganglion cell,1
+1174,234,CL:0000740,3
+1175,234,retinal ganglion cell,1
+1176,235,amacrine cell,1
+1177,235,CL:0000561,3
+1178,235,amacrine cell,1
+1179,236,retinal rod cell,1
+1180,236,CL:0000604,3
+1181,236,retinal rod cell,1
+1182,237,retinal bipolar neuron,1
+1183,237,CL:0000748,3
+1184,237,retinal bipolar neuron,1
+1185,238,retinal cone cell,1
+1186,238,CL:0000573,3
+1187,238,retinal cone cell,1
+1188,2678,retinal rod cell CCA0,1
+1189,832,retinal rod cell CCA1,1
+1190,1051,retinal bipolar neuron CCA8,1
+1191,2276,retinal bipolar neuron CCA2,1
+1192,3314,other,1
+1193,525,retinal bipolar neuron CCA6,1
+1194,3303,retinal bipolar neuron CCA7,1
+1195,2932,retinal rod cell CCA10,1
+1196,374,amacrine cell CCA9,1
+1197,2895,nephron progenitor cell A,1
+1198,1959,ureteric bud; kidney collecting duct cell,1
+1199,955,medial; distal S-shaped body,1
+1200,2569,nephron progenitor cell D,1
+1201,1113,S-shaped body podocyte precursor cell,1
+1202,2603,nephron progenitor cell C,1
+1203,2445,early kidney proxmial tubule cell,1
+1204,2908,kidney interstitial cell A,1
+1205,239,glomerular endothelial cell,1
+1206,239,CL:0002188,3
+1207,239,glomerular endothelial cell,1
+1208,1187,S-shaped body proximal precursor cell,1
+1209,3375,kidney interstitial progenitor cell,1
+1210,839,renal vesicle; comma-shaped body A,1
+1211,2082,pretubular aggregate,1
+1212,1335,nephron progenitor cell B,1
+1213,1828,kidney interstitial cell B,1
+1214,240,kidney connecting tubule epithelial cell,1
+1215,240,CL:1000768,3
+1216,240,kidney connecting tubule epithelial cell,1
+1217,3218,renal vesicle; comma-shaped body B,1
+1218,1584,paneth-like cell,1
+1219,241,paneth cell of epithelium of small intestine,1
+1220,241,CL:1000343,3
+1221,241,paneth cell of epithelium of small intestine,1
+1222,242,intestinal enteroendocrine cell,1
+1223,242,CL:1001516,3
+1224,242,intestinal enteroendocrine cell,1
+1225,243,intestinal crypt stem cell,1
+1226,243,CL:0002250,3
+1227,243,intestinal crypt stem cell,1
+1228,244,small intestine goblet cell,1
+1229,244,CL:1000495,3
+1230,244,small intestine goblet cell,1
+1231,1185,intestinal crypt transit amplifying cell,1
+1232,245,enterocyte of epithelium of small intestine,1
+1233,245,CL:1000334,3
+1234,245,enterocyte of epithelium of small intestine,1
+1235,246,stem cell,1
+1236,246,CL:0000034,3
+1237,246,stem cell,1
+1238,247,transit amplifying cell,1
+1239,247,CL:0009010,3
+1240,247,transit amplifying cell,1
+1241,19,enterocyte,1
+1242,19,CL:0000584,3
+1243,19,enterocyte,1
+1244,1139,goblet,1
+1245,2128,progenitor,1
+1246,3356,epithelial progenitor cell of small intestine,1
+1247,1527,epithelial progenitor cell of large intestine,1
+1248,248,paneth cell,1
+1249,248,CL:0000510,3
+1250,248,paneth cell,1
+1251,2140,proliferative kidney interstitial cell 4,1
+1252,1011,kidney interstitial cell 7,1
+1253,2901,epithelial cell of proximal tubule 4,1
+1254,3244,epithelial cell of proximal tubule 3,1
+1255,2165,kidney interstitial cell 11,1
+1256,938,glomerular visceral epithelial cell 3,1
+1257,2634,unknown 2,1
+1258,2039,parietal epithelial cell 1,1
+1259,470,glomerular visceral epithelial cell 1,1
+1260,1019,distal nephron progenitor,1
+1261,2611,medial/distal nephron progenitor 4,1
+1262,1560,early glomerular visceral epithelial cell 4,1
+1263,520,unknown 1,1
+1264,1749,medial/distal nephron progenitor 2,1
+1265,3086,nephron progenitor 1,1
+1266,3387,early glomerular visceral epithelial cell 3,1
+1267,274,kidney interstital cell 1,1
+1268,2769,proliferative kidney interstitial cell 5,1
+1269,1324,committed nephron progenitor,1
+1270,2832,proliferative kidney interstitial cell 3,1
+1271,1415,neuronal cell,1
+1272,1498,kidney interstitial cell 12,1
+1273,1924,muscle cell 1,1
+1274,3016,glomerular visceral epithelial cell 5,1
+1275,3070,kidney interstitial cell 10,1
+1276,749,glomerular visceral epithelial cell 6,1
+1277,590,kidney interstitial cell 13,1
+1278,2998,kidney interstitial cell 4,1
+1279,1152,muscle cell 2,1
+1280,1300,committed proliferative nephron progenitor,1
+1281,943,nephron progenitor 3,1
+1282,316,early/late glomerular visceral epithelial cell,1
+1283,3134,medial/distal nephron progenitor 6,1
+1284,764,proliferative nephron progenitor 1,1
+1285,249,kidney collecting duct cell,1
+1286,249,CL:1001225,3
+1287,249,kidney collecting duct cell,1
+1288,1773,kidney interstitial cell 9,1
+1289,317,proliferative nephron progenitor 2,1
+1290,3172,ureteric tip,1
+1291,380,early glomerular visceral epithelial cell 2,1
+1292,250,juxtaglomerular complex cell,1
+1293,250,CL:1000618,3
+1294,250,juxtaglomerular complex cell,1
+1295,923,kidney interstitial cell 3,1
+1296,2731,epithelial cell of proximal tubule 2,1
+1297,2524,glomerular visceral epithelial cell 2,1
+1298,1888,kidney interstitial cell 6,1
+1299,2001,nephron progenitor 2,1
+1300,646,parietal epithelial cell 3,1
+1301,933,medial/distal nephron progenitor 1,1
+1302,2488,proliferative kidney interstital cell 2,1
+1303,3235,glomerular visceral epithelial cell 4,1
+1304,3192,glomerular endothelial cell 3,1
+1305,3065,early glomerular visceral epithelial cell 1,1
+1306,3175,parietal epithelial cell 2,1
+1307,3014,nephron progenitor 4,1
+1308,2496,kidney interstitial cell 5,1
+1309,1667,kidney interstital cell 2,1
+1310,2058,glomerular endothelial cell 2,1
+1311,1032,mixed juxtaglomerular complex cell and mesangial cell 2,1
+1312,1165,mixed erythrocyte and immune cell,1
+1313,2192,kidney interstitial cell 8,1
+1314,3034,glomerular endothelial cell 1,1
+1315,1642,proliferative kidney interstital cell 1,1
+1316,462,epithelial cell of proximal tubule 1,1
+1317,2504,medial/distal nephron progenitor 5,1
+1318,3360,medial/distal nephron progenitor 3,1
+1319,1976,mixed juxtaglomerular complex cell and mesangial cell 1,1
+1320,251,alpha-beta T cell,1
+1321,251,CL:0000789,3
+1322,251,alpha-beta T cell,1
+1323,1845,periportal hepatic sinusoidal endothelial cell,1
+1324,3352,natural killer-like cell,1
+1325,252,mature B cell,1
+1326,252,CL:0000785,3
+1327,252,mature B cell,1
+1328,253,hepatic stellate cell,1
+1329,253,CL:0000632,3
+1330,253,hepatic stellate cell,1
+1331,254,cholangiocyte,1
+1332,254,CL:1000488,3
+1333,254,cholangiocyte,1
+1334,3179,portal endothelial cell,1
+1335,919,central venous hepatic sinusoidal endothelial cell,1
+1336,795,central venous liver sinusoidal endothelial cell,1
+1337,616,non-inflammatory macrophage,1
+1338,1766,NK-like cell,1
+1339,1252,portal liver sinusoidal endothelial cell,1
+1340,2179,periportal liver sinusoidal endothelial cell,1
+1341,1698,fetal endothelial cell,1
+1342,1814,macrophage/monocyte,1
+1343,2011,migratory dendritic cell,1
+1344,2652,not available,1
+1345,3246,conventional dendritic cell 2,1
+1346,532,tumor T cell,1
+1347,675,gamma-delta T cell/mucosal invariant T cell,1
+1348,2357,lymph node T cell,1
+1349,1245,conventional dendritic cell 1,1
+1350,1524,cancer associated fibroblast 1,1
+1351,3160,tumour endothelial cell,1
+1352,1000,lymph node fibroblast,1
+1353,3051,cancer associated fibroblast 3,1
+1354,3223,lymph node endothelial cell,1
+1355,1016,cancer associated fibroblast 2,1
+1356,362,human embryonic fibroblast/induced day type 3 dendritic cell,1
+1357,255,embryonic fibroblast,1
+1358,255,CL:2000042,3
+1359,255,embryonic fibroblast,1
+1360,2950,conventional dendritic cell type 1/induced day 9 dendritic cell,1
+1361,3180,human embryonic fibroblast,1
+1362,1426,induced day 9 dendritic cell,1
+1363,256,progenitor cell,1
+1364,256,CL:0011026,3
+1365,256,progenitor cell,1
+1366,2137,monocyte 2,1
+1367,2960,monocyte 1,1
+1368,2490,granulocyte 1,1
+1369,301,multipotent progenitor cell,1
+1370,2159,cycling committed progenitor,1
+1371,2748,CD4-positive monocyte,1
+1372,3064,unspecified,1
+1373,1919,cycling multipotent progenitor cell,1
+1374,2169,granulocyte progenitor,1
+1375,1784,granulocyte 2,1
+1376,384,committed progenitor,1
+1377,965,cycling dendritic cell,1
+1378,3472,granulocyte 3,1
+1379,257,lung macrophage,1
+1380,257,CL:1001603,3
+1381,257,lung macrophage,1
+1382,258,lung secretory cell,1
+1383,258,CL:1000272,3
+1384,258,lung secretory cell,1
+1385,690,transformed epithelial cell,1
+1386,259,neoplastic cell,1
+1387,259,CL:0001063,3
+1388,259,neoplastic cell,1
+1389,30,acinar cell,1
+1390,30,CL:0000622,3
+1391,30,acinar cell,1
+1392,1780,co-expression cell,1
+1393,33,pancreatic endocrine cell,1
+1394,33,CL:0008024,3
+1395,33,pancreatic endocrine cell,1
+1396,1003,alpha cell,1
+1397,1898,ductal cell,1
+1398,585,delta cell,1
+1399,3094,beta cell,1
+1400,507,gamma cell,1
+1401,995,PSC cell,1
+1402,3008,MHC class II cell,1
+1403,1573,unclassified endocrine cell,1
+1404,2366,epsilon cell,1
+1405,617,unclassified cell,1
+1406,1013,cardiac muscle progenitor,1
+1407,1852,cycling endothelial cell,1
+1408,1567,arterially-primed endothelial cell,1
+1409,2906,endocardium cell progenitor,1
+1410,260,cardiac muscle myoblast,1
+1411,260,CL:0000513,3
+1412,260,cardiac muscle myoblast,1
+1413,1819,haematopoietic progenitor,1
+1414,1174,OPC/Oligo,1
+1415,850,Micro Ctss,1
+1416,2819,OPC Pdgfra,1
+1417,962,Oligo Opalin,1
+1418,2947,L4 Arf5,1
+1419,2180,L4 Sparcl1,1
+1420,3353,L4 Scnn1a,1
+1421,1482,"L4 Scnn1a, L4 Sparcl1",1
+1422,3346,"L5 Hsd11b1, L5a Fam5c",1
+1423,1982,L5a Batf3,1
+1424,2796,L5 Hsd11b1,1
+1425,2663,"L5a Fam5c, L5a Batf3",1
+1426,3201,"L4 Sparcl1, L5 Ucma",1
+1427,1516,L5a Syt17,1
+1428,2291,L5b Cdh13,1
+1429,2277,L5a Fam5c,1
+1430,2223,"L5 Hsd11b1, L4 Scnn1a",1
+1431,1477,Sst Myh8,1
+1432,2909,L6a Plcxd3,1
+1433,1945,"L5a Fam5c, L5 Hsd11b1",1
+1434,712,L5 Chrna6,1
+1435,620,L5b Samd3,1
+1436,1277,"L5a Syt17, L5a Batf3",1
+1437,2101,L5 Ucma,1
+1438,2365,"L5 Ucma, L4 Sparcl1",1
+1439,450,"L6 Car12, L4 Sparcl1",1
+1440,558,"L5a Fam5c, L5b Cdh13",1
+1441,3288,"L6a Plcxd3, L6a Mgp",1
+1442,1833,"L4 Sparcl1, L4 Scnn1a",1
+1443,1269,"L4 Arf5, L4 Scnn1a",1
+1444,369,Astro Gja1,1
+1445,2068,"L2 Ngb, L2/3 Otof",1
+1446,3450,L2/3 Otof,1
+1447,2785,"L5b Cdh13, L5b Samd3",1
+1448,621,"L4 Scnn1a, L4 Arf5",1
+1449,3112,"L5a Batf3, L5a Syt17",1
+1450,3240,L2 Ngb,1
+1451,3470,Pvalb Tacr3,1
+1452,3198,Pvalb Wt1,1
+1453,899,"Pvalb Wt1, Pvalb Tacr3",1
+1454,279,"Pvalb Wt1, Pvalb Gpx3",1
+1455,1678,"Pvalb Tacr3, Pvalb Wt1",1
+1456,586,"Pvalb Rspo2, Pvalb Wt1",1
+1457,3195,Pvalb Rspo2,1
+1458,842,"Pvalb Obox3, Pvalb Wt1",1
+1459,3015,Pvalb Obox3,1
+1460,370,Pvalb Gpx3,1
+1461,2480,Pvalb Cpne5,1
+1462,2768,Pvalb Tpbg,1
+1463,807,"Pvalb Rspo2, Pvalb Gpx3",1
+1464,314,"Pvalb Obox3, Pvalb Gpx3",1
+1465,2181,"Pvalb Wt1, Pvalb Rspo2",1
+1466,583,"L5 Hsd11b1, L4 Arf5",1
+1467,471,"L5a Batf3, L5a Fam5c",1
+1468,3409,"L5a Fam5c, L4 Arf5",1
+1469,1962,"L6a Mgp, L6a Plcxd3",1
+1470,309,"L5b Samd3, L5b Cdh13",1
+1471,1045,L6 Car12,1
+1472,1697,"L5 Ucma, L5a Batf3",1
+1473,1506,"L5 Ucma, L5a Fam5c",1
+1474,1703,L6 Syt17,1
+1475,1043,"L6 Car12, L6 Syt17",1
+1476,2790,Sst Cbln4,1
+1477,2189,Vip Cxcl14_Car4,1
+1478,1759,Vip Gpc3,1
+1479,591,Vip Mybpc1,1
+1480,383,Vip Chat,1
+1481,2379,"Vip Gpc3, Vip Cxcl14_Car4",1
+1482,3474,L6a Mgp,1
+1483,2523,"Vip Cxcl14_Car4, Vip Mybpc1",1
+1484,3313,Vip Sncg,1
+1485,2527,"Pvalb Gpx3, Pvalb Wt1",1
+1486,1537,"Pvalb Tpbg, Pvalb Tacr3",1
+1487,1818,"Sst Cdk6, Sst Myh8",1
+1488,2146,"Sst Th, Sst Myh8",1
+1489,1965,"Vip Gpc3, Vip Chat",1
+1490,3459,"Vip Mybpc1, Vip Cxcl14_Car4",1
+1491,2419,"glutamatergic neuron of primary visual area, layer 5a",1
+1492,2774,"GABAergic neuron of primary visual area, layer 5 and layer 6",1
+1493,1520,"GABAergic neuron of primary visual area, layer 1 to 4",1
+1494,984,endothelial cell OR oligodendrocyte precursor cell of primary visual cortex,1
+1495,2983,astrocyte of primary visual cortex,1
+1496,453,"glutamatergic neuron of primary visual cortex, layer 2/3 and layer 4",1
+1497,2967,GABAergic neuron of primary visual cortex,1
+1498,344,"glutamatergic neuron of primary visual area, layer 4",1
+1499,2107,"glutamatergic neuron of primary visual cortex, layer 2/3",1
+1500,430,"glutamatergic neuron of primary visual cortex, layer 2",1
+1501,1987,"glutamatergic neuron of primary visual area, layer 2/3 and layer 4",1
+1502,1427,L6a Car12,1
+1503,2239,"L6a Syt17, L6a Car12",1
+1504,929,L6a Syt17,1
+1505,3181,"Sst Cbln4, Sst Cdk6",1
+1506,573,"glutamatergic neuron of primary visual area, layer 5a and layer 6a",1
+1507,1777,Sst Chodl,1
+1508,1255,"L4 Arf5, L4 Sparcl1",1
+1509,2283,"L6a Plcxd3, L5a Batf3",1
+1510,972,"L4 Sparcl1, L4 Arf5",1
+1511,1130,"L4 Scnn1a, L5 Hsd11b1",1
+1512,926,"Pvalb Tacr3, Pvalb Gpx3",1
+1513,1548,Sst Th,1
+1514,478,Sst Cdk6,1
+1515,1418,"Sst Cdk6, Sst Cbln4",1
+1516,1760,Sst Tacstd2,1
+1517,473,"Sst Myh8, Sst Cdk6",1
+1518,1108,"OPC/Oligo, Oligo Opalin",1
+1519,990,Sncg,1
+1520,2027,Endo Tbc1d4,1
+1521,905,Ndnf Car4,1
+1522,1836,Igtp,1
+1523,2432,Ndnf Cxcl14,1
+1524,2292,"Ndnf Cxcl14, Vip Cxcl14_Car4",1
+1525,741,"Cd34, Ndnf Cxcl14",1
+1526,345,Cd34,1
+1527,683,"Vip Chat, Vip Gpc3",1
+1528,2681,"L4 Sparcl1, L2/3 Otof",1
+1529,714,"L2/3 Otof, L2 Ngb",1
+1530,2372,"Vip Sncg, Vip Mybpc1",1
+1531,2538,"Ndnf Cxcl14, Cd34",1
+1532,3391,"Ndnf Car4, Ndnf Cxcl14",1
+1533,629,"Vip Cxcl14_Car4, Vip Chat",1
+1534,693,"Sst Tacstd2, Sst Cbln4",1
+1535,2450,"Sst Th, Pvalb Gpx3",1
+1536,3013,"Endo Myl9, OPC Pdgfra",1
+1537,2890,"L5a Batf3, L6a Plcxd3",1
+1538,2638,"L2/3 Otof, L4 Sparcl1",1
+1539,2655,"Ndnf Cxcl14, Vip Gpc3",1
+1540,715,"Vip Cxcl14_Car4, Ndnf Cxcl14",1
+1541,1067,"L6b Mup5, L6a Plcxd3",1
+1542,778,L6b Trh,1
+1543,1301,L6b Mup5,1
+1544,1903,"L6a Plcxd3, Pvalb Gpx3",1
+1545,2760,Endo Myl9,1
+1546,2461,"L6b Trh, L6b Mup5",1
+1547,792,"Vip Cxcl14_Car4, Vip Gpc3",1
+1548,1737,"Sst Tacstd2, Pvalb Rspo2",1
+1549,2503,"Sst Th, Sst Cbln4",1
+1550,549,"Pvalb Gpx3, Pvalb Tacr3",1
+1551,1168,"Pvalb Gpx3, Pvalb Rspo2",1
+1552,1270,"Pvalb Tacr3, Igtp",1
+1553,587,"Vip Chat, Vip Cxcl14_Car4",1
+1554,1637,"Pvalb Tpbg, Pvalb Gpx3",1
+1555,2779,"L6a Plcxd3, L6b Mup5",1
+1556,3011,"Sst Cbln4, Vip Chat",1
+1557,1473,"L6 Syt17, L5a Syt17",1
+1558,3072,"L5a Fam5c, L5a Syt17",1
+1559,305,oligodendrocyte of primary visual cortex,1
+1560,2905,"glutamatergic neuron of primary visual area, layer 5b",1
+1561,1526,"glutamatergic neuron of primary visual area, layer 5",1
+1562,2266,"glutamatergic neuron of primary visual area, layer 5 and layer 5a",1
+1563,3093,"glutamatergic neuron of primary visual area, layer 4 and layer 5",1
+1564,804,"glutamatergic neuron of primary visual area, layer 6b",1
+1565,3154,"glutamatergic neuron of primary visual area, layer 6a and layer 6b",1
+1566,819,endothelial cell of primary visual cortex,1
+1567,2799,"glutamatergic neuron of primary visual area, layer 6a",1
+1568,1181,microglial cell of primary visual cortex,1
+1569,2912,oligodendrocyte precursor cell of primary visual cortex,1
+1570,2924,oligodendrocyte OR oligodendrocyte precursor cell of primary visual cortex,1
+1571,2702,"glutamatergic neuron of primary visual cortex, layer 2 and layer 2/3",1
+1572,2157,"glutamatergic neuron of primary visual area, layer 6",1
+1573,848,"glutamatergic neuron of primary visual area, layer 4 and layer 6",1
+1574,2546,"glutamatergic neuron of primary visual area, layer 5a and layer 5b",1
+1575,979,"GABAergic neuron of primary visual cortex, layer 5 and layer 6",1
+1576,2942,"glutamatergic neuron of primary visual area, layer 5a and layer 6",1
+1577,1618,neurogliaform cell of primary visual cortex,1
+1578,911,"glutamatergic neuron of primary visual area, layer 5 and layer 6a",1
+1579,3085,medial ganglionic eminence progenitor,1
+1580,823,nCTX.125.SST,1
+1581,1215,nCTX.125.CORT,1
+1582,1713,ip.125.DLL1,1
+1583,2249,pMGE.125.FRZB,1
+1584,436,pMGE.125.CYP1B1,1
+1585,1632,nMGE.125.NEFL,1
+1586,2257,oMGE.125.PDGFRA,1
+1587,2135,p.125.ATF3,1
+1588,2563,pMGE.125.AQP4,1
+1589,2392,telencephalic progenitor cell,1
+1590,2138,intermediate medial ganglionic eminence progenitor,1
+1591,1337,medial ganglionic eminence neuron,1
+1592,2824,nCTX.100.DLX5,1
+1593,2451,pMGE.100.AQP4,1
+1594,3385,nCTX.100.SST,1
+1595,1404,oMGE.100.PDGFRA,1
+1596,2428,ip.100.DLL1,1
+1597,1260,pTEL.100.OLIG1,1
+1598,815,lateral ganglionic eminence neuron,1
+1599,2551,p.100.CTGF,1
+1600,2484,pTEL.100.CRH,1
+1601,423,nCTX.100.CORT,1
+1602,1104,pMGE.100.FRZB,1
+1603,2691,p.100.ATF3,1
+1604,1080,nCTX.100.SST.CRABP1,1
+1605,2628,nMGE.100.CFC1,1
+1606,2072,nMGE.54.CFC1,1
+1607,2124,nCTX.54.GRIA2,1
+1608,1006,nCTX.54.CORT.NEFL,1
+1609,1724,nCTX.54.SST,1
+1610,1583,nCTX.54.CORT,1
+1611,1998,IpMGE.54.OLIG1,1
+1612,1435,nMGE.54.GAD1,1
+1613,1563,ipMGE.54.ST18,1
+1614,1166,pMGE.54.SPARCL1,1
+1615,2166,pTEL.54.PAX6,1
+1616,1275,pTEL.24.PAX6,1
+1617,699,nMGE.24.LHX8,1
+1618,331,pMGE.24.NKX2-1,1
+1619,2843,pTEL.24.ANXA1,1
+1620,513,nLGE.24.SP8,1
+1621,655,nLGE.24.CFC1,1
+1622,2363,nMGE.24.LHX8.GRIA2,1
+1623,3257,ipMGE.24.DLL1,1
+1624,1606,pMGE.54.CRABP2,1
+1625,2506,late enterocyte progenitor,1
+1626,1617,early enterocyte progenitor,1
+1627,29,endocrine cell,1
+1628,29,CL:0000163,3
+1629,29,endocrine cell,1
+1630,261,hair germinal matrix cell,1
+1631,261,CL:0002562,3
+1632,261,hair germinal matrix cell,1
+1633,262,hair follicle dermal papilla cell,1
+1634,262,CL:0000346,3
+1635,262,hair follicle dermal papilla cell,1
+1636,1977,hair germ cell,1
+1637,1265,hair follicle bulge stem cell,1
+1638,1145,proliferating neural progenitor cell 4,1
+1639,1495,proliferating neural progenitor cell 5,1
+1640,1305,immature neuron 5,1
+1641,3167,proliferating neural progenitor cell,1
+1642,1358,immature neuron 3,1
+1643,1559,proliferating neural progenitor cell 4 - astrocyte,1
+1644,2323,proliferating neural progenitor cell 3,1
+1645,1917,vascular smooth muscle cell,1
+1646,2547,immature neuron 1,1
+1647,2310,proliferating neural progenitor cell 1,1
+1648,2476,immature neuron 4,1
+1649,3361,proliferating neural progenitor cell 2,1
+1650,568,proliferating neural progenitor cell 5 - vascular smooth muscle cell,1
+1651,2863,proliferating neural progenitor cell 5 - microglial cell,1
+1652,3189,astrocytes or ependymal cell,1
+1653,2953,proliferating neural progenitor cell 4 - ependymal cell,1
+1654,263,ependymal cell,1
+1655,263,CL:0000065,3
+1656,263,ependymal cell,1
+1657,1764,TA-a,1
+1658,1722,TA-b,1
+1659,2892,TB,1
+1660,3296,SB,1
+1661,730,SA-b,1
+1662,1381,SA-a,1
+1663,3396,placode,1
+1664,2408,neural tube,1
+1665,1368,pharyngeal mesoderm,1
+1666,3401,forebrain,1
+1667,516,mid hindbrain,1
+1668,1148,mixed mesoderm,1
+1669,3465,somitic mesoderm,1
+1670,25,cardiocyte,1
+1671,25,CL:0002494,3
+1672,25,cardiocyte,1
+1673,2245,foregut,1
+1674,264,neural crest cell,1
+1675,264,CL:0011012,3
+1676,264,neural crest cell,1
+1677,2440,mesoderm progenitor,1
+1678,2965,extraembryonic endoderm cell,1
+1679,3378,presomitic mesoderm,1
+1680,27,neuron,1
+1681,27,CL:0000540,3
+1682,27,NEURON,2
+1683,1841,Neuron.Gad1Gad2.Cplx3-Npy,1
+1684,1089,Neuron.Slc17a7-Slc17a6.Shisa8,1
+1685,1398,Neuron.Slc17a7-Slc17a8.Fezf2-Slc17a8,1
+1686,1421,Neuron.Gad1Gad2-Chat.Synpr-Slc5a7,1
+1687,3250,Neuron.Slc17a7.Bcl6-C1ql2,1
+1688,3117,Neuron.Gad1Gad2.Synpr-Pcdh11x,1
+1689,1030,MURAL,1
+1690,3083,Neuron.Gad1Gad2.Sst-Pdyn,1
+1691,2491,ENDOTHELIAL_TIP,1
+1692,1658,Endothelial_Tip.Dcn.Mgp-Penk,1
+1693,2132,ENDOTHELIAL_STALK,1
+1694,3193,Endothelial_Stalk.Flt1.Car4,1
+1695,3368,Neuron.Gad1Gad2.Synpr-Crispld2,1
+1696,3264,Neuron.Gad1Gad2-Th.Nr4a2,1
+1697,3146,Neuron.Slc17a7-Slc17a6.Tshz2-Fos,1
+1698,1753,Neuron.Gad1Gad2.Sst-Crh,1
+1699,1446,Endothelial_Stalk.Flt1.Gm9946,1
+1700,2717,Endothelial_Stalk.Flt1.Gkn3,1
+1701,799,Neuron.Slc17a7-Slc17a6.Tshz2-Cabp7,1
+1702,2513,Neuron.Slc17a7-Slc17a6.Fezf2-Htr2c,1
+1703,2218,Neuron.Gad1Gad2.Cplx3-Egln3,1
+1704,302,POLYDENDROCYTE,1
+1705,2802,Neuron.Sc17a7.Crym,1
+1706,748,Neuron.Gad1Gad2-Slc17a8.Synpr-Sncg-Yjefn3,1
+1707,872,Endothelial_Tip.Dcn.Nnat,1
+1708,8,macrophage,1
+1709,8,CL:0000235,3
+1710,8,MACROPHAGE,2
+1711,2885,Macrophage.C1qb.Mrc1,1
+1712,17,astrocyte,1
+1713,17,CL:0000127,3
+1714,17,ASTROCYTE,2
+1715,1710,Endothelial_Tip.Dcn.Mgp-Clu,1
+1716,1513,Astrocyte.Gja1.Sparc,1
+1717,22,oligodendrocyte,1
+1718,22,CL:0000128,3
+1719,22,OLIGODENDROCYTE,2
+1720,3351,Oligodendrocyte.Tfr.Klk6,1
+1721,295,Neuron.Sc17a7.Oprk1,1
+1722,2213,Astrocyte.Gja1.Myoc,1
+1723,1693,Endothelial_Tip.Dcn.Coch,1
+1724,3059,Neuron.Sc17a7.Calb1-Lpl-Penk,1
+1725,3018,Neuron.Slc17a7.Syt6-Cplx3,1
+1726,1033,Neuron.Sc17a7.Calb1-Tshz2,1
+1727,1928,Neuron.Slc17a7-Slc17a6.Tshz2,1
+1728,2188,Neuron.Slc17a7-Slc17a6.Tshz2-Prlr,1
+1729,3166,Neuron.Sc17a7.Rorb-Gpr83,1
+1730,2348,Neuron.Slc17a7-Slc17a6.Rorb-Pcdh20,1
+1731,2903,Neuron.Gad1Gad2.Pvalb-Cartpt,1
+1732,3381,Oligodendrocyte.Tfr.Tmem2,1
+1733,1247,Neuron.Slc17a7.Syt6-Tshz2-Nrep,1
+1734,2873,Neuron.Slc17a7.Syt6-Tox,1
+1735,3403,Neuron.Gad1Gad2.Pvalb-Unc5b,1
+1736,913,Neuron.Slc17a7.Bcl6-Npnt,1
+1737,538,Neuron.Slc17a7.Syt6-Fos,1
+1738,961,Neuron.Slc17a7.Syt6-Nnat,1
+1739,719,Neuron.Gad1Gad2.Pvalb-Nefm,1
+1740,2154,Neuron.Gad1Gad2.Synpr-Sncg,1
+1741,734,Neuron.Slc17a7.Bcl6-Fos,1
+1742,1242,Astrocyte.Gja1.Igfbp2,1
+1743,2433,Neuron.Slc17a7.Bcl6-Dditl,1
+1744,1699,Polydendrocyte.Tnr.Tmsb4x,1
+1745,2684,Neuron.Slc17a7-Slc17a6.Tshz2-Rasd1,1
+1746,1481,Oligodendrocyte.Tfr.Il33,1
+1747,2084,Neuron.Gad1Gad2.Cplx3-Reln,1
+1748,2162,Endothelial_Stalk.Flt1.Vwf,1
+1749,3132,Polydendrocyte.Tnr.Dlx1,1
+1750,336,Neuron.Slc17a7.Fibcd1-Lypd1,1
+1751,1164,Neuron.Slc17a7-Slc17a6.Tshz2-Nnat,1
+1752,3467,Gad1Gad2_Id2.Bcl11b,1
+1753,1605,Neuron.Sc17a7.Calb1-Otof,1
+1754,598,Neuron.Slc17a7.Fibcd1-Kitl,1
+1755,1922,Gad1Gad2Slc17a8_Htr3a.Ktcd12,1
+1756,2626,Neuron.Slc17a7.Calb2-Vgll3,1
+1757,1562,Gad1Gad2_Htr3a.Efba5,1
+1758,1909,Neuron.Slc17a7.Pvrl3-Fos,1
+1759,3088,Neuron.Slc17a7.Fibcd1-Fos,1
+1760,2327,Neuron.Slc17a7.Pvrl3-Inhba,1
+1761,2369,Gad1Gad2_Htr3a.Ecel1,1
+1762,1504,Neuron.Slc17a7.C1ql2-Cck,1
+1763,1408,Neuron.Slc17a7.Dcn-Camk2d,1
+1764,1395,Neuron.Slc17a7.Fibcd1-Nrip3,1
+1765,789,Oligodendrocyte.Trf.Plin3,1
+1766,2709,Neuron.Gad1Gad2_Pvalb.Gfra1,1
+1767,691,Gad1Gad2_Htr3a.Cpne5,1
+1768,2312,Neuron.Gad1Gad2_Pvalb.Tac1,1
+1769,1731,Gad1Gad2_Id2.Prlr,1
+1770,3129,Neuron.Slc17a7.Nxph3-Hpcal-Krt12,1
+1771,2747,Neuron.Slc17a7.Cbln1-Trps1,1
+1772,1462,Neuron.Slc17a7-Slc17a6.Nxph3-Cbln2-Kcnh8,1
+1773,1963,Neuron.Slc17a6.Nefm,1
+1774,1092,Endothelial_Stalk.Flt1.Cdkn2b,1
+1775,2631,EPENDYMAL,1
+1776,1914,Gad1Gad2_Cplx3.Tox,1
+1777,2726,Gad1Gad2_Htr3a.Krt73,1
+1778,2431,Neuron.Slc17a7.Fezf2-Efna5,1
+1779,971,Neuron.Slc17a7.Dcn-Pou3f1,1
+1780,2982,Neuron.Slc17a7.FIbcd1-Inhba,1
+1781,2331,Mural.Acta2Rgs5.Acta2,1
+1782,1496,Neuron.Slc17a7.Syt6-Slc24a2,1
+1783,2608,Neuron.Slc17a7.Bcl6-Ptgfr,1
+1784,1133,Mural.Acta2Rgs5Rgs5,1
+1785,1288,Neuron.Slc17a7-Slc17a6.Fezf2-3110035E14Rik,1
+1786,2423,Mural.Acta2Rgs5.Abcc9,1
+1787,1386,Mural.Acta2Rgs5.Fos,1
+1788,1274,Polydendrocyte.Tnr.Cspg5,1
+1789,1662,Polydendrocyte.Tnr.Lims2-Tmsb4x,1
+1790,610,Neuron.Gad1Gad2.Synpr-Nnat,1
+1791,1715,Endothelial_Tip.Dcn.Inmt,1
+1792,3422,MICROGLIA,1
+1793,2687,Oligodendrocyte.Tfr.Sez6,1
+1794,1994,Microglia.C1qb.Tmem119,1
+1795,2874,Microglia.C1qb.Tmem119-Fos,1
+1796,2398,Neuron.Gad1Gad2.Sst-Nr2f2,1
+1797,1339,Neuron.Sc17a7.Calb1-Lpl-Cadm2,1
+1798,1978,Neuron.Slc17a7-Slc17a8.Syt6-Lancl3,1
+1799,353,Neuron.Slc17a7.Bcl6-Ndst4,1
+1800,2754,Microglia.C1qb.Tmem119-Junb,1
+1801,3327,Ependymal.Ccdc153,1
+1802,308,Neuron.Slc17a7.Rgs14,1
+1803,2108,Neuron.Slc17a7.Pvrl3-Nos1,1
+1804,1939,Neuron.Slc17a7.Cbln1-Gpr88,1
+1805,1102,Neuron.Slc17a7.Fibcd1-Nptx2,1
+1806,2658,Neuron.Slc17a7.Pvrl3-St18,1
+1807,425,Neuron.Slc17a7.Calb2-Adcyap1,1
+1808,2452,Mural.Acta2Rgs5.Kcnj8-Abcc9,1
+1809,738,Neuron.Slc17a7.Bcl6-Pvalb,1
+1810,2391,Neuron.Gad1Gad2.Nfib-Satb1,1
+1811,1515,Neuron.Slc17a7-Slc17a6.Calb1-Rorb-Il1rapl2,1
+1812,2957,Neuron.Gad1Gad2-Chat,1
+1813,1160,Endothelial_Tip.Dcn,1
+1814,356,Mural.Rgs5Acta2.Pdgfa,1
+1815,1635,Mural.Rgs5Acta2.Ccnd1,1
+1816,1237,Mural.Rgs5Acta2.Cnn1,1
+1817,2122,Mural.Rgs5Acta2.Junb,1
+1818,2151,Neuron.Gad1Gad2.Pmch,1
+1819,2294,Neuron.Slc17a6.Cacna2d1,1
+1820,1868,Neuron.Slc17a6-Gad2-Th.Crhbp,1
+1821,3456,Oligodendrocyte.Tfr.Slco3a1,1
+1822,942,Neuron.Slc17a6.C1ql2,1
+1823,755,Oligodendrocyte.Tfr.Ndrg2,1
+1824,2870,Neuron.Th.C1ql3,1
+1825,2721,Neuron.Th-Slc17a6-Lpl,1
+1826,544,Neuron.Gad1Gad2.Pax5,1
+1827,2676,Oligodendrocyte.Tfr.Plin3,1
+1828,3066,Oligodendrocyte.Tfr.Ctps,1
+1829,3149,Neuron.Th.Cyp26b1,1
+1830,958,Neuron.Th.Grin2c,1
+1831,3319,Neuron.Gad1Gad2.Gad2,1
+1832,1008,Neuron.Gad1Gad2.Otx2-Chrna3,1
+1833,321,Mural.Rgs5Acta2.Fos,1
+1834,3031,Neuron.Gad1Gad2-Slc17a6.Cbln1,1
+1835,2808,Astrocyte.Gja1.Htra1,1
+1836,2804,Neuron.Slc17a7.Nxph3-Hpcal-Igfbp4,1
+1837,2085,Neuron.Gad1Gad2.Six3-Pvalb,1
+1838,2859,Oligodendrocyte.Trf.Ctps,1
+1839,1486,Polydendrocyte.Tnr.Ctps,1
+1840,2690,Oligodendrocyte.Trf.Ndrg2,1
+1841,2783,Oligodendrocyte.Trf.Il33,1
+1842,2029,Polydendrocyte.Tnr.Pdgfa,1
+1843,2344,Oligodendrocyte.Trf.Serpinb1a,1
+1844,2377,Neuron.Gad1Gad2.Pvalb-Gfra2,1
+1845,1988,Oligodendrocyte.Trf.Klk6,1
+1846,3176,Neuron.Slc17a6.Pitx2,1
+1847,522,Neuron.Gad1Gad2.Tcf7l2,1
+1848,2788,Polydendrocyte.Tnr.Bmp4,1
+1849,442,Mural.Rgs5Acta2.Kcnj8,1
+1850,1944,Neuron.Gad1Gad2.Dlk1,1
+1851,2269,Endothelial_Stalk.Flt1.Tgfb2,1
+1852,1800,Neuron.Slc17a7.Zbtb20,1
+1853,705,Oligodendrocyte.Trf.Cldn11,1
+1854,2139,Neuron.Gad1Gad2.Pvalb-Spp1,1
+1855,2397,Neuron.Gad1Gad2.Pvalb-Ntng1,1
+1856,1555,Neuron.Gad1Gad2.Otx2,1
+1857,2502,Neuron.Slc17a7.Bcl6-Tcerg1l,1
+1858,1575,Neuron.Gad1Gad2.Sema3e,1
+1859,2227,Neuron.Slc17a6.Shox2,1
+1860,3452,Neuron.Slc17a6.Nts,1
+1861,1913,Neuron.Gad1Gad2.Gad2-Fos,1
+1862,3079,Endothelial_Tip.Dcn.Alcam,1
+1863,3363,Neuron.Gad1Gad2.Rln3,1
+1864,2822,Neuron.Sc17a7.Fermt1,1
+1865,3062,Neuron.Sc17a7.Rorb-BC006965,1
+1866,2486,Neuron.Slc17a7.Bcl6-Tshz2-Syt2,1
+1867,2236,Neuron.Slc17a7.Syt6-Sla,1
+1868,858,Neuron.Slc17a7.Bcl6-Cbln1,1
+1869,2030,Neuron.Sc17a7.Calb1-Lpl,1
+1870,2660,Neuron.Sc17a7.Sema3e-Nnat,1
+1871,399,Neuron.Slc17a7-Slc17a6.Tshz2-Npnt,1
+1872,2096,Neuron.Sc17a7.Sema3e-Onecut2,1
+1873,1387,Neuron.Slc17a7.Syt6-Nefm,1
+1874,1243,Neuron.Sc17a7.Calb1-Ddit4l,1
+1875,2260,Neuron.Sc17a7.Calb1-Fos,1
+1876,1304,Neuron.Gad1Gad2.Ndnf,1
+1877,1118,Neuron.Th.Nefl,1
+1878,2936,Neuron.Gad1Gad2.Tmem132c,1
+1879,2730,Polydendrocyte.Tnr.Tmem2,1
+1880,327,Neuron.Slc17a6.Tcf4,1
+1881,828,Neuron.Gad1Gad2.Ttn,1
+1882,1489,Endothelial_Tip.Dcn.Ifitm1,1
+1883,2314,Neuron.Th.Aldh1a1,1
+1884,1276,Neuron.Slc17a6.Nkx6-1,1
+1885,3155,Neuron.Gad1Gad2.Gad2-Kcnc3,1
+1886,3421,Mural.Rgs5Acta2.Cbr2,1
+1887,490,Endothelial_Stalk.Flt1.Cdkn1c,1
+1888,1964,Neuron.Gad1Gad2.Sema3e-Kcng4,1
+1889,3358,Neuron.Th.Cadm2,1
+1890,698,Neuron.Th.Cbln1,1
+1891,941,Neuron.Th.Vcan,1
+1892,1197,Mural.Rgs5Acta2.Cd9,1
+1893,1034,Polydendrocyte.Tnr.Cspg5-Dad1,1
+1894,1565,Astrocyte.Gja1.Cst3,1
+1895,272,Mural.Rgs5Acta2.Rgs5,1
+1896,1090,Polydendrocyte.Tnr.Opalin,1
+1897,1822,Endothelial_Tip.Dcn.Mgp,1
+1898,1146,Neuron.Slc17a7.Nxph3-Hpcal1-Fos,1
+1899,1675,Neuron.Sc17a7.Tshz2-Smoc1,1
+1900,1120,Endothelial_Tip.Dcn.Dapl1,1
+1901,1365,Oligodendrocyte.Tnf.Ptgds,1
+1902,854,Oligodendrocyte.Tnf.Igsf8,1
+1903,2254,Neuron.Slc17a7.Parm1.Fos,1
+1904,922,Oligodendrocyte.Tnf.Kif5b,1
+1905,3199,Neuron.Slc17a7.Parm1.Ndnf,1
+1906,1717,Neuron.Gad1Gad2.Pvalb,1
+1907,287,Gad1Gad2_Htr3a.Htr1b,1
+1908,447,Polydendrocyte.Tnr.Cyth3,1
+1909,703,Neuron.Slc17a6.Cck,1
+1910,2980,Neuron.Chat-Gad1Gad2-Slc17a8.Ngfr,1
+1911,1598,Neuron.Slc17a6.Tcf7l2,1
+1912,2593,Endothelial_Stalk.Flt1.Cfh,1
+1913,535,Neuron.Gad1Gad2.Adora2a-Pde1c,1
+1914,1523,Neuron.Slc17a6-Slc17a7-Slc17a8.Fezf2.Slc17a8,1
+1915,293,Oligodendrocyte.Tnf.Igsf8-Ctps,1
+1916,3216,Neuron.Slc17a7.Parm1.Tshz2,1
+1917,414,Neuron.Slc17a7.Parm1.Lsamp,1
+1918,2619,Neuron.Slc17a7.Syt6-Cyp26b1,1
+1919,2556,Neuron.Slc17a7.Syt6-Sema5a,1
+1920,282,Neuron.Slc17a7.Syt6-Etv1,1
+1921,2668,Neuron.Slc17a7.Parm1.Nnat,1
+1922,1068,Neuron.Slc17a7.Syt6-Slc30a3,1
+1923,2225,NeuronSlc17a7-Slc17a6.Syt6-Nnat,1
+1924,2962,Oligodendrocyte.Tnf.Klk6,1
+1925,1665,Neuron.Slc17a7.Syt6-Efna5,1
+1926,3380,Neuron.Slc17a7.Syt6-Kit,1
+1927,2389,Neuron.Slc17a7.Syt6-Sema3c,1
+1928,3170,Neuron.Slc17a7.Nptxr-Fos,1
+1929,2164,Neuron.Slc17a7-Slc17a8.Syt6-Cplx3,1
+1930,1257,Neuron.Gad1Gad2.Cplx3,1
+1931,411,Neuron.Slc17a7.Syt6-Lypd1,1
+1932,1062,Neuron.Slc17a6-Slc17a7.Nr4a2,1
+1933,1200,Neuron.Gad1Gad2.Cadm2,1
+1934,960,Neuron.Slc17a7.Neurod2-Rorb,1
+1935,2620,Neuron.Gad1Gad2.Cyp26b1,1
+1936,790,Polydendrocyte.Tnr.Pdgfa-Pik3r3,1
+1937,2899,Neuron.Gad1Gad2.Elfn1-Grik3,1
+1938,3061,Endothelial_Stalk.Flt1.Mgp,1
+1939,707,Neuron.Gad1Gad2.Grem,1
+1940,2749,Neuron.Gad1Gad2.Adora2a,1
+1941,1377,Polydendrocyte.Tnr.Pdgfa-Tmem2,1
+1942,1096,Oligodendrocyte.Trf.Ttyh1,1
+1943,2062,Endothelial_Stalk.Flt1.Lcn2,1
+1944,1299,Neuron.Gad1Gad2.Scn4b,1
+1945,3379,Mural.Acta2Rgs5.Kcnj8,1
+1946,2020,Neuron.Gad1Gad2.Trdn,1
+1947,3463,Neuron.Gad1Gad2.Sphkap-Tmem255a,1
+1948,3171,Neuron.Gad1Gad2.Sst,1
+1949,3226,Oligodendrocyte.Trf.Mbp,1
+1950,1318,Neuron.Gad1Gad2.Hpcal4,1
+1951,1128,Neuron.Gad1Gad2.Drd1-Pdyn,1
+1952,2243,Neuron.Chat-Gad1Gad2-Slc17a8.Nefm,1
+1953,2629,Endothelial_Stalk.Flt1.Angpt2,1
+1954,1049,Astrocyte.Gja1.Gfap,1
+1955,840,Neuron.Gad1Gad2.Tac1,1
+1956,2016,Neuron.Gad1Gad2.Igfbp4.Adora1,1
+1957,1098,Neuron.Gad1Gad2.Drd1-Nefm,1
+1958,393,Neuron.Slc17a7.Neurod2-C1ql3,1
+1959,2212,Endothelial_Stalk.Flt1.Apold1,1
+1960,2797,Neuron.Gad1Gad2.Tac2,1
+1961,637,Neuron.Gad1Gad2.Fibcd1,1
+1962,2954,Neuron.Gad1Gad2.Drd1-Pde1c,1
+1963,3206,Oligodendrocyte.Trf.Kif5b,1
+1964,1212,Neuron.Gad1Gad2.Satb1,1
+1965,663,Neuron.Slc17a7.Nptxr-Ndst4,1
+1966,2894,Neuron.Gad1Gad2.Vip,1
+1967,2562,Neuron.Gad1Gad2.Drd1-Lypd1,1
+1968,728,Neuron.Gad1Gad2.Chodl,1
+1969,3040,Neuron.Gad1Gad2.Adora2a-Nefm,1
+1970,1542,Neuron.Gad1Gad2_Pvalb.Pvalb-Megf11,1
+1971,2841,Neuron.Slc17a6.Rspo3,1
+1972,310,Neuron.Gad1Gad2.Drd1-Pde1a,1
+1973,2847,Neuron.Gad1Gad2.Drd1-Fos,1
+1974,2308,Neuron.Gad1Gad2.Adora2a-Nnat,1
+1975,1392,Neuron.Gad1Gad2.Drd1-Otof-Lmo2,1
+1976,280,Neuron.Gad1Gad2.Pvalb-Rgs12,1
+1977,964,Polydendrocye.Tnr.Pdgfa,1
+1978,2259,Neuron.Gad1Gad2.Drd1-Tpbg,1
+1979,2986,Neuron.Gad1Gad2.Adora2a-Fos,1
+1980,1671,Astrocyte.Gja1.Crym,1
+1981,667,Neuron.Gad1Gad2-Th.Adora2a-Th,1
+1982,2577,Mural.Rgs5Acta2.Pappa2,1
+1983,2307,MITOTIC,1
+1984,1389,Mitotic.MkI67,1
+1985,1663,Neuron.Gad1Gad2.Vipr2,1
+1986,2404,Neuron.Gad1Gad2.Lamp5-Cplx3,1
+1987,2695,Neuron.Gad1Gad2.Sphkap-Cpne4,1
+1988,1624,Endothelial_Tip.Dcn.Col15a1,1
+1989,457,Mural.Rgs5Acta2.Lmcd1,1
+1990,2498,Neuron.Gad1Gad2.Trh,1
+1991,897,Neuron.Gad1Gad2.Igfbp4.Rgs4,1
+1992,1688,Neuron.Gad1Gad2.Pappa,1
+1993,2306,Mural.Rgs5Acta2.Acta2,1
+1994,2880,Neuron.Gad1Gad2.Drd1-Cxcl14,1
+1995,2617,Polydendrocye.Tnr.Cspg5,1
+1996,1412,Astrocyte.Gja1.Notum,1
+1997,632,Mural.Rgs5Acta2.Col3a1,1
+1998,3281,Neuron.Slc17a7.Dkk3,1
+1999,1100,Neuron.Gad1Gad2.Sgol2a,1
+2000,1231,Neuron.Slc17a7.Cplx3,1
+2001,1178,Neuron.Slc17a7.Nptxr-Deptor,1
+2002,1423,Neuron.Slc17a7.Nptxr-Calb1,1
+2003,446,Neuron.Slc17a7-Slc17a6.Nptxr-Rorb,1
+2004,1208,Neuron.Slc17a7.Parm1.Nefm,1
+2005,614,Neuron.Slc17a6.Oprk1,1
+2006,1706,Neuron.Gad1Gad2.Drd1-Nfib,1
+2007,2092,Mural.Rgs5Acta2.Olfr558,1
+2008,3471,Neuron.Gad1Gad2.Drd1-Otof-Sorcs1,1
+2009,2005,Astrocyte.Gja1.Sparc-Car2,1
+2010,1896,Neuron.Gad1Gad2.Resp18,1
+2011,670,Neuron.Gad1Gad2-Th.Trh,1
+2012,993,NEUROGENESIS,1
+2013,3003,Neurogenesis.Sox4.Tuba1c,1
+2014,451,Neurogenesis.Sox4.Hist1h2al,1
+2015,1696,Polydendrocye.Tnr.Ctps,1
+2016,630,Neuron.Gad1Gad2.Adora2a-Otof,1
+2017,3241,Neuron.Gad1Gad2.Adora2a-Th,1
+2018,1109,Neurogenesis.Sox4.Ung,1
+2019,3077,Polydendrocye.Tnr.Bmp4,1
+2020,1315,Neurogenesis.Sox4.Stmn2-Csrp2,1
+2021,1550,Neuron.Gad1Gad2.Pnoc,1
+2022,377,Neurogenesis.Sox4.Stmn2,1
+2023,875,Neurogenesis.Sox4.Notum,1
+2024,3204,Polydendrocyte.Tnr.Tnr,1
+2025,2059,Neurogenesis.Sox4.Ppp2r2b,1
+2026,1587,Neuron.Slc17a7.Nxph3-Hpcal1-Tpbg,1
+2027,500,Neuron.Slc17a6.Rora.Pvalb,1
+2028,1801,Neuron.Slc17a6.Rora.Cacng4,1
+2029,831,Neuron.Slc17a6.Rora.Cbln2,1
+2030,631,Neuron.Slc17a6.Rora.Nrp2,1
+2031,2535,Neuron.Gad1Gad2.Pou6f2-Pax6,1
+2032,350,Neuron.Slc17a6.Rora.Lrrtm2,1
+2033,3410,Neuron.Gad1Gad2.Chrnb3,1
+2034,1952,Neuron.Gad1Gad2.Six3-Adcy1,1
+2035,3290,CHOROID_PLEXUS,1
+2036,821,Endothelial_Tip.Dcn.Il33,1
+2037,1929,Astrocyte.Gja1.Fabp7,1
+2038,3287,Endothelial_Tip.Dcn.Agt,1
+2039,2898,Neuron.Slc17a7.Ptgfr,1
+2040,1246,Neuron.Gad1Gad2_Sst.Pcdh11x,1
+2041,2078,Neurogenesis.Sox4.Efhd2,1
+2042,3101,Endothelial_Tip.Dcn.Rbp4,1
+2043,2202,Polydendrocyte.Tnr.Ptprz1,1
+2044,2645,Neuron.Slc17a7.Nxph3-Cplx3-Pappa2,1
+2045,996,Neurogenesis.Sox4.Gabra5,1
+2046,3125,Neuron.Gad1Gad2Slc17a8_Sst.Ncam2,1
+2047,1875,Neurogenesis.Sox4.Gad2,1
+2048,3370,Neuron.Gad1Gad2_Sst.Atp2b4,1
+2049,1213,Neuron.Slc17a7.Reln,1
+2050,3418,Neuron.Slc17a6.Rora.Nptxr,1
+2051,3113,Neuron.Slc17a6.Nrgn,1
+2052,859,Neuron.Slc17a7.Tac2.Htr2c,1
+2053,1084,Neuron.Slc17a7.Tac2.Wif1,1
+2054,2463,Neuron.Slc17a7.Tac2.Syt15,1
+2055,1533,Neuron.Slc17a7.Tac2.Chat,1
+2056,1131,Neuron.Slc17a6.Sln,1
+2057,594,Neuron.Gad1Gad2.Lgi2,1
+2058,2133,Oligodendroyte.Trf.Il33,1
+2059,2809,Endothelial_Stalk.Flt1.Pi16,1
+2060,3317,Neuron.Gad1Gad2.Gata3,1
+2061,346,Astrocyte.Gja1.Vegfa,1
+2062,420,Endothelial_Tip.Dcn.Nenf,1
+2063,2195,Neuron.Slc17a6.Rora.Fgf10,1
+2064,407,Neuron.Slc17a6.Rora.Atp2b4,1
+2065,3102,Neuron.Slc17a6.Rora.Calca,1
+2066,1509,Neuron.Gad1Gad2.Col25a1,1
+2067,2129,Neuron.Slc17a6.Ebf1,1
+2068,991,Mural.Rgs5Acta2.Car4,1
+2069,1476,Neuron.Gad1Gad2.Six3-Sst,1
+2070,665,Neuron.Slc17a6.Rora.C1ql2,1
+2071,3426,Neuron.Slc17a6.Rora.Lypd6,1
+2072,417,Neuron.Slc17a6-Gad1Gad2.Asb4,1
+2073,1028,Neuron.Gad1Gad2_Pvalb.C1ql1,1
+2074,3187,Neuron.Gad1Gad2.Cplx3-Crim1,1
+2075,595,Neuron.Gad1Gad2.Sst-Calb2,1
+2076,2000,Polydendrocyte.Tnr.Bmp4-Gpr17,1
+2077,2609,Neuron.Slc17a6.Reln,1
+2078,3445,Endothelial_Tip.Dcn.1500015O10Rik,1
+2079,774,Endothelial_Stalk.Flt1.Lrg1,1
+2080,2230,Neuron.Gad1Gad2.Sst-Chodl,1
+2081,814,Astrocyte.Gja1,1
+2082,826,Mural.Acta2Rgs5.Rgs5,1
+2083,2176,Endothelial_Tip.Dcn.Apod,1
+2084,696,Gja1.Gfap,1
+2085,2969,Neuron.Gad1Gad2.Pvalb-Chrm2,1
+2086,454,Gja1.Htra1,1
+2087,2990,Neuron.Gad1Gad2.Pvalb-Necab1,1
+2088,2341,Neuron.Slc17a7.Parm1.Cadm2,1
+2089,1161,Neuron.Slc17a6-Slc17a7.Fezf2.3110035E14Rik,1
+2090,1652,Neuron.Gad1Gad2.Cplx3-Dpy19l1,1
+2091,1012,Neuron.Slc17a7.Syt6-Bdnf,1
+2092,895,Neuron.Gad1Gad2.Synpr-Dpy19l1,1
+2093,363,Polydendrocyte.Tnr.Bmp4- Ptgds,1
+2094,299,Mural.Rgs5Acta2.Abcc9,1
+2095,2751,Neuron.Slc17a7.Nptxr-Drd1,1
+2096,2849,Gad1Gad2_Htr3a.Chrm2,1
+2097,2623,Neuron.Slc17a7-Slc17a6.Nxph3-Nts,1
+2098,2600,Gad1Gad2_Id2.Tac1,1
+2099,1932,Neuron.Slc17a6.Htr1a,1
+2100,1908,Gad1Gad2_Cplx3.Rxfp1,1
+2101,1289,Neuron.Slc17a7.Nxph3-Ajap1,1
+2102,1546,Neuron.Slc17a7.Fibcd1-Grm5,1
+2103,2203,Neuron.Slc17a7.C1ql2-Penk,1
+2104,1149,Neuron.Slc17a7.Pvrl3-Grm5,1
+2105,3236,Neuron.Slc17a6.Nnat,1
+2106,332,Gad1Gad2Chat_Htr3a.Chat,1
+2107,1951,Gad1Gad2_Htr3a.Nnat,1
+2108,503,Neuron.Slc17a7.Fezf2-Rxfp1,1
+2109,1261,Neuron.Gad1Gad2_Sst.Spon1,1
+2110,3249,Gad1Gad2_Htr3a.Sema3c,1
+2111,757,Neuron.Gad1Gad2_Sst.Grm1,1
+2112,3416,Neuron.Slc17a7-Slc17a6.Nxph3-Cbln2-Htr2c,1
+2113,1808,Neuron.Slc17a7.Nxph3-Sema3c,1
+2114,458,Neuron.Gad1Gad2.Pvalb-Cadm1,1
+2115,2038,Neuron.Gad1Gad2.Pvalb-Rab3b,1
+2116,853,Neuron.Gad1Gad2.Pvalb-Nefh,1
+2117,1835,Neuron.Gad1Gad2_Sst.Rbp4,1
+2118,1534,Neuron.Slc17a7.Nxph3-Cplx3-Hs6st2,1
+2119,983,Gad1Gad2_Htr3a.Ibsp,1
+2120,2896,Neuron.Slc17a7.Cbln4,1
+2121,1996,Neuron.Slc17a6.Nell1,1
+2122,1066,Neuron.Gad1Gad2_Id2.Sfrp2,1
+2123,982,Gad1Gad2_Htr3a.Phlda1,1
+2124,3297,Astrocyte.Gja1.Nnat,1
+2125,2347,Neuron.Slc17a7.Gabra6,1
+2126,1609,Neuron.Slc17a6.Grp,1
+2127,2399,Neurogenesis.Sox4.Cdc20,1
+2128,2095,Oligodendrocyte.Trf.Man1a,1
+2129,1430,Neural progenitor cells,1
+2130,2144,Neural progenitor cells-9,1
+2131,1298,Neural progenitor cells-9-19,1
+2132,1926,Chondroctye progenitors,1
+2133,860,Chondroctye progenitors-21,1
+2134,642,Chondroctye progenitors-21-6,1
+2135,265,Schwann cell precursor,1
+2136,265,CL:0002375,3
+2137,265,Schwann cell precursor,1
+2138,3022,Schwann cell precursor-23,1
+2139,559,Schwann cell precursor-23-1,1
+2140,833,Osteoblasts,1
+2141,1388,Osteoblasts-17,1
+2142,1754,Osteoblasts-17-19,1
+2143,2772,Oligodendrocyte Progenitors,1
+2144,909,Oligodendrocyte Progenitors-11,1
+2145,3365,Oligodendrocyte Progenitors-11-13,1
+2146,2533,Sensory neurons,1
+2147,510,Sensory neurons-24,1
+2148,3328,Sensory neurons-24-20,1
+2149,2408,Neural Tube,1
+2150,3460,Neural Tube-14,1
+2151,2722,Neural Tube-14-7,1
+2152,432,Definitive erythroid lineage,1
+2153,2719,Definitive erythroid lineage-22,1
+2154,1143,Definitive erythroid lineage-22-9,1
+2155,2985,Intermediate Mesoderm,1
+2156,2666,Intermediate Mesoderm-3,1
+2157,867,Intermediate Mesoderm-3-6,1
+2158,1037,Postmitotic premature neurons,1
+2159,1787,Postmitotic premature neurons-10,1
+2160,1367,Postmitotic premature neurons-10-4,1
+2161,2355,Melanocytes,1
+2162,1709,Melanocytes-36,1
+2163,313,Melanocytes-36-3,1
+2164,1669,Myocytes,1
+2165,3215,Myocytes-13,1
+2166,3104,Myocytes-13-7,1
+2167,2604,Premature oligodendrocyte,1
+2168,2121,Premature oligodendrocyte-19,1
+2169,2303,Early mesenchyme,1
+2170,2900,Early mesenchyme-8,1
+2171,772,Early mesenchyme-8-15,1
+2172,1119,Inhibitory interneurons,1
+2173,2826,Inhibitory interneurons-27,1
+2174,2955,Inhibitory interneurons-27-4,1
+2175,2615,Neural progenitor cells-9-9,1
+2176,1400,Chondroctye progenitors-21-11,1
+2177,1796,Myocytes-13-4,1
+2178,2988,White blood cells,1
+2179,604,White blood cells-31,1
+2180,612,White blood cells-31-9,1
+2181,523,Oligodendrocyte Progenitors-11-4,1
+2182,1581,Chondrocytes & osteoblasts,1
+2183,552,Chondrocytes & osteoblasts-2,1
+2184,1331,Schwann cell precursor-23-23,1
+2185,395,Epithelial cells,1
+2186,1328,Epithelial cells-6,1
+2187,2565,Epithelial cells-6-22,1
+2188,2582,Hepatocytes,1
+2189,2743,Hepatocytes-29,1
+2190,1414,Hepatocytes-29-3,1
+2191,2467,Inhibitory neurons,1
+2192,3354,Inhibitory neurons-15,1
+2193,3349,Inhibitory neurons-15-8,1
+2194,3300,Cardiac muscle lineages,1
+2195,1574,Cardiac muscle lineages-34,1
+2196,1850,Cardiac muscle lineages-34-7,1
+2197,2795,Postmitotic premature neurons-10-22,1
+2198,263,ependymal cell,1
+2199,263,CL:0000065,3
+2200,263,Ependymal cell,2
+2201,1224,Ependymal cell-32,1
+2202,3027,Ependymal cell-32-2,1
+2203,2789,Notochord cells,1
+2204,3028,Notochord cells-30,1
+2205,2003,Notochord cells-30-3,1
+2206,2446,Melanocytes-36-4,1
+2207,770,Neural progenitor cells-9-27,1
+2208,1694,Early mesenchyme-8-4,1
+2209,537,White blood cells-31-4,1
+2210,3012,Oligodendrocyte Progenitors-11-1,1
+2211,679,Excitatory neurons,1
+2212,2163,Excitatory neurons-5,1
+2213,992,Excitatory neurons-5-9,1
+2214,3010,Neural Tube-14-14,1
+2215,2935,Neural progenitor cells-9-20,1
+2216,2831,Osteoblasts-17-15,1
+2217,1864,Primitive erythroid lineage,1
+2218,3397,Primitive erythroid lineage-26,1
+2219,492,Primitive erythroid lineage-26-4,1
+2220,1115,Granule neurons,1
+2221,487,Granule neurons-28,1
+2222,1683,Granule neurons-28-15,1
+2223,2024,Neural progenitor cells-9-11,1
+2224,358,Melanocytes-36-5,1
+2225,1480,Hepatocytes-29-7,1
+2226,1946,Primitive erythroid lineage-26-6,1
+2227,652,Endothelial cells,1
+2228,519,Endothelial cells-20,1
+2229,669,Endothelial cells-20-16,1
+2230,1673,Inhibitory neuron progenitors,1
+2231,927,Inhibitory neuron progenitors-18,1
+2232,413,Inhibitory neuron progenitors-18-18,1
+2233,1943,Lens,1
+2234,2820,Lens-37,1
+2235,1687,Lens-37-5,1
+2236,2289,Neural progenitor cells-9-5,1
+2237,3276,Ependymal cell-32-12,1
+2238,2592,Isthmic organizer cells,1
+2239,1154,Isthmic organizer cells-12,1
+2240,1901,Isthmic organizer cells-12-17,1
+2241,1021,Sensory neurons-24-4,1
+2242,541,Endothelial cells-20-13,1
+2243,3399,Premature oligodendrocyte-19-5,1
+2244,2278,Postmitotic premature neurons-10-26,1
+2245,3400,White blood cells-31-12,1
+2246,1823,White blood cells-31-2,1
+2247,2330,Osteoblasts-17-1,1
+2248,3302,Notochord cells-30-2,1
+2249,1543,Excitatory neurons-5-4,1
+2250,3376,Connective tissue progenitors,1
+2251,2214,Connective tissue progenitors-1,1
+2252,509,Connective tissue progenitors-1-4,1
+2253,1466,Myocytes-13-5,1
+2254,599,Excitatory neurons-5-25,1
+2255,3221,Epithelial cells-6-18,1
+2256,940,Melanocytes-36-2,1
+2257,3311,Hepatocytes-29-4,1
+2258,600,Cardiac muscle lineages-34-5,1
+2259,1433,White blood cells-31-6,1
+2260,2763,Myocytes-13-15,1
+2261,2928,Excitatory neurons-5-3,1
+2262,682,Notochord cells-30-6,1
+2263,2268,Ependymal cell-32-13,1
+2264,2471,Oligodendrocyte Progenitors-11-19,1
+2265,1190,Inhibitory neuron progenitors-18-13,1
+2266,1071,Premature oligodendrocyte-19-9,1
+2267,3402,Notochord cells-30-9,1
+2268,2158,Chondroctye progenitors-21-15,1
+2269,2834,Postmitotic premature neurons-10-16,1
+2270,2818,Lens-37-4,1
+2271,841,Inhibitory neuron progenitors-18-15,1
+2272,3425,Neutrophils,1
+2273,2939,Neutrophils-38,1
+2274,1295,Neutrophils-38-4,1
+2275,2120,Inhibitory interneurons-27-6,1
+2276,1351,Oligodendrocyte Progenitors-11-10,1
+2277,1689,Lens-37-1,1
+2278,1695,White blood cells-31-10,1
+2279,1997,Osteoblasts-17-8,1
+2280,731,Stromal cells,1
+2281,808,Stromal cells-16,1
+2282,1196,Stromal cells-16-14,1
+2283,825,Megakaryocytes,1
+2284,3428,Megakaryocytes-35,1
+2285,2143,Megakaryocytes-35-6,1
+2286,2798,Ependymal cell-32-8,1
+2287,1206,Notochord cells-30-11,1
+2288,1566,Isthmic organizer cells-12-4,1
+2289,1359,Isthmic organizer cells-12-13,1
+2290,1535,Hepatocytes-29-8,1
+2291,3362,Postmitotic premature neurons-10-14,1
+2292,1410,Cardiac muscle lineages-34-13,1
+2293,3315,Postmitotic premature neurons-10-13,1
+2294,672,Inhibitory neuron progenitors-18-6,1
+2295,969,Isthmic organizer cells-12-12,1
+2296,1448,Osteoblasts-17-13,1
+2297,1158,Granule neurons-28-4,1
+2298,1291,White blood cells-31-13,1
+2299,2958,Osteoblasts-17-2,1
+2300,740,Ependymal cell-32-1,1
+2301,2153,Epithelial cells-6-19,1
+2302,1610,Osteoblasts-17-4,1
+2303,2914,Epithelial cells-6-24,1
+2304,2006,Ependymal cell-32-7,1
+2305,2313,Excitatory neurons-5-26,1
+2306,1390,Lens-37-2,1
+2307,3238,Inhibitory neurons-15-22,1
+2308,1856,Chondrocytes & osteoblasts-2-7,1
+2309,628,Schwann cell precursor-23-18,1
+2310,318,Intermediate Mesoderm-3-22,1
+2311,605,Cardiac muscle lineages-34-4,1
+2312,2511,Neural progenitor cells-9-10,1
+2313,1750,Intermediate Mesoderm-3-24,1
+2314,1385,Oligodendrocyte Progenitors-11-18,1
+2315,3158,Osteoblasts-17-6,1
+2316,1934,Chondroctye progenitors-21-5,1
+2317,2995,Neutrophils-38-3,1
+2318,342,Neural Tube-14-11,1
+2319,1026,Ependymal cell-32-4,1
+2320,865,White blood cells-31-3,1
+2321,1093,Postmitotic premature neurons-10-25,1
+2322,1705,Ependymal cell-32-5,1
+2323,2066,Epithelial cells-6-27,1
+2324,1325,Epithelial cells-6-26,1
+2325,1439,Neural Tube-14-3,1
+2326,2174,Excitatory neurons-5-5,1
+2327,2710,Schwann cell precursor-23-13,1
+2328,1384,Definitive erythroid lineage-22-6,1
+2329,2401,White blood cells-31-7,1
+2330,1979,Chondroctye progenitors-21-7,1
+2331,701,Inhibitory neuron progenitors-18-1,1
+2332,1986,Notochord cells-30-15,1
+2333,2246,White blood cells-31-1,1
+2334,695,Chondrocytes & osteoblasts-2-12,1
+2335,526,Lens-37-3,1
+2336,2996,Megakaryocytes-35-2,1
+2337,378,Endothelial cells-20-10,1
+2338,1847,Isthmic organizer cells-12-11,1
+2339,2597,Isthmic organizer cells-12-2,1
+2340,1281,Cholinergic neurons,1
+2341,1170,Cholinergic neurons-33,1
+2342,2701,Cholinergic neurons-33-12,1
+2343,680,Cholinergic neurons-33-14,1
+2344,2704,Hepatocytes-29-1,1
+2345,780,Early mesenchyme-8-11,1
+2346,944,Megakaryocytes-35-1,1
+2347,3286,Megakaryocytes-35-5,1
+2348,1625,Schwann cell precursor-23-2,1
+2349,527,Cholinergic neurons-33-17,1
+2350,2723,Early mesenchyme-8-12,1
+2351,1614,Early mesenchyme-8-19,1
+2352,2688,Cholinergic neurons-33-3,1
+2353,3239,Inhibitory interneurons-27-9,1
+2354,2012,Hepatocytes-29-10,1
+2355,2361,Inhibitory neurons-15-13,1
+2356,1607,Notochord cells-30-5,1
+2357,1604,Excitatory neurons-5-14,1
+2358,2787,Definitive erythroid lineage-22-13,1
+2359,1884,Megakaryocytes-35-3,1
+2360,2325,Limb mesenchyme,1
+2361,1740,Limb mesenchyme-25,1
+2362,2494,Stromal cells-16-3,1
+2363,809,Oligodendrocyte Progenitors-11-17,1
+2364,2173,Myocytes-13-10,1
+2365,855,Endothelial cells-20-15,1
+2366,3106,Cardiac muscle lineages-34-8,1
+2367,1308,Excitatory neurons-5-13,1
+2368,2813,Chondrocytes & osteoblasts-2-2,1
+2369,2337,Chondrocytes & osteoblasts-2-5,1
+2370,883,Stromal cells-16-2,1
+2371,3165,Jaw and tooth progenitors,1
+2372,1437,Jaw and tooth progenitors-4,1
+2373,2388,Jaw and tooth progenitors-4-6,1
+2374,963,Neural progenitor cells-9-18,1
+2375,428,Jaw and tooth progenitors-4-17,1
+2376,3095,Epithelial cells-6-14,1
+2377,2579,Radial glia,1
+2378,1463,Radial glia-7,1
+2379,2860,Radial glia-7-10,1
+2380,648,White blood cells-31-8,1
+2381,2571,Myocytes-13-9,1
+2382,1356,Schwann cell precursor-23-4,1
+2383,2425,Chondrocytes & osteoblasts-2-19,1
+2384,1792,Neural progenitor cells-9-25,1
+2385,1322,Definitive erythroid lineage-22-4,1
+2386,1490,Postmitotic premature neurons-10-6,1
+2387,2147,Cholinergic neurons-33-11,1
+2388,514,Jaw and tooth progenitors-4-10,1
+2389,1666,Excitatory neurons-5-12,1
+2390,1167,Osteoblasts-17-18,1
+2391,3194,Inhibitory neurons-15-10,1
+2392,688,Granule neurons-28-10,1
+2393,608,Myocytes-13-8,1
+2394,2570,Neural progenitor cells-9-16,1
+2395,3480,Isthmic organizer cells-12-14,1
+2396,2966,Cardiac muscle lineages-34-2,1
+2397,3377,Inhibitory interneurons-27-15,1
+2398,498,Cardiac muscle lineages-34-1,1
+2399,3364,Schwann cell precursor-23-20,1
+2400,2436,Granule neurons-28-7,1
+2401,3157,Melanocytes-36-6,1
+2402,1854,Epithelial cells-6-23,1
+2403,1129,Melanocytes-36-1,1
+2404,388,Osteoblasts-17-7,1
+2405,545,Sensory neurons-24-19,1
+2406,2833,Endothelial cells-20-5,1
+2407,2064,Excitatory neurons-5-1,1
+2408,445,Jaw and tooth progenitors-4-11,1
+2409,1081,Postmitotic premature neurons-10-29,1
+2410,1259,Neural progenitor cells-9-28,1
+2411,2854,Inhibitory neuron progenitors-18-7,1
+2412,2828,Inhibitory interneurons-27-11,1
+2413,1505,Isthmic organizer cells-12-6,1
+2414,3026,Inhibitory interneurons-27-8,1
+2415,2590,Inhibitory interneurons-27-16,1
+2416,2042,Postmitotic premature neurons-10-27,1
+2417,3359,Schwann cell precursor-23-22,1
+2418,2904,Ependymal cell-32-6,1
+2419,1881,Chondrocytes & osteoblasts-2-18,1
+2420,1391,White blood cells-31-14,1
+2421,1280,Granule neurons-28-6,1
+2422,1630,Megakaryocytes-35-4,1
+2423,2090,Lens-37-6,1
+2424,1454,Connective tissue progenitors-1-9,1
+2425,368,Neural progenitor cells-9-13,1
+2426,1293,Sensory neurons-24-9,1
+2427,2296,Cholinergic neurons-33-19,1
+2428,2883,Intermediate Mesoderm-3-16,1
+2429,2864,Early mesenchyme-8-6,1
+2430,3247,Cardiac muscle lineages-34-11,1
+2431,1334,Neutrophils-38-1,1
+2432,1536,Postmitotic premature neurons-10-7,1
+2433,2917,Neural Tube-14-12,1
+2434,3337,Oligodendrocyte Progenitors-11-11,1
+2435,2636,Early mesenchyme-8-10,1
+2436,2598,Chondroctye progenitors-21-8,1
+2437,2836,Inhibitory neuron progenitors-18-5,1
+2438,2933,Premature oligodendrocyte-19-1,1
+2439,3384,Cholinergic neurons-33-18,1
+2440,806,Premature oligodendrocyte-19-8,1
+2441,776,Granule neurons-28-12,1
+2442,973,Inhibitory interneurons-27-12,1
+2443,1615,Osteoblasts-17-5,1
+2444,1378,Isthmic organizer cells-12-3,1
+2445,2216,Cardiac muscle lineages-34-3,1
+2446,2279,Excitatory neurons-5-15,1
+2447,2265,Sensory neurons-24-12,1
+2448,449,Early mesenchyme-8-16,1
+2449,3067,Premature oligodendrocyte-19-10,1
+2450,653,Sensory neurons-24-17,1
+2451,2613,Neural Tube-14-16,1
+2452,2949,Hepatocytes-29-12,1
+2453,1183,Early mesenchyme-8-7,1
+2454,2758,Chondroctye progenitors-21-2,1
+2455,820,Epithelial cells-6-29,1
+2456,2493,Postmitotic premature neurons-10-1,1
+2457,1376,Hepatocytes-29-13,1
+2458,876,Melanocytes-36-8,1
+2459,277,Intermediate Mesoderm-3-17,1
+2460,1681,Postmitotic premature neurons-10-24,1
+2461,2670,Sensory neurons-24-11,1
+2462,1726,Notochord cells-30-13,1
+2463,1937,Postmitotic premature neurons-10-8,1
+2464,2586,Oligodendrocyte Progenitors-11-20,1
+2465,439,Inhibitory neurons-15-9,1
+2466,2060,Notochord cells-30-4,1
+2467,2599,Inhibitory interneurons-27-5,1
+2468,1623,Stromal cells-16-9,1
+2469,2584,Postmitotic premature neurons-10-28,1
+2470,2429,Intermediate Mesoderm-3-13,1
+2471,3137,Schwann cell precursor-23-14,1
+2472,3411,Oligodendrocyte Progenitors-11-12,1
+2473,2046,Epithelial cells-6-16,1
+2474,1465,Neutrophils-38-2,1
+2475,1278,Radial glia-7-21,1
+2476,602,Myocytes-13-12,1
+2477,1601,Schwann cell precursor-23-11,1
+2478,1582,Schwann cell precursor-23-21,1
+2479,800,Endothelial cells-20-9,1
+2480,3388,Definitive erythroid lineage-22-2,1
+2481,1756,Endothelial cells-20-7,1
+2482,2679,Osteoblasts-17-10,1
+2483,1248,Oligodendrocyte Progenitors-11-3,1
+2484,2927,Epithelial cells-6-25,1
+2485,2542,Endothelial cells-20-12,1
+2486,3033,Notochord cells-30-7,1
+2487,524,Jaw and tooth progenitors-4-4,1
+2488,2805,Inhibitory interneurons-27-2,1
+2489,2664,Radial glia-7-22,1
+2490,3434,Chondrocytes & osteoblasts-2-3,1
+2491,2956,Stromal cells-16-1,1
+2492,1522,Cholinergic neurons-33-2,1
+2493,339,Radial glia-7-3,1
+2494,920,Inhibitory neuron progenitors-18-2,1
+2495,3284,Definitive erythroid lineage-22-8,1
+2496,3139,Schwann cell precursor-23-16,1
+2497,1745,Neural progenitor cells-9-15,1
+2498,3468,Schwann cell precursor-23-10,1
+2499,352,Postmitotic premature neurons-10-20,1
+2500,729,Stromal cells-16-11,1
+2501,2732,Jaw and tooth progenitors-4-13,1
+2502,1425,Schwann cell precursor-23-19,1
+2503,2672,Neural Tube-14-2,1
+2504,2007,Definitive erythroid lineage-22-5,1
+2505,1182,Intermediate Mesoderm-3-4,1
+2506,1141,Schwann cell precursor-23-7,1
+2507,3299,Primitive erythroid lineage-26-5,1
+2508,1568,Chondroctye progenitors-21-14,1
+2509,2373,Neural progenitor cells-9-2,1
+2510,1004,Hepatocytes-29-9,1
+2511,1017,Intermediate Mesoderm-3-23,1
+2512,3074,Intermediate Mesoderm-3-10,1
+2513,1241,Epithelial cells-6-11,1
+2514,3087,Epithelial cells-6-1,1
+2515,3423,Cholinergic neurons-33-16,1
+2516,2220,Neural Tube-14-6,1
+2517,435,Hepatocytes-29-5,1
+2518,2871,Inhibitory interneurons-27-3,1
+2519,1747,Intermediate Mesoderm-3-1,1
+2520,2479,Inhibitory neuron progenitors-18-16,1
+2521,2780,Granule neurons-28-14,1
+2522,1097,Endothelial cells-20-2,1
+2523,3355,Notochord cells-30-17,1
+2524,1815,Inhibitory interneurons-27-1,1
+2525,3291,Schwann cell precursor-23-17,1
+2526,1354,Inhibitory neurons-15-15,1
+2527,3056,Definitive erythroid lineage-22-19,1
+2528,2601,Stromal cells-16-7,1
+2529,529,Hepatocytes-29-2,1
+2530,3174,Limb mesenchyme-25-2,1
+2531,1554,Melanocytes-36-10,1
+2532,2262,Inhibitory interneurons-27-14,1
+2533,1627,Ependymal cell-32-11,1
+2534,910,Sensory neurons-24-13,1
+2535,634,Intermediate Mesoderm-3-19,1
+2536,2974,Inhibitory neurons-15-20,1
+2537,575,Stromal cells-16-10,1
+2538,1250,Chondrocytes & osteoblasts-2-14,1
+2539,2482,Early mesenchyme-8-17,1
+2540,2800,Sensory neurons-24-7,1
+2541,1227,Myocytes-13-16,1
+2542,752,Limb mesenchyme-25-9,1
+2543,2517,Sensory neurons-24-15,1
+2544,401,Neural progenitor cells-9-17,1
+2545,1082,Inhibitory neurons-15-1,1
+2546,1569,Notochord cells-30-14,1
+2547,2196,Hepatocytes-29-6,1
+2548,2989,Inhibitory interneurons-27-10,1
+2549,1492,Jaw and tooth progenitors-4-14,1
+2550,1044,Epithelial cells-6-6,1
+2551,904,Inhibitory neuron progenitors-18-9,1
+2552,2656,Oligodendrocyte Progenitors-11-6,1
+2553,970,Granule neurons-28-13,1
+2554,3191,Oligodendrocyte Progenitors-11-9,1
+2555,1054,Definitive erythroid lineage-22-12,1
+2556,376,Inhibitory neurons-15-7,1
+2557,390,Osteoblasts-17-12,1
+2558,650,Premature oligodendrocyte-19-16,1
+2559,1317,Primitive erythroid lineage-26-1,1
+2560,692,Melanocytes-36-9,1
+2561,948,Primitive erythroid lineage-26-2,1
+2562,288,Primitive erythroid lineage-26-3,1
+2563,2167,Intermediate Mesoderm-3-9,1
+2564,884,Jaw and tooth progenitors-4-5,1
+2565,315,Inhibitory interneurons-27-7,1
+2566,2692,Cholinergic neurons-33-13,1
+2567,918,Jaw and tooth progenitors-4-19,1
+2568,766,Ependymal cell-32-14,1
+2569,2077,Osteoblasts-17-14,1
+2570,2662,Inhibitory neuron progenitors-18-14,1
+2571,2720,Chondrocytes & osteoblasts-2-20,1
+2572,1869,Notochord cells-30-10,1
+2573,2010,Epithelial cells-6-3,1
+2574,2548,Ependymal cell-32-3,1
+2575,3265,Neural progenitor cells-9-6,1
+2576,1730,Premature oligodendrocyte-19-14,1
+2577,3097,Notochord cells-30-8,1
+2578,1349,Epithelial cells-6-9,1
+2579,1132,Stromal cells-16-12,1
+2580,2934,Jaw and tooth progenitors-4-7,1
+2581,1311,Inhibitory neuron progenitors-18-11,1
+2582,2716,Limb mesenchyme-25-4,1
+2583,2150,Oligodendrocyte Progenitors-11-16,1
+2584,3477,Sensory neurons-24-21,1
+2585,554,Inhibitory neurons-15-17,1
+2586,3229,Stromal cells-16-5,1
+2587,1440,Postmitotic premature neurons-10-18,1
+2588,2478,Connective tissue progenitors-1-7,1
+2589,290,Excitatory neurons-5-8,1
+2590,3329,Myocytes-13-17,1
+2591,2384,Granule neurons-28-16,1
+2592,3330,White blood cells-31-11,1
+2593,1664,Excitatory neurons-5-2,1
+2594,1428,Intermediate Mesoderm-3-8,1
+2595,681,Neural progenitor cells-9-4,1
+2596,3424,Premature oligodendrocyte-19-4,1
+2597,2217,Isthmic organizer cells-12-1,1
+2598,3404,Early mesenchyme-8-8,1
+2599,1135,Notochord cells-30-1,1
+2600,829,Epithelial cells-6-2,1
+2601,2991,Inhibitory neurons-15-4,1
+2602,1545,Cardiac muscle lineages-34-9,1
+2603,381,Granule neurons-28-2,1
+2604,1478,Cholinergic neurons-33-1,1
+2605,3278,Premature oligodendrocyte-19-15,1
+2606,3145,Radial glia-7-15,1
+2607,709,Epithelial cells-6-4,1
+2608,2703,Limb mesenchyme-25-10,1
+2609,1648,Isthmic organizer cells-12-15,1
+2610,2311,Isthmic organizer cells-12-8,1
+2611,3372,Sensory neurons-24-1,1
+2612,2453,Radial glia-7-1,1
+2613,721,Radial glia-7-14,1
+2614,2544,Excitatory neurons-5-23,1
+2615,908,Epithelial cells-6-7,1
+2616,3058,Neural Tube-14-10,1
+2617,3152,Epithelial cells-6-5,1
+2618,2106,Osteoblasts-17-11,1
+2619,571,Radial glia-7-2,1
+2620,2335,Radial glia-7-13,1
+2621,1989,Neural Tube-14-5,1
+2622,3393,Premature oligodendrocyte-19-12,1
+2623,2110,Granule neurons-28-17,1
+2624,2111,Cholinergic neurons-33-10,1
+2625,2923,Inhibitory neuron progenitors-18-3,1
+2626,1708,Chondrocytes & osteoblasts-2-21,1
+2627,639,Inhibitory neurons-15-18,1
+2628,977,Intermediate Mesoderm-3-12,1
+2629,975,Intermediate Mesoderm-3-15,1
+2630,3322,Endothelial cells-20-3,1
+2631,1954,Neural Tube-14-8,1
+2632,1702,Sensory neurons-24-14,1
+2633,2694,Chondrocytes & osteoblasts-2-16,1
+2634,708,Oligodendrocyte Progenitors-11-8,1
+2635,2530,Definitive erythroid lineage-22-14,1
+2636,744,Sensory neurons-24-2,1
+2637,1691,Definitive erythroid lineage-22-17,1
+2638,2913,Granule neurons-28-3,1
+2639,988,Granule neurons-28-1,1
+2640,3294,Isthmic organizer cells-12-5,1
+2641,2807,Granule neurons-28-11,1
+2642,3382,Sensory neurons-24-8,1
+2643,354,Definitive erythroid lineage-22-15,1
+2644,1873,Schwann cell precursor-23-9,1
+2645,782,Schwann cell precursor-23-6,1
+2646,1795,Intermediate Mesoderm-3-14,1
+2647,3116,Cardiac muscle lineages-34-12,1
+2648,410,Ependymal cell-32-10,1
+2649,1001,Stromal cells-16-8,1
+2650,3304,Epithelial cells-6-17,1
+2651,2349,Postmitotic premature neurons-10-17,1
+2652,2172,Epithelial cells-6-13,1
+2653,334,Epithelial cells-6-15,1
+2654,1649,Sensory neurons-24-16,1
+2655,2509,Endothelial cells-20-11,1
+2656,1826,Definitive erythroid lineage-22-18,1
+2657,1124,Inhibitory neuron progenitors-18-17,1
+2658,3080,Melanocytes-36-7,1
+2659,2875,Premature oligodendrocyte-19-6,1
+2660,2395,Inhibitory neurons-15-11,1
+2661,1352,Early mesenchyme-8-14,1
+2662,1471,Connective tissue progenitors-1-1,1
+2663,1711,Chondroctye progenitors-21-9,1
+2664,2680,Radial glia-7-18,1
+2665,1578,Osteoblasts-17-9,1
+2666,2304,Neural Tube-14-15,1
+2667,1532,Neural progenitor cells-9-24,1
+2668,3386,Neural progenitor cells-9-14,1
+2669,2015,Osteoblasts-17-17,1
+2670,1714,Myocytes-13-6,1
+2671,1366,Stromal cells-16-6,1
+2672,2876,Schwann cell precursor-23-5,1
+2673,2253,Limb mesenchyme-25-7,1
+2674,660,Myocytes-13-14,1
+2675,2359,Schwann cell precursor-23-15,1
+2676,303,Intermediate Mesoderm-3-20,1
+2677,2047,Epithelial cells-6-28,1
+2678,796,Excitatory neurons-5-17,1
+2679,418,Inhibitory neurons-15-3,1
+2680,2160,Postmitotic premature neurons-10-21,1
+2681,1976,---,1
+2682,1326,Premature oligodendrocyte-19-11,1
+2683,1525,Postmitotic premature neurons-10-11,1
+2684,1579,Oligodendrocyte Progenitors-11-14,1
+2685,1768,Stromal cells-16-13,1
+2686,2635,Oligodendrocyte Progenitors-11-5,1
+2687,717,Chondroctye progenitors-21-1,1
+2688,1225,Granule neurons-28-8,1
+2689,641,Epithelial cells-6-20,1
+2690,2543,Neural progenitor cells-9-7,1
+2691,2022,Radial glia-7-12,1
+2692,2255,Sensory neurons-24-18,1
+2693,2993,Radial glia-7-17,1
+2694,1058,Early mesenchyme-8-5,1
+2695,869,Inhibitory neuron progenitors-18-10,1
+2696,2274,Inhibitory neuron progenitors-18-8,1
+2697,347,Excitatory neurons-5-6,1
+2698,761,Cholinergic neurons-33-9,1
+2699,440,Jaw and tooth progenitors-4-12,1
+2700,2492,Inhibitory neurons-15-2,1
+2701,643,Inhibitory neurons-15-16,1
+2702,577,Postmitotic premature neurons-10-19,1
+2703,2902,Isthmic organizer cells-12-10,1
+2704,613,Neural Tube-14-13,1
+2705,1677,Radial glia-7-20,1
+2706,1205,Inhibitory neuron progenitors-18-12,1
+2707,3405,Myocytes-13-19,1
+2708,1020,Inhibitory neurons-15-12,1
+2709,2667,Epithelial cells-6-10,1
+2710,1273,Sensory neurons-24-22,1
+2711,1083,Endothelial cells-20-6,1
+2712,1930,Early mesenchyme-8-13,1
+2713,673,Radial glia-7-5,1
+2714,1327,Intermediate Mesoderm-3-7,1
+2715,1442,Jaw and tooth progenitors-4-1,1
+2716,2168,Myocytes-13-21,1
+2717,2219,Myocytes-13-13,1
+2718,273,Chondroctye progenitors-21-10,1
+2719,1659,Premature oligodendrocyte-19-2,1
+2720,3019,White blood cells-31-5,1
+2721,1374,Epithelial cells-6-21,1
+2722,1733,Cholinergic neurons-33-7,1
+2723,2781,Jaw and tooth progenitors-4-18,1
+2724,751,Inhibitory neurons-15-6,1
+2725,2495,Jaw and tooth progenitors-4-3,1
+2726,1761,Early mesenchyme-8-9,1
+2727,606,Intermediate Mesoderm-3-2,1
+2728,2183,Chondrocytes & osteoblasts-2-15,1
+2729,3310,Early mesenchyme-8-2,1
+2730,2705,Postmitotic premature neurons-10-5,1
+2731,775,Definitive erythroid lineage-22-7,1
+2732,623,Neural progenitor cells-9-1,1
+2733,2093,Jaw and tooth progenitors-4-8,1
+2734,892,Isthmic organizer cells-12-16,1
+2735,952,Osteoblasts-17-16,1
+2736,2661,Neural progenitor cells-9-22,1
+2737,546,Chondroctye progenitors-21-4,1
+2738,1047,Neural progenitor cells-9-12,1
+2739,624,Sensory neurons-24-5,1
+2740,685,Myocytes-13-11,1
+2741,1597,Notochord cells-30-12,1
+2742,1732,Endothelial cells-20-14,1
+2743,3150,Postmitotic premature neurons-10-3,1
+2744,2817,Chondroctye progenitors-21-13,1
+2745,2602,Limb mesenchyme-25-8,1
+2746,711,Connective tissue progenitors-1-3,1
+2747,2637,Neural progenitor cells-9-3,1
+2748,1685,Excitatory neurons-5-11,1
+2749,2328,Inhibitory neurons-15-14,1
+2750,1313,Notochord cells-30-16,1
+2751,3183,Oligodendrocyte Progenitors-11-15,1
+2752,1285,Radial glia-7-19,1
+2753,2764,Hepatocytes-29-11,1
+2754,2295,Postmitotic premature neurons-10-15,1
+2755,1256,Postmitotic premature neurons-10-12,1
+2756,3041,Limb mesenchyme-25-3,1
+2757,2127,Cholinergic neurons-33-8,1
+2758,3212,Neural progenitor cells-9-21,1
+2759,980,Ependymal cell-32-9,1
+2760,3048,Sensory neurons-24-3,1
+2761,767,Premature oligodendrocyte-19-7,1
+2762,2247,Premature oligodendrocyte-19-3,1
+2763,1831,Endothelial cells-20-8,1
+2764,3190,Early mesenchyme-8-18,1
+2765,1716,Definitive erythroid lineage-22-1,1
+2766,2286,Limb mesenchyme-25-11,1
+2767,1086,Excitatory neurons-5-19,1
+2768,1968,Chondrocytes & osteoblasts-2-6,1
+2769,1451,Intermediate Mesoderm-3-3,1
+2770,2640,Connective tissue progenitors-1-2,1
+2771,3089,Radial glia-7-7,1
+2772,718,Excitatory neurons-5-22,1
+2773,925,Schwann cell precursor-23-8,1
+2774,1871,Intermediate Mesoderm-3-11,1
+2775,866,Jaw and tooth progenitors-4-2,1
+2776,2387,Connective tissue progenitors-1-8,1
+2777,2299,Oligodendrocyte Progenitors-11-7,1
+2778,1175,Intermediate Mesoderm-3-21,1
+2779,773,Chondrocytes & osteoblasts-2-4,1
+2780,555,Chondrocytes & osteoblasts-2-17,1
+2781,433,Cardiac muscle lineages-34-6,1
+2782,329,Neural progenitor cells-9-26,1
+2783,337,Sensory neurons-24-6,1
+2784,2829,Notochord cells-30-18,1
+2785,1136,Oligodendrocyte Progenitors-11-2,1
+2786,3049,Cholinergic neurons-33-15,1
+2787,2971,Connective tissue progenitors-1-6,1
+2788,3307,Definitive erythroid lineage-22-20,1
+2789,1042,Excitatory neurons-5-10,1
+2790,3417,Neural Tube-14-1,1
+2791,3071,Early mesenchyme-8-1,1
+2792,896,Excitatory neurons-5-20,1
+2793,644,Stromal cells-16-4,1
+2794,1811,Connective tissue progenitors-1-5,1
+2795,2981,Definitive erythroid lineage-22-3,1
+2796,1411,Radial glia-7-8,1
+2797,3242,Definitive erythroid lineage-22-11,1
+2798,674,Myocytes-13-18,1
+2799,2354,Sensory neurons-24-10,1
+2800,3267,Limb mesenchyme-25-1,1
+2801,2778,Cholinergic neurons-33-5,1
+2802,2578,Endothelial cells-20-1,1
+2803,2231,Granule neurons-28-5,1
+2804,2264,Chondroctye progenitors-21-12,1
+2805,1556,Cholinergic neurons-33-4,1
+2806,2771,Excitatory neurons-5-18,1
+2807,2773,Limb mesenchyme-25-6,1
+2808,843,Inhibitory neurons-15-19,1
+2809,3213,Inhibitory neurons-15-21,1
+2810,1316,Excitatory neurons-5-27,1
+2811,1510,Neural progenitor cells-9-23,1
+2812,2438,Limb mesenchyme-25-5,1
+2813,2043,Isthmic organizer cells-12-7,1
+2814,459,Definitive erythroid lineage-22-10,1
+2815,2155,Early mesenchyme-8-3,1
+2816,1479,Radial glia-7-9,1
+2817,1307,Granule neurons-28-9,1
+2818,455,Chondrocytes & osteoblasts-2-13,1
+2819,2134,Jaw and tooth progenitors-4-15,1
+2820,651,Schwann cell precursor-23-12,1
+2821,3184,Premature oligodendrocyte-19-13,1
+2822,1942,Definitive erythroid lineage-22-16,1
+2823,326,Neural Tube-14-9,1
+2824,1009,Ependymal cell-32-15,1
+2825,811,Chondrocytes & osteoblasts-2-11,1
+2826,878,Myocytes-13-20,1
+2827,1264,Jaw and tooth progenitors-4-9,1
+2828,2234,Inhibitory interneurons-27-13,1
+2829,561,Inhibitory interneurons-27-17,1
+2830,2554,Neural Tube-14-4,1
+2831,1238,Radial glia-7-6,1
+2832,2815,Cardiac muscle lineages-34-10,1
+2833,2861,Cholinergic neurons-33-6,1
+2834,987,Epithelial cells-6-8,1
+2835,1444,Schwann cell precursor-23-3,1
+2836,1162,Inhibitory neurons-15-5,1
+2837,3308,Osteoblasts-17-3,1
+2838,2549,Neural progenitor cells-9-8,1
+2839,3437,Inhibitory neuron progenitors-18-4,1
+2840,844,Postmitotic premature neurons-10-9,1
+2841,3163,Isthmic organizer cells-12-9,1
+2842,1072,Postmitotic premature neurons-10-23,1
+2843,1209,Myocytes-13-2,1
+2844,2242,Excitatory neurons-5-7,1
+2845,1660,Radial glia-7-16,1
+2846,3185,Chondrocytes & osteoblasts-2-10,1
+2847,891,Postmitotic premature neurons-10-2,1
+2848,1171,Jaw and tooth progenitors-4-16,1
+2849,1770,Excitatory neurons-5-21,1
+2850,3389,Myocytes-13-1,1
+2851,1501,Postmitotic premature neurons-10-10,1
+2852,1151,Radial glia-7-11,1
+2853,1503,Chondroctye progenitors-21-3,1
+2854,2405,Excitatory neurons-5-16,1
+2855,2018,Radial glia-7-4,1
+2856,2302,Chondrocytes & osteoblasts-2-9,1
+2857,3053,Chondrocytes & osteoblasts-2-8,1
+2858,2744,Intermediate Mesoderm-3-18,1
+2859,2572,Excitatory neurons-5-24,1
+2860,1073,Myocytes-13-3,1
+2861,856,Intermediate Mesoderm-3-5,1
+2862,2131,Chondrocytes & osteoblasts-2-1,1
+2863,656,Epithelial cells-6-12,1
+2864,2736,Endothelial cells-20-4,1
+2865,2827,Vascular cells,1
+2866,1344,Vascular endothelial cells,1
+2867,966,Immune cells,1
+2868,3422,Microglia,1
+2869,668,Vascular and leptomeningeal cells,1
+2870,3266,Vascular smooth muscle cells,1
+2871,1272,Glia,1
+2872,2350,CNS glia,1
+2873,1878,Astroependymal cells,1
+2874,469,Ependymal cells,1
+2875,2653,Astrocytes,1
+2876,2700,Choroid epithelial cells,1
+2877,2891,Neurons,1
+2878,563,PNS neurons,1
+2879,3457,Peripheral sensory neurons,1
+2880,880,Peripheral sensory non-peptidergic neurons,1
+2881,1862,Peripheral sensory neurofilament neurons,1
+2882,2587,Peripheral sensory peptidergic neurons,1
+2883,2952,Sympathetic neurons,1
+2884,283,Sympathetic cholinergic neurons,1
+2885,2588,Sympathetic noradrenergic neurons,1
+2886,1781,Perivascular macrophages,1
+2887,2063,Neural crest-like glia,1
+2888,2610,Satellite glia,1
+2889,1394,Schwann cells,1
+2890,2075,CNS neurons,1
+2891,3268,Immature neural,1
+2892,1099,Non-glutamatergic neuroblasts,1
+2893,2884,Di- and mesencephalon neurons,1
+2894,3159,Di- and mesencephalon excitatory neurons,1
+2895,760,Hindbrain neurons,1
+2896,1904,Glutamatergic neuroblasts,1
+2897,3098,"Cholinergic, monoaminergic and peptidergic neurons",1
+2898,2126,Peptidergic neurons,1
+2899,493,Telencephalon interneurons,1
+2900,787,Telencephalon inhibitory interneurons,1
+2901,1494,Olfactory inhibitory neurons,1
+2902,1990,Cholinergic and monoaminergic neurons,1
+2903,1816,Subventricular zone radial glia-like cells,1
+2904,2621,Dentate gyrus radial glia-like cells,1
+2905,2737,Olfactory ensheathing cells,1
+2906,1061,Spinal cord neurons,1
+2907,2536,Spinal cord excitatory neurons,1
+2908,1646,Telencephalon projecting neurons,1
+2909,3029,Telencephalon projecting inhibitory neurons,1
+2910,921,Oligodendrocytes,1
+2911,1907,Enteric glia,1
+2912,1461,Enteric neurons,1
+2913,1891,Telencephalon projecting excitatory neurons,1
+2914,2510,Cerebellum neurons,1
+2915,2881,Di- and mesencephalon inhibitory neurons,1
+2916,724,Spinal cord inhibitory neurons,1
+2917,2083,Oligodendrocyte precursor cells,1
+2918,1031,Dentate gyrus granule neurons,1
+2919,1150,Subcommissural organ hypendymal cells,1
+2920,1362,Diencephalic roof plate,1
+2921,266,glioblast,1
+2922,266,CL:0000030,3
+2923,266,Glioblast,2
+2924,671,Midbrain,1
+2925,1497,Neuroblast,1
+2926,1956,Midbrain GABAergic,1
+2927,881,Forebrain glutamatergic,1
+2928,2673,Committed oligodendrocyte precursor,1
+2929,2992,Forebrain GABAergic,1
+2930,733,Cajal-Retzius,1
+2931,3401,Forebrain,1
+2932,2525,PreOPC,1
+2933,3433,Mixed region,1
+2934,2209,Mixed region astrocytes,1
+2935,474,Spinal cord,1
+2936,177,oligodendrocyte precursor cell,1
+2937,177,CL:0002453,3
+2938,177,Oligodendrocyte precursor cell,2
+2939,3057,Undefined,1
+2940,270,motor neuron,1
+2941,270,CL:0000100,3
+2942,270,Motor neuron,2
+2943,271,sensory neuron,1
+2944,271,CL:0000101,3
+2945,271,Sensory neuron,2
+2946,2718,Midbrain glutamatergic,1
+2947,1876,Hindbrain glutamatergic,1
+2948,1920,Hindbrain glycinergic,1
+2949,2210,Hindbrain,1
+2950,2358,Hindbrain GABAergic,1
+2951,550,Spinal cord glutamatergic,1
+2952,416,Mixed region glutamatergic,1
+2953,3228,Hypothalamus,1
+2954,1807,Ependymal-like,1
+2955,2631,Ependymal,1
+2956,2585,Late isthmic organizer,1
+2957,1399,Bergmann glia,1
+2958,1638,Choroid plexus,1
+2959,201,olfactory ensheathing cell,1
+2960,201,CL:0011028,3
+2961,201,Olfactory ensheathing cell,2
+2962,412,Subcommissural organ,1
+2963,2489,Subcommissural organ hypendymal cell,1
+2964,2589,Pineal gland,1
+2965,805,Dorsal hindbrain and spinal cord,1
+2966,3133,Diencephalon,1
+2967,2200,Dorsal hindbrain,1
+2968,3461,Cortical hem,1
+2969,742,Mixed region and neurotransmitter,1
+2970,3473,Midbrain dopaminergic,1
+2971,1221,Dorsal midbrain glutamatergic,1
+2972,2170,Cerebellum glutamatergic,1
+2973,495,Diencephalon glutamatergic,1
+2974,664,Pituitary neuroendocrine,1
+2975,2911,Epithalamus glutamatergic,1
+2976,1232,Mixed region GABAergic,1
+2977,635,Spinal cord glycinergic,1
+2978,2699,Cerebellum GABAergic,1
+2979,2352,Posterior hindbrain glutamatergic,1
+2980,1894,Cortical or hippocampal glutamatergic,1
+2981,501,Neuronal intermediate progenitor,1
+2982,2767,Thalamus glutamatergic,1
+2983,1360,Hindbrain serotoninergic,1
+2984,1507,Hypothalamus glutamatergic,1
+2985,2076,Midbrain-hindbrain GABAergic,1
+2986,1253,Perivascular fibroblast-like cells,1
+2987,2454,Pia 1,1
+2988,2098,Early fibroblasts,1
+2989,1210,Pia 2,1
+2990,2226,Blood,1
+2991,3100,Erythroid progenitor,1
+2992,178,erythrocyte,1
+2993,178,CL:0000232,3
+2994,178,Erythrocyte,2
+2995,3091,Chondrocytes,1
+2996,1834,Pia 3,1
+2997,3371,Arachnoid,1
+2998,1039,Intermediate meninges 2,1
+2999,726,Arachnoid barrier cells,1
+3000,2515,Dura,1
+3001,1676,Vascular,1
+3002,1991,Intermediate meninges 1,1
+3003,2408,Neural tube,1
+3004,1514,Caudal,1
+3005,557,Optic cup,1
+3006,2862,Anterior,1
+3007,2002,Mesenchyme,1
+3008,1788,Floor plate,1
+3009,2258,Neural crest,1
+3010,2632,Mesoderm,1
+3011,2215,Pharyngeal,1
+3012,3001,Bad cells,1
+3013,3177,Paraxial,1
+3014,1925,Cardiac,1
+3015,3009,Neuromesodermal progenitors,1
+3016,1941,Gastrulation,1
+3017,2741,Hematoendothelial lineage,1
+3018,422,Nascent mesoderm,1
+3019,2761,Epiblast,1
+3020,1229,Primordial germ cells,1
+3021,1855,Osteochondral mesoderm,1
+3022,2032,Endoderm,1
+3023,2442,Extraembryonic ectoderm,1
+3024,2406,Parietal endoderm,1
+3025,2400,Visceral endoderm,1
+3026,759,Cardiac mesoderm,1
+3027,3455,Extraembryonic endoderm,1
+3028,1393,Definitive endoderm,1
+3029,1645,Fourth-ventricle roof plate,1
+3030,3178,Early choroid plexus,1
+3031,1961,Node,1
+3032,847,Anterior primitive streak,1
+3033,1620,Ectoderm,1
+3034,1757,Olfactory epithelium,1
+3035,2118,Olfactory pit,1
+3036,659,Lateral nasal pit,1
+3037,1840,Early ectoderm,1
+3038,1970,Gut,1
+3039,2054,Dorsal early ectoderm,1
+3040,1005,Surface ectoderm,1
+3041,2931,Oral ectoderm,1
+3042,3344,Adenohypophyseal placode,1
+3043,364,Otic vesicle,1
+3044,1874,Pharyngeal epithelium,1
+3045,2097,Dorsal forebrain,1
+3046,3255,Ventral hindbrain,1
+3047,1794,Ventral midbrain,1
+3048,488,Midbrain-hindbrain boundary,1
+3049,444,Immune,1
+3050,508,Infiltrating immune,1
+3051,71,platelet,1
+3052,71,CL:0000233,3
+3053,71,Platelet,2
+3054,1286,Early macrophage,1
+3055,2606,Forebrain astrocyte,1
+3056,406,Dorsal midbrain,1
+3057,678,Anteromedial cerebral pole,1
+3058,1383,Roof plate,1
+3059,1320,Dorsal diencephalon,1
+3060,1905,Midbrain basal plate,1
+3061,1251,Hindbrain roof plate,1
+3062,1220,Midbrain floor plate,1
+3063,2317,Hypothalamic floor-plate like,1
+3064,2534,Zona limitans intrathalamica,1
+3065,1443,Hindbrain floor plate,1
+3066,1712,Angioblast,1
+3067,2284,Endothelial,1
+3068,1670,Axon tract-associated microglia,1
+3069,1416,Pericyte,1
+3070,1106,Vascular smooth muscle,1
+3071,341,Non-cycling perivascular macrophages,1
+3072,1284,Cycling perivascular macrophages,1
+3073,2997,Cycling microglia,1
+3074,1373,Non-cycling microglia,1
+3075,1769,Radial glia cell,1
+3076,2437,Forebrain neuron,1
+3077,1592,Forebrain radial glia cell,1
+3078,106,olfactory epithelial cell,1
+3079,106,CL:0002167,3
+3080,106,Olfactory epithelial cell,2
+3081,267,myoblast,1
+3082,267,CL:0000056,3
+3083,267,Myoblast,2
+3084,2776,Facial fibroblast,1
+3085,2910,Dorsal midbrain neuron,1
+3086,1127,Limb fibroblast,1
+3087,1867,Ganglion,1
+3088,1053,Meninges cell,1
+3089,2846,Immune cell,1
+3090,485,Mid-/hindbrain and spinal cord neuron,1
+3091,3000,Connective tissue,1
+3092,1973,Spinal cord neuron,1
+3093,1226,Mucosal epithelium,1
+3094,1458,Smooth muscle,1
+3095,2380,Sympathetic nerve,1
+3096,2141,Inner ear,1
+3097,1599,Cartilage primordium,1
+3098,424,Bone,1
+3099,2055,Jaw and tooth,1
+3100,1369,Meninges,1
+3101,816,Brain,1
+3102,132,keratinocyte,1
+3103,132,CL:0000312,3
+3104,132,Keratinocyte,2
+3105,2627,Epidermis,1
+3106,562,Cavity,1
+3107,2356,Cardiomyocyte,1
+3108,1191,Thalamus neuron,1
+3109,1188,Dermomyotome,1
+3110,2426,Primitive gut tube,1
+3111,2351,Lung primordium,1
+3112,1948,Branchial arch,1
+3113,3105,AGM,1
+3114,2745,Sclerotome,1
+3115,2869,Lung,1
+3116,1484,Eye,1
+3117,1865,Cartilage,1
+3118,3301,Blood vessel,1
+3119,3430,GI tract,1
+3120,2100,Liver,1
+3121,1885,Heart,1
+3122,1079,Urogenital ridge,1
+3123,694,Head mesenchyme,1
+3124,1653,Dorsal root ganglion,1
+3125,2512,Muscle,1
+3126,754,Thymus,1
+3127,3017,OPC,1
+3128,1861,DA neuron,1
+3129,1589,IN thalamus,1
+3130,2048,Astr5,1
+3131,3138,Astr4,1
+3132,1101,EX L6,1
+3133,998,EX Mb,1
+3134,3298,EX L4,1
+3135,3435,Astr3,1
+3136,2091,IN Vip+,1
+3137,2462,Endothelium,1
+3138,2322,EX L2/3,1
+3139,592,IN Pvalb+Gad1+,1
+3140,2907,Olig,1
+3141,2053,Astr2,1
+3142,2050,Meninge,1
+3143,1103,EX thalamus,1
+3144,1040,EX L5/6,1
+3145,3120,Facial nerve,1
+3146,932,Submandibular gland,1
+3147,1682,Ovary,1
+3148,2444,Adipose tissue,1
+3149,1950,Pancreas,1
+3150,515,EX CA,1
+3151,2190,GCL-D,1
+3152,3081,ML,1
+3153,3369,IPL,1
+3154,1541,SEZ,1
+3155,917,GCL-E,1
+3156,1346,GCL-I,1
+3157,2383,OPL,1
+3158,3099,ONL,1
+3159,1122,GL,1
+3160,1341,Smooth muscle cells,1
+3161,1684,IN Sst+,1
+3162,1140,EX,1
+3163,2738,Astr1,1
+3164,2755,GN DG,1
+3165,534,IN Pvalb+,1
+3166,1778,Adrenal gland,1
+3167,1779,Kidney,1
+3168,386,Mesentery,1
+3169,429,Mesothelium,1
+3170,1993,Urethra,1
+3171,304,Endo,1
+3172,1406,GlioB,1
+3173,874,NeuB,1
+3174,640,GABA Neu,1
+3175,3162,Micro,1
+3176,1342,Glu NeuB,1
+3177,2708,Glu Neu,1
+3178,2855,GABA NeuB,1
+3179,885,Fibro,1
+3180,3336,Ery,1
+3181,2385,RGC,1
+3182,1422,Pancreas primordium,1
+3183,3156,Cranium fibroblast,1
+3184,3444,Hindbrain glutamatergic neuroblast,1
+3185,2633,Mixed region neuron,1
+3186,268,Cajal-Retzius cell,1
+3187,268,CL:0000695,3
+3188,268,Cajal-Retzius cell,1
+3189,452,Mixed region GABAergic neuron,1
+3190,1967,Hindbrain glutamatergic neuron,1
+3191,967,Midbrain glutamatergic neuron,1
+3192,499,Midbrain glutamatergic neuroblast,1
+3193,269,forebrain neuroblast,1
+3194,269,CL:1000042,3
+3195,269,Forebrain neuroblast,2
+3196,1651,Diencephalon glutamatergic neuron,1
+3197,3037,Olfactory neuron,1
+3198,1063,Hypothalamus neuron,1
+3199,1512,Ventromedial hypothalamus GABAergic neuron,1
+3200,1157,Cortical or hippocampal glutamatergic neuron,1
+3201,2036,Dorsal hindbrain radial glia,1
+3202,1767,Cerebellar granule neuroblasts,1
+3203,3245,Hindbrain neuroblast,1
+3204,1186,Forebrain glutamatergic neuroblast,1
+3205,1791,Forebrain GABAergic neuroblast,1
+3206,1802,Forebrain radial glia,1
+3207,3357,Midbrain radial glia,1
+3208,3136,Mixed region glioblast,1
+3209,1403,Forebrain GABAergic neuron,1
+3210,203,dopaminergic neuron,1
+3211,203,CL:0000700,3
+3212,203,Dopaminergic neuron,2
+3213,3045,Hindbrain glioblast,1
+3214,3341,Cortical glutamatergic neuron,1
+3215,3115,Cortical intermediate progenitor,1
+3216,1674,Notochord,1
+3217,2941,Lateral-ventral cortex,1
+3218,3451,Cortex_L6,1
+3219,2457,Cortical amygdalar area,1
+3220,999,Stratum oriens of CA1,1
+3221,3222,Dentate gyrus,1
+3222,1857,Molecular layer of dentate gyrus,1
+3223,3458,Posterior amygdalar nucleus,1
+3224,902,Cortex_L4,1
+3225,2074,Subiculum,1
+3226,2267,Cortex-L2/3,1
+3227,1088,CA1,1
+3228,1417,Cortex_L5,1
+3229,1002,Thalamus,1
+3230,1707,Fiber tract,1
+3231,570,Stratum lacunosum/raditum of CA1,1
+3232,827,Cortex_L1,1
+3233,2088,Substandia nigra/Ventral tegmental area,1
+3234,3324,Testis,1
+3235,2466,MGL2,1
+3236,2374,MEGLU14,1
+3237,2746,MBDOP2,1
+3238,2665,TEGLU21,1
+3239,1853,HBGLU9,1
+3240,2858,EPEN,1
+3241,2427,TEGLU17,1
+3242,1419,TEGLU23,1
+3243,1608,DGGRC2,1
+3244,322,MEGLU1,1
+3245,1266,TEGLU24,1
+3246,419,TEINH19,1
+3247,3107,ACTE2,1
+3248,2142,TEGLU7,1
+3249,1719,MEGLU3,1
+3250,564,ACTE1,1
+3251,974,TEGLU11,1
+3252,3096,TEGLU3,1
+3253,582,ACNT2,1
+3254,706,MEINH2,1
+3255,1438,MEINH8,1
+3256,320,TEGLU10,1
+3257,2061,ABC,1
+3258,1211,MOL1,1
+3259,2205,TEGLU8,1
+3260,1283,TEGLU6,1
+3261,1727,TEGLU4,1
+3262,1282,VLMC2,1
+3263,935,TEGLU2,1
+3264,1644,ACNT1,1
+3265,1429,HBGLU7,1
+3266,1372,TEINH1,1
+3267,597,ACMB,1
+3268,1343,Excitatory,1
+3269,1214,L6a2,1
+3270,3169,L6b,1
+3271,2415,L6a1,1
+3272,2580,L6a,1
+3273,276,L5b,1
+3274,2866,L2/3,1
+3275,654,L4,1
+3276,3052,L5a2,1
+3277,1547,L5a,1
+3278,1455,L5,1
+3279,1938,Inhibitory,1
+3280,1985,Pvalb,1
+3281,2762,Sst_Cbln4,1
+3282,1491,Sst_Clstn2,1
+3283,1539,Ndnf,1
+3284,2065,Vip,1
+3285,3256,Sst_Chodl,1
+3286,1137,Sst,1
+3287,1217,Chodl,1
+3288,710,Sst_Nr2f2,1
+3289,3412,L5a1,1
+3290,486,L2/3_Syt10,1
+3291,1173,Th,1
+3292,3207,L5_Chrna6,1
+3293,1195,L5b1,1
+3294,1741,L5b2,1
+3295,2403,Sst_Nmbr,1
+3296,1123,H838,1
+3297,2477,H1975,1
+3298,2449,H2228,1
+3299,1070,A549,1
+3300,421,HCC827,1
+3301,2417,quiescent_stellate,1
+3302,2857,activated_stellate,1
+3303,2791,immune_other,1
+3304,2519,B_cell,1
+3305,1557,gamma,1
+3306,2447,alpha,1
+3307,704,delta,1
+3308,834,ductal,1
+3309,3210,beta,1
+3310,3161,t_cell,1
+3311,2284,endothelial,1
+3312,1014,schwann,1
+3313,2886,acinar,1
+3314,1464,mast,1
+3315,784,epsilon,1
+3316,3161,T_cell,1
+3317,1521,aNSC+TAC+NB,1
+3318,2298,COP,1
+3319,581,Mural Cell+ Fibroblast,1
+3320,4,T cell,1
+3321,4,CL:0000084,3
+3322,4,T Cell,2
+3323,2422,Mural Cell + Fibroblast,1
+3324,365,PP,1
+3325,2775,EndothelialCells,1
+3326,491,Oligodendro1,1
+3327,1312,Sst/Nts,1
+3328,481,MuralCells,1
+3329,2182,Oligodendro2,1
+3330,2968,Nfix/Htr2c,1
+3331,618,Oligodend1,1
+3332,1886,Oligodendro3,1
+3333,1239,Oxt,1
+3334,3347,NG2/OPC,1
+3335,2814,Oligodendro4,1
+3336,2505,Th/Slc6a3,1
+3337,540,Ependymocytes,1
+3338,1971,Pars_Tuber1B,1
+3339,2641,Agrp/Sst,1
+3340,928,b2_tanycytes1,1
+3341,1396,unassigned(2),1
+3342,398,Pars_Tuber1A,1
+3343,1613,Th/Cxcl12,1
+3344,1077,Oligodend2,1
+3345,743,Ependymocy2,1
+3346,2564,Gm8773/Tac1,1
+3347,756,PVMMicro,1
+3348,2916,Oligodendro5,1
+3349,2028,Ghrh,1
+3350,2008,a2_tanycytes,1
+3351,2574,Pars_Tuber1C,1
+3352,2792,Agrp/Gm8773,1
+3353,2920,b1_tanycytes,1
+3354,2840,Tanycyte1,1
+3355,463,Pomc/Ttr,1
+3356,2728,Oligodend3,1
+3357,1380,Ependymocy1,1
+3358,1194,Hdc,1
+3359,1879,Neurons1,1
+3360,3220,Mural_Cells2,1
+3361,1969,Rgs16/Vip,1
+3362,1859,Tanycyte2,1
+3363,1824,Mural_Cells1,1
+3364,1235,Pomc/Anxa2,1
+3365,2526,NG2_OPC2,1
+3366,548,unassigned(1),1
+3367,3119,NG2_OPC1,1
+3368,3042,Slc17a6/Trhr,1
+3369,292,a1_tanycytes1,1
+3370,1940,Oligodendro6,1
+3371,2025,Fam19a2,1
+3372,464,Neurons6,1
+3373,565,Nr5a1/Nfib,1
+3374,945,Neurons5,1
+3375,1302,Nr5a1/Adcyap1,1
+3376,2390,Neurons4,1
+3377,3030,Qrfp,1
+3378,2240,Neurons3,1
+3379,2178,Htr3b,1
+3380,1947,Neurons2,1
+3381,3075,Th/Lef1,1
+3382,1639,ParsTuber2,1
+3383,3078,Parstuber2B,1
+3384,2413,Sst/Unc13c,1
+3385,1734,ParsTuber1,1
+3386,1353,Parstuber2A,1
+3387,580,Tmem215,1
+3388,2232,Fibroblasts3,1
+3389,3320,Pomc/Glipr1,1
+3390,1052,Fibroblasts2,1
+3391,3025,Kiss1/Tac2,1
+3392,1820,Fibroblasts1,1
+3393,588,Gpr50,1
+3394,3002,a1_tanycytes2,1
+3395,1877,b2_tanycytes2,1
+3396,3263,PVMs,1
+3397,2290,Rgs16/Dlx1,1
+3398,494,Rgs16/Slc17a6,1
+3399,2485,Sst/Pthlh,1
+3400,3118,Granule-mature,1
+3401,2460,Granule-immature,1
+3402,3293,GABAergic,1
+3403,1553,Glutamatergic,1
+3404,873,L5 PT CTX,1
+3405,2123,L5/6 NP CTX,1
+3406,3135,L5 IT CTX,1
+3407,3395,L6 CT CTX,1
+3408,3055,Car3,1
+3409,3039,L6b CTX,1
+3410,2729,L4/5 IT CTX,1
+3411,2557,L6 IT CTX,1
+3412,366,L2/3 IT CTX,1
+3413,2882,Lamp5,1
+3414,2973,Non-Neuronal,1
+3415,3419,Oligo,1
+3416,3219,Neuroblast_2,1
+3417,886,L2/3 IT PPP,1
+3418,2944,Astro,1
+3419,2669,VLMC,1
+3420,3429,Micro-PVM,1
+3421,3203,L5/6 IT TPE-ENT,1
+3422,1870,SMC-Peri,1
+3423,2378,L6b/CT ENT,1
+3424,1825,CT SUB,1
+3425,720,CR,1
+3426,1999,Cck-Tox,1
+3427,1596,Mossy-Adcyap1,1
+3428,480,Meis2,1
+3429,1382,Mossy-Cyp26b1,1
+3430,2360,Mossy-Klk8,1
+3431,2825,GABA-Cnr1,1
+3432,1872,GABA-Lhx6,1
+3433,2594,L4 RSP-ACA,1
+3434,1958,L2 IT ENTl,1
+3435,864,L3 IT ENT,1
+3436,1529,L2/3 IT ENTl,1
+3437,1075,CA3,1
+3438,2654,CA1-ProS,1
+3439,1790,SUB-ProS,1
+3440,387,CA2-IG-FC,1
+3441,1091,DG,1
+3442,1588,L2/3 IT RHP,1
+3443,1656,NP SUB,1
+3444,2353,NP PPP,1
+3445,3441,L5 PPP,1
+3446,2951,L2 IT ENTm,1
+3447,1511,L6 IT ENTl,1
+3448,2893,Radial_Glia-like,1
+3449,1830,OL,1
+3450,1050,PVM,1
+3451,3392,NFOL,1
+3452,1065,Neuroblast_1,1
+3453,2520,nIPC,1
+3454,1453,L2/3 IT,1
+3455,539,Exc L2-3 LINC00507 DSG3,1
+3456,2607,L5 IT,1
+3457,1078,Exc L5 THEMIS SLC22A18,1
+3458,3254,Inh L3-5 VIP TAC3,1
+3459,3442,Exc L3-5 RORB LNX2,1
+3460,530,Astro L1-6 FGFR3 PLCG1,1
+3461,2674,Exc L3 LAMP5 CARM1P1,1
+3462,3214,Inh L3-6 PAX6 LINC01497,1
+3463,2297,Exc L2-3 RORB CCDC68,1
+3464,2282,L5/6 NP,1
+3465,1846,Exc L5-6 FEZF2 IFNG-AS1,1
+3466,2056,Inh L1-5 VIP CD27-AS1,1
+3467,1397,Inh L1-6 LAMP5 AARD,1
+3468,2765,Exc L3-5 RORB RPRM,1
+3469,3260,L6 IT,1
+3470,2725,Exc L6 THEMIS SLN,1
+3471,1580,Inh L2-5 PVALB HHIPL1,1
+3472,915,Exc L6 FEZF2 KLK7,1
+3473,931,Exc L2-3 RORB PTPN3,1
+3474,2014,VLMC L1-5 PDGFRA COLEC12,1
+3475,325,Inh L3-5 SST GGTLC3,1
+3476,2430,Exc L3-5 RORB TNNT2,1
+3477,409,Inh L1-2 SST PRRT4,1
+3478,3069,Inh L1-3 VIP CHRNA2,1
+3479,1409,Inh L1-6 SST NPY,1
+3480,2396,Inh L5-6 PVALB GAPDHP60,1
+3481,702,L6 CT,1
+3482,1902,Exc L5-6 FEZF2 C9orf135-AS1,1
+3483,939,Oligo L2-6 OPALIN FTH1P3,1
+3484,1838,Exc L3-5 RORB LINC01202,1
+3485,536,Exc L2-3 RORB RTKN2,1
+3486,2280,Inh L1-2 VIP HTR3A,1
+3487,1799,Inh L2-5 VIP SOX11,1
+3488,713,L5 ET,1
+3489,1746,Exc L3-5 FEZF2 LINC01107,1
+3490,3121,Inh L5-6 PVALB FAM150B,1
+3491,1591,Inh L1-2 VIP WNT4,1
+3492,959,Inh L5-6 VIP COL4A3,1
+3493,572,Micro L1-6 TYROBP CD74,1
+3494,2346,Exc L6 FEZF2 PROKR2,1
+3495,2086,Exc L6 FEZF2 FFAR4,1
+3496,845,Inh L2-5 VIP BSPRY,1
+3497,2740,Inh L5-6 SST C4orf26,1
+3498,1611,Exc L6 FEZF2 POGK,1
+3499,1407,Inh L5-6 SST FBN2,1
+3500,567,Exc L2 LINC00507 GLRA3,1
+3501,2152,Inh L3-5 PVALB ISG20,1
+3502,3331,Exc L5-6 THEMIS TNFAIP6,1
+3503,1915,Inh L2-5 PVALB RPH3AL,1
+3504,3060,Inh L1-5 VIP SMOC1,1
+3505,467,Exc L6 THEMIS SNTG2,1
+3506,291,Inh L1-2 PVALB CDK20,1
+3507,3251,Exc L5 FEZF2 RNF144A-AS1,1
+3508,1112,OPC L1-6 PDGFRA COL20A1,1
+3509,2483,Exc L5 FEZF2 PKD2L1,1
+3510,2474,Inh L1 PVALB SST ASIC4,1
+3511,1263,Exc L5-6 FEZF2 FILIP1L,1
+3512,1657,Inh L3-5 SST OR5AH1P,1
+3513,2109,Inh L2-3 SST NMU,1
+3514,2412,Exc L5 THEMIS RGPD6,1
+3515,2448,Inh L1-6 LAMP5 NES,1
+3516,2801,Inh L3-6 VIP ZIM2-AS1,1
+3517,3443,Oligo L3-6 OPALIN ENPP6,1
+3518,785,Exc L5 FEZF2 NREP-AS1,1
+3519,3321,Inh L1-3 VIP CBLN1,1
+3520,746,Inh L3-5 VIP IGDCC3,1
+3521,739,Inh L2 VIP SLC6A16,1
+3522,1329,Inh L1-2 SST CCNJL,1
+3523,1744,Inh L5-6 PVALB MEPE,1
+3524,2273,Inh L5-6 PVALB SST CRHR2,1
+3525,1153,Inh L5-6 SST BEAN1,1
+3526,3227,Inh L1-6 PVALB COL15A1,1
+3527,3211,Inh L3-6 VIP UG0898H09,1
+3528,461,L6 IT Car3,1
+3529,1249,Exc L5-6 THEMIS SMYD1,1
+3530,3318,Inh L3-5 SST CDH3,1
+3531,2752,Inh L1 PAX6 CHRFAM7A,1
+3532,2017,Exc L5 FEZF2 CSN1S1,1
+3533,994,Exc L3 THEMIS ENPEP,1
+3534,2528,Exc L5 RORB MED8,1
+3535,1980,Inh L1 SST DEFB108B,1
+3536,2281,Inh L3 PVALB SAMD13,1
+3537,1487,Inh L1 VIP KLHDC8B,1
+3538,3340,Inh L1-3 VIP HSPB6,1
+3539,2915,Inh L1-3 SST FAM20A,1
+3540,286,Exc L5 THEMIS FGF10,1
+3541,1742,Exc L6 THEMIS LINC00343,1
+3542,2070,Inh L5-6 LAMP5 CRABP1,1
+3543,846,Inh L1 LAMP5 RAB11FIP1,1
+3544,3044,Inh L5-6 PVALB ZFPM2-AS1,1
+3545,2568,Exc L2 LAMP5 KCNG3,1
+3546,2978,Inh L5 PVALB LRIG3,1
+3547,2416,Inh L1-2 VIP EXPH5,1
+3548,3292,Exc L5-6 FEZF2 SH2D1B,1
+3549,1456,Inh L1-6 LAMP5 CA1,1
+3550,1576,Exc L3-5 FEZF2 ASGR2,1
+3551,978,Exc L5 THEMIS LINC01116,1
+3552,372,Oligo L2-6 OPALIN MAP6D1,1
+3553,700,Exc L2 LINC00507 ATP7B,1
+3554,2333,Exc L3 RORB OTOGL,1
+3555,937,Inh L1 LAMP5 BMP2,1
+3556,504,Inh L3-5 VIP HS3ST3A1,1
+3557,2844,Exc L3-5 RORB LAMA4,1
+3558,1452,Endo L2-5 NOSTRIN SRGN,1
+3559,619,Inh L1-6 VIP SLC7A6OS,1
+3560,2940,Inh L5-6 SST PIK3CD,1
+3561,1798,Inh L1 SST P4HA3,1
+3562,1851,Exc L6 FEZF2 PDYN,1
+3563,1107,Oligo L5-6 OPALIN LDLRAP1,1
+3564,1457,Inh L5-6 SST ISX,1
+3565,3338,Inh L1-2 VIP SCML4,1
+3566,1460,Inh L5 SST RPL35AP11,1
+3567,1692,Inh L1 PAX6 MIR101-1,1
+3568,1912,Inh L2 PAX6 FREM2,1
+3569,638,Inh L5-6 SST PAWR,1
+3570,379,Exc L5-6 FEZF2 OR1L8,1
+3571,2261,Exc L5-6 FEZF2 CFTR,1
+3572,2531,Inh L1-2 SST CLIC6,1
+3573,2458,Inh L1-5 VIP LINC01013,1
+3574,689,Inh L1 LAMP5 PVRL2,1
+3575,1201,Inh L5-6 PVALB KCNIP2,1
+3576,2539,Inh L1-3 VIP FNDC1,1
+3577,3046,Astro L1-6 FGFR3 AQP1,1
+3578,2130,Inh L1 LAMP5 NMBR,1
+3579,2201,Inh L1-2 VIP PTGER3,1
+3580,2112,Inh L6 SST TH,1
+3581,2937,Exc L5-6 FEZF2 LPO,1
+3582,477,Inh L5-6 SST KLHL1,1
+3583,3270,Exc L5 THEMIS VILL,1
+3584,576,Inh L1-5 VIP PHLDB3,1
+3585,2851,Inh L2 PVALB FRZB,1
+3586,415,Inh L5-6 SST DNAJC14,1
+3587,1379,Astro L1 FGFR3 SERPINI2,1
+3588,2065,VIP,1
+3589,1752,Inh L2-5 VIP TOX2,1
+3590,2882,LAMP5,1
+3591,2381,Inh L1 LAMP5 NDNF,1
+3592,2441,Exc L6 FEZF2 FAM95C,1
+3593,2113,Inh L5-6 LAMP5 SFTA3,1
+3594,1985,PVALB,1
+3595,2727,Inh L6 LHX6 GLP1R,1
+3596,3305,L5/6 IT Car3,1
+3597,2336,Exc L6 THEMIS C6orf48,1
+3598,1434,Exc L5-6 THEMIS GPR21,1
+3599,1271,IT,1
+3600,916,Exc L5-6 THEMIS TMEM233,1
+3601,2973,Non-neuronal,1
+3602,1882,Oligo L4-6 MOBP COL18A1,1
+3603,914,Exc L6 FEZF2 TBC1D26,1
+3604,3123,Exc L5-6 FEZF2 MYBPHL,1
+3605,1960,Exc L5 RORB SNHG7,1
+3606,3469,Exc L4-5 RORB LINC01474,1
+3607,1641,Inh L1-3 VIP GGH,1
+3608,3092,Inh L1-2 PVALB TAC1,1
+3609,1459,Inh L2-6 VIP VIP,1
+3610,2145,Astro L1 FGFR3 FOS,1
+3611,2386,Exc L6 FEZF2 KRT17,1
+3612,1023,Exc L6 FEZF2 TBCC,1
+3613,2332,Exc L5-6 RORB LINC00320,1
+3614,3122,Inh L1 ADARB2 ADAM33,1
+3615,1585,Exc L5 FEZF2 SCN7A,1
+3616,1895,Inh L1-3 PVALB WFDC2,1
+3617,1137,SST,1
+3618,349,Inh L3-5 SST MAFB,1
+3619,1056,Inh L1 SST CXCL14,1
+3620,1347,PAX6,1
+3621,1616,Inh L1-3 PAX6 NABP1,1
+3622,3248,Inh L1 PAX6 CA4,1
+3623,2424,Inh L2-4 SST AHR,1
+3624,1866,Inh L1-3 VIP ACHE,1
+3625,3090,Peri L1-6 MUSTN1,1
+3626,2650,Inh L5-6 SST TH,1
+3627,2222,Inh L1-4 VIP CHRNA2,1
+3628,2244,OPC L1-6 MYT1,1
+3629,1447,Exc L3 LINC00507 CTXN3,1
+3630,862,Inh L1-4 LAMP5 DUSP4,1
+3631,1087,Inh L1-6 VIP RGS16,1
+3632,783,Inh L2-4 PVALB C8orf4,1
+3633,2184,Inh L1-2 VIP RPL41P3,1
+3634,3252,Exc L3-4 RORB SEMA6D,1
+3635,1918,Astro L1-6 FGFR3 ETNPPL,1
+3636,2540,Oligo L4-6 OPALIN,1
+3637,1345,Exc L4-5 RORB HNRNPA1P46,1
+3638,448,Exc L4-5 RORB RPL31P31,1
+3639,2285,Exc L3-5 RORB CMAHP,1
+3640,1424,L4 IT,1
+3641,2041,Exc L2-4 RORB GRIK1,1
+3642,489,Inh L1-3 VIP ZNF322P1,1
+3643,1018,Inh L3-6 PVALB MFI2,1
+3644,3309,Exc L6 FEZF2 SLITRK6,1
+3645,3343,Exc L5 RORB LINC01202,1
+3646,810,Inh L1-6 LAMP5 CA13,1
+3647,1827,Inh L5-6 PVALB STON2,1
+3648,2338,Exc L6 FEZF2 VWA2,1
+3649,877,Exc L5-6 FEZF2 ANKRD20A1,1
+3650,936,Exc L6 THEMIS EGR3,1
+3651,2104,Inh L1-3 VIP CCDC184,1
+3652,2878,Inh L1-5 VIP KCNJ2,1
+3653,2035,Inh L5 PVALB CNTNAP3P2,1
+3654,2071,Endo L2-5 CLDN5,1
+3655,1887,Inh L4-6 SST MTHFD2P6,1
+3656,2648,Exc L4-5 RORB LCN15,1
+3657,328,Micro L1-6 C1QC,1
+3658,1029,Exc L3 RORB CARTPT,1
+3659,2686,Exc L2-3 LINC00507 RPL9P17,1
+3660,1595,Astro L1 FGFR3 MT1G,1
+3661,1640,Inh L1 PAX6 GRIP2,1
+3662,506,Inh L6 LAMP5 ANKRD20A11P,1
+3663,2207,Exc L3-4 RORB FOLH1B,1
+3664,2052,Inh L1 ADARB2 DISP2,1
+3665,2318,Exc L3 THEMIS PLA2G7,1
+3666,851,Inh L1 VIP TNFAIP8L3,1
+3667,1774,Inh L1-2 PAX6 SCGN,1
+3668,1432,Inh L1 VIP PCDH20,1
+3669,2541,Inh L3-4 PVALB HOMER3,1
+3670,1829,Exc L3-5 FEZF2 DCN,1
+3671,311,Exc L3 LINC00507 PSRC1,1
+3672,1240,Inh L3-6 VIP KCTD13,1
+3673,403,Exc L3-5 RORB CD24,1
+3674,2630,Inh L1-6 VIP PENK,1
+3675,879,VLMC L1-3 CYP1B1,1
+3676,2929,Inh L1-3 VIP SSTR1,1
+3677,1332,Inh L3 VIP CBLN1,1
+3678,1650,Inh L5-6 SST ISOC1,1
+3679,1729,Inh L2-4 VIP LGI2,1
+3680,2094,Inh L2-4 VIP DSEL,1
+3681,482,Inh L1-6 PVALB SCUBE3,1
+3682,1502,Exc L5-6 THEMIS THTPA,1
+3683,1192,Exc L4 RORB CCDC168,1
+3684,1927,Exc L3-4 RORB PRSS12,1
+3685,2044,Inh L6 LAMP5 C1QL2,1
+3686,3020,Exc L5-6 THEMIS IL7R,1
+3687,2649,Exc L6 FEZF2 ETV4,1
+3688,1348,Exc L4-6 RORB HPCA,1
+3689,553,Exc L5-6 FEZF2 RSAD2,1
+3690,870,Exc L6 FEZF2 CPZ,1
+3691,1619,Inh L1 LAMP5 GGT8P,1
+3692,3233,Inh L4-5 PVALB TRIM67,1
+3693,297,Exc L5-6 FEZF2 CABP7,1
+3694,2811,Inh L1 VIP PRSS8,1
+3695,2414,Inh L1 VIP SOX11,1
+3696,2475,Exc L4 RORB BHLHE22,1
+3697,1739,Inh L1-2 VIP PPAPDC1A,1
+3698,1594,Exc L5-6 THEMIS OR1J1,1
+3699,1628,Inh L5-6 SST KLHL14,1
+3700,1561,Exc L3-5 RORB HSPB3,1
+3701,2368,Exc L6 FEZF2 P4HA3,1
+3702,722,Exc L3-4 RORB RPS3P6,1
+3703,2319,Exc L3-5 LINC00507 SLN,1
+3704,1549,Inh L6 SST NPY,1
+3705,903,Exc L5 FEZF2 DYRK2,1
+3706,2026,Exc L3-5 THEMIS ELOF1,1
+3707,3054,Exc L3-5 FEZF2 ONECUT1,1
+3708,1294,Inh L1-6 VIP RCN1,1
+3709,2136,Exc L5-6 FEZF2 CYP26B1,1
+3710,1279,Exc L5 FEZF2 MORN2,1
+3711,3243,Exc L3-5 THEMIS UBE2F,1
+3712,1475,Exc L4 RORB CACNG5,1
+3713,394,Exc L4-5 RORB ASCL1,1
+3714,551,Exc L4-5 RORB AIM2,1
