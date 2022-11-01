@@ -148,6 +148,17 @@ celltype_check.py 生成annotation_au和annotation_db-SCEA的celltype和celltype
 | cellbin | 根据图像轮廓进行细胞的区分                      | 图像信息层面上定义   |
 | bin50   | 在坐标轴上根据50*50的正方向，然后对细胞进行划分 | x，y坐标轴上进行区分 |
 
+##### 6.服务器上传json文件：
+
+```
+1.logout
+2.sshST
+3.Caolei0101
+4.nohup 
+5.cat rsync_caol.sh
+6.nohup rsync  -avz --port 9001 --password-file=/jdfssz2/ST_BIOINTEL/P20Z10200N0039/06.groups/05.Database/caolei2/rsyncd.passwd /jdfssz2/ST_BIOINTEL/P20Z10200N0039/06.groups/05.Database/caolei2/dataset_Json_11.1/* root@10.50.64.99::sap/stomics/PM/stereominer/dataset_Json > nohup_rsyncaol.log >& 1&
+```
+
 ## 年底目标
 
 ```
