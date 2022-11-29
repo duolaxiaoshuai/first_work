@@ -26,6 +26,12 @@ htop 查看有多少个核数
 taskset -c 4,5 nohup python -u run_scanorama.py > scanorama.log 2>& 1&
 ```
 
+##### 4.curl下载https，htp链接文件：
+
+```
+adb  ='curl https://tedd.obg.cuhk.edu.hk/data/demo/single-celltestv3.26/Single-cell_atlas/Tedd.1/counts.csv.gz --output ./{}'
+```
+
 
 
 ## Tips for using Python at work
@@ -151,12 +157,13 @@ celltype_check.py 生成annotation_au和annotation_db-SCEA的celltype和celltype
 ##### 6.服务器上传json文件：
 
 ```
+曹磊的环境：sshP  sc1.9
 1.logout
 2.sshST
 3.Caolei0101
 4.nohup
 5.cat rsync_caol.sh
-6.nohup rsync  -avz --port 9001 --password-file=/jdfssz2/ST_BIOINTEL/P20Z10200N0039/06.groups/05.Database/caolei2/rsyncd.passwd /jdfssz2/ST_BIOINTEL/P20Z10200N0039/06.groups/05.Database/caolei2/dataset_Json_11.1/* root@10.50.64.99::sap/stomics/PM/stereominer/dataset_Json > nohup_rsyncaol.log >& 1&
+6.nohup rsync  -avz --port 9001 --password-file=/jdfssz2/ST_BIOINTEL/P20Z10200N0039/06.groups/05.Database/caolei2/rsyncd.passwd /jdfssz2/ST_BIOINTEL/P20Z10200N0039/06.groups/05.Database/caolei2/dataset_Json_11.25/* root@10.50.64.99::sap/stomics/PM/stereominer/dataset_Json > nohup_rsyncaol.log >& 1&
 ```
 
 ## 年底目标
