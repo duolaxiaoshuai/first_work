@@ -1,4 +1,0 @@
-pandas
-openpyxl
-more_itertools
-python-dateutil
