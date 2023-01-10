@@ -50,6 +50,13 @@ df_2=pd.DataFrame()
 (参考：https://stackoverflow.com/questions/39100971/how-do-i-release-memory-used-by-a-pandas-dataframe)
 ```
 
+##### 6.MySQL转储csv文件出现乱码问题：
+
+```
+1. 鼠标右键csv文件，选择打开方式为记事本；
+2. 进行“另存为”操作，选择编码方式，讲UTF-8改成 ANSI，从新保存；
+```
+
 ### Problems encountered in using Web Crawler at work
 
 ##### 1.进行selenium操作时，每次都会提示让登录Google账号，导致批量爬虫任务无法实现：
